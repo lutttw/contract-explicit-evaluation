@@ -1,0 +1,3986 @@
+[
+ {
+  "doc_idx": 0,
+  "doc_id": "fc43bac90b8e713026de739c70757df551e61f2900dc0c97dbe906aa2bf75b85",
+  "title": "Willi Schneider (skeleton racer)",
+  "n_common_entities": 29,
+  "n_candidates": 812,
+  "text_hash": "b45808fa1d7e744e729d9ff95025fdec698226728c3e615e8bd9adfe5e0b2442"
+ },
+ {
+  "doc_idx": 1,
+  "doc_id": "51d5d197e657a5e64261652a679201b510c601f490af6b1726c39f4ac42476b9",
+  "title": "Ross Alger",
+  "n_common_entities": 27,
+  "n_candidates": 702,
+  "text_hash": "0af5ed815420b5d1515414b0256ea4ebf4bfd0454af1cd7a50e59912d420d9a6"
+ },
+ {
+  "doc_idx": 2,
+  "doc_id": "2becd102037d20f2b38b3e4c32e3b87bde71b41845aab5c89b57cbd579959507",
+  "title": "Mess of Blues (Jeff Healey album)",
+  "n_common_entities": 20,
+  "n_candidates": 380,
+  "text_hash": "f28b88f8e84339bcb9d9cc6119d5ff2c28c66023bf6969e9df83e4f9e53a49ca"
+ },
+ {
+  "doc_idx": 3,
+  "doc_id": "59e78e0361825fd3a885bd35dafeac6c1a0bcb8b9d79855e50d7e081f0e3fb1a",
+  "title": "Ramey Idriss",
+  "n_common_entities": 25,
+  "n_candidates": 600,
+  "text_hash": "458858aaf74703d3d558a41a7694c611b8a3a96a9f6ee710548e113043a47cf7"
+ },
+ {
+  "doc_idx": 4,
+  "doc_id": "2d19432d35b205f332a33fc22ee88523fcdf718c396f9ca3cfcc54ababe99f90",
+  "title": "ELAM (Latin American School of Medicine) Cuba",
+  "n_common_entities": 26,
+  "n_candidates": 650,
+  "text_hash": "26a03d41cc9a17bc0334ff3219e781295c6c07d2277181b3b59a6be0d3dfae6b"
+ },
+ {
+  "doc_idx": 5,
+  "doc_id": "b1a4aeccbb5b8143f613aaa9de7da535858ac014efd699c1c8711e44cc9ef9b8",
+  "title": "Song of Freedom",
+  "n_common_entities": 18,
+  "n_candidates": 306,
+  "text_hash": "c8afb8a3a05eb9b12fb2903f882642a7f972a21a208c84db354a0e9fee9213c1"
+ },
+ {
+  "doc_idx": 6,
+  "doc_id": "c11b6517d6a6e447b9c8036bf6682a9fa6fc3cb803f709ff20d67052acc98bde",
+  "title": "Soccer Academy",
+  "n_common_entities": 11,
+  "n_candidates": 110,
+  "text_hash": "9063ba3af481324c5dfb04e118a2bd09bc102adf20d59d1b912421131adb444b"
+ },
+ {
+  "doc_idx": 7,
+  "doc_id": "017c88b69e0421461ce73f8f30e83d21d4da0bf3702700f37d1b7962c3e7de16",
+  "title": "ROKETSAN",
+  "n_common_entities": 23,
+  "n_candidates": 506,
+  "text_hash": "2e999737e2ab282ff0603f408f6b24f12ed20f038a4004dc2fa4e64ba0971bc3"
+ },
+ {
+  "doc_idx": 8,
+  "doc_id": "26883e98b001ae38547b91c078ab2a8c02a38a7d443f36a9282e0a208170289f",
+  "title": "The Sacramento Bee",
+  "n_common_entities": 19,
+  "n_candidates": 342,
+  "text_hash": "cbd49fc3fb1f1fa6e327013cea46adf8c10b34bf30ede8719124e65be608b279"
+ },
+ {
+  "doc_idx": 9,
+  "doc_id": "bb18275fae212aee0117a2875a3bd59181d358f5ae7690a6155311e1d30e472b",
+  "title": "Cambodia–Vietnam Friendship Monument",
+  "n_common_entities": 14,
+  "n_candidates": 182,
+  "text_hash": "0b34371c0d99dffb23ebc79168ba9bf34af2c2845b571ce2a65d2c467127f8d9"
+ },
+ {
+  "doc_idx": 10,
+  "doc_id": "486a35f238df8efe10571511eca31c2dfab5e9154ff9d38925b7f3c43a0d918d",
+  "title": "Paul Desmarais Jr.",
+  "n_common_entities": 26,
+  "n_candidates": 650,
+  "text_hash": "5cbef794c09378a86fcaf23cc011b975b6fbaee2867b15814e491b36013a8fb3"
+ },
+ {
+  "doc_idx": 11,
+  "doc_id": "fb50dd6a1e0719c80a3b6ed09ac9aae6dd3744f9f7c98bb85a82447a9d13c819",
+  "title": "Mola di Bari",
+  "n_common_entities": 17,
+  "n_candidates": 272,
+  "text_hash": "748b536772ccc71cedd1aefd02b0aed537a95bb8be562e29697debdead9c313e"
+ },
+ {
+  "doc_idx": 12,
+  "doc_id": "42a307bc8be727933d62302071a8cf1a77efe55723109dba838e883af7f74e21",
+  "title": "Westmere, New York",
+  "n_common_entities": 13,
+  "n_candidates": 156,
+  "text_hash": "ad0ebd733b9b8d5fc6e54a555fb7b39913bb51bd91101396cb792ac92b5aea32"
+ },
+ {
+  "doc_idx": 13,
+  "doc_id": "fd4afe5ef625620261ed1fc6f38a45393d54cc5c523b7340815967027099c952",
+  "title": "Edward Rowan Finnegan",
+  "n_common_entities": 23,
+  "n_candidates": 506,
+  "text_hash": "4830cd9fd6d518ccd8db9dbe35a56d0ba2e578f34993bf222faf6846e548e68b"
+ },
+ {
+  "doc_idx": 14,
+  "doc_id": "4f11bd397c2f2de0aa111e7755f2e35bb86f39b300d0f59b0a42395f301cb303",
+  "title": "Foix (river)",
+  "n_common_entities": 17,
+  "n_candidates": 272,
+  "text_hash": "982c14a4de489f172819f7181323a48e1fcfdd750752551187c597d647cdfd79"
+ },
+ {
+  "doc_idx": 15,
+  "doc_id": "e9aa5d4039836ad9228ab51b41bab9a60908ff35c259b931c761e61035eda08b",
+  "title": "Eivind Bolle",
+  "n_common_entities": 26,
+  "n_candidates": 650,
+  "text_hash": "aef73bcabe2c3bf57dba3204360e9ca02d8931e7467c2858066f0041f70d4c36"
+ },
+ {
+  "doc_idx": 16,
+  "doc_id": "637ed9ee75519fe7bc77d138a92ba4c841373d11cb7f08f7cc7cf2fa4114c586",
+  "title": "Henrik Angell",
+  "n_common_entities": 32,
+  "n_candidates": 992,
+  "text_hash": "da88051229a7afad0133c1e3ef05badf963060d0bfe820baa61153d138f26fab"
+ },
+ {
+  "doc_idx": 17,
+  "doc_id": "1ca63a79bb2e812f09b44c059637b7416cb62810b983d5ea4b349ac73ecced39",
+  "title": "Carey Business School",
+  "n_common_entities": 16,
+  "n_candidates": 240,
+  "text_hash": "6847f136b44ec9f7c95edf5d35fbda8e05e448bb1b6c57f070c8ca74275210b0"
+ },
+ {
+  "doc_idx": 18,
+  "doc_id": "1c209219eed24cbef68356f213f9191bfba9a93aa203b7a31c8faf538490ee0f",
+  "title": "Lehmann Bernheimer",
+  "n_common_entities": 23,
+  "n_candidates": 506,
+  "text_hash": "c3d72958e26f3fb160bac3a49fb871f0e2674f039a7aadf25341f366a396caf4"
+ },
+ {
+  "doc_idx": 19,
+  "doc_id": "46f507b9491283050113a9e053b71bb6a0c911e51f0190f5e44e465e21e5d652",
+  "title": "Railroad Revival Tour",
+  "n_common_entities": 29,
+  "n_candidates": 812,
+  "text_hash": "e7f0c766b751c4763ef2e939d8c42b1208033d1806343b45dcd6fbecdaa5207a"
+ },
+ {
+  "doc_idx": 20,
+  "doc_id": "b6d2409dcfd606af7d34c5ba528c53999084f0508081b3db687db623ff81a982",
+  "title": "Australia–Chile Free Trade Agreement",
+  "n_common_entities": 26,
+  "n_candidates": 650,
+  "text_hash": "d2ac60f00c71b402c0a0fa63d05f0f9aae3fe13f1774030de7bf4b0d500f96ee"
+ },
+ {
+  "doc_idx": 21,
+  "doc_id": "91a60efca1ba7c85e613c6bafca9d75208c6953652d048602734d39c7cffd41a",
+  "title": "South Gondar Zone",
+  "n_common_entities": 20,
+  "n_candidates": 380,
+  "text_hash": "7b54e9bb84c424a5b4fb227d4a000cb45ca7dc9e1c9aa0f662961d3d19c882f6"
+ },
+ {
+  "doc_idx": 22,
+  "doc_id": "2b117a913e6ac42f65657dc54a6474b47b398a19a3a2bdbfa84dfb93238ec427",
+  "title": "Morogoro Region",
+  "n_common_entities": 18,
+  "n_candidates": 306,
+  "text_hash": "26696f6485e8d18f6170336abbb17b3752809f80491669796291dbb4d05a8c5c"
+ },
+ {
+  "doc_idx": 23,
+  "doc_id": "457c64ed42a670c0870184a347c266bf961b086ebb45f8809df7783e1d706faa",
+  "title": "Manon Balletti",
+  "n_common_entities": 19,
+  "n_candidates": 342,
+  "text_hash": "32e02f21811820103b8c98fe227ac58832e0e1f37c6d2048eb49246bef007912"
+ },
+ {
+  "doc_idx": 24,
+  "doc_id": "b2fc11347613a9917c6e8a9d4f3e8716332296797ba63a88e4ffff6396b20556",
+  "title": "Pittsburgh Catholic",
+  "n_common_entities": 15,
+  "n_candidates": 210,
+  "text_hash": "3bfa3d1b8b9f8820f913889f5ba7147cc2142553b49099f9138d5727e93c0743"
+ },
+ {
+  "doc_idx": 25,
+  "doc_id": "14bac9aaff3128bfc2985016fba6504f27935e596daaa2447cf3c04a9c6e2231",
+  "title": "Toufique Imrose Khalidi",
+  "n_common_entities": 15,
+  "n_candidates": 210,
+  "text_hash": "e290dab03b4356f5f221e82272b5e858f29107f17ae400de50bdd4440aadf9b8"
+ },
+ {
+  "doc_idx": 26,
+  "doc_id": "96998c736655a54fbb6454e781c87f52d6fabed0268db8165280917001e0578b",
+  "title": "Mark McNamara",
+  "n_common_entities": 25,
+  "n_candidates": 600,
+  "text_hash": "bf1d25c1ef3e2d579920d241ce11dd3cad51fef6c138f946f0d7e2b6f08c8598"
+ },
+ {
+  "doc_idx": 27,
+  "doc_id": "b80c991aefd5f47fd4e412d16de0dfb8c5204f08f8470cc9277d74793998daaa",
+  "title": "Nexus Q",
+  "n_common_entities": 22,
+  "n_candidates": 462,
+  "text_hash": "548e6ba78dbba4850d0681a6d905fb7ee4aba506b598b298aba983149ae23230"
+ },
+ {
+  "doc_idx": 28,
+  "doc_id": "90475403588ec8d3cf88610ff45029cef0c65e466069be4afd0c2b8187cce73b",
+  "title": "Cranks and Shadows",
+  "n_common_entities": 15,
+  "n_candidates": 210,
+  "text_hash": "cdf50a21d8f82574b0a864419c6ac47036091ecadae8191a2fa587fa757af143"
+ },
+ {
+  "doc_idx": 29,
+  "doc_id": "ffcbfbaac170b09dc0fda4af320f15e1af5f8aca20fbd7a36bec7e4d4844a6be",
+  "title": "The Christian Manifesto",
+  "n_common_entities": 18,
+  "n_candidates": 306,
+  "text_hash": "a3855969312a615e27511a1f545e7702a1ed760d48ed3222118156f03b0b3d56"
+ },
+ {
+  "doc_idx": 30,
+  "doc_id": "c72a507567fb01bee87d9370efc605c0b3cddb942e08e69b6a8f8834ec5c37df",
+  "title": "Joseph in Islam",
+  "n_common_entities": 22,
+  "n_candidates": 462,
+  "text_hash": "748ea3248ff3c504fac27df14bba5950fc1d36b84ed70d86fea7b2a6526b75bb"
+ },
+ {
+  "doc_idx": 31,
+  "doc_id": "610e386ad9143c51be65e5e0c889c728f68f864e7de7af61b993399d7eba903c",
+  "title": "List of Prime Ministers of Thailand",
+  "n_common_entities": 14,
+  "n_candidates": 182,
+  "text_hash": "b28164295a7f4e32635c23810694bff804c0af2f196f3b49f44a4d2bf23bc6df"
+ },
+ {
+  "doc_idx": 32,
+  "doc_id": "be6138873fb3e5a0007aabdf0c3ec1766b9c1c065d53f72e01d23b689a2e6342",
+  "title": "Rogaland County Municipality",
+  "n_common_entities": 14,
+  "n_candidates": 182,
+  "text_hash": "89e6d6a947c0d5350eeb61e9b439f193f344e353ef33acfa959dddc7c536d025"
+ },
+ {
+  "doc_idx": 33,
+  "doc_id": "02963b136e206defbe20ed4a3f52bbf978e9026db3b7bf14575f94197dfc6bfa",
+  "title": "Kyoto Imperial Palace",
+  "n_common_entities": 15,
+  "n_candidates": 210,
+  "text_hash": "4b21d846621b8eb5017a4ce4efa9c054ba82c4855b154ea5c8d6c96dfc2349cf"
+ },
+ {
+  "doc_idx": 34,
+  "doc_id": "bdc0f409c0e4a48c1715489be47db8d23f53399cb03d98a54e3f027bdb34797c",
+  "title": "The Yorkshire Post",
+  "n_common_entities": 18,
+  "n_candidates": 306,
+  "text_hash": "b4085b7e0050fa28ec9950a62836b1b67cd78eac3a27f4af884efc4a525311ce"
+ },
+ {
+  "doc_idx": 35,
+  "doc_id": "08701cc3cdf0b09e0e187634b4e4ef5f579b79615b4d1a28b5680237afe1069c",
+  "title": "Won-yong",
+  "n_common_entities": 16,
+  "n_candidates": 240,
+  "text_hash": "03c34f991cff00a7dbfaa0933abe4f4c8de29e549c5bb5069ed90927dde557e0"
+ },
+ {
+  "doc_idx": 36,
+  "doc_id": "ad83ce343fb13845527b07107d498e6be8fb8c14d2c59c05da1de773dba3a6c2",
+  "title": "Ramada (shelter)",
+  "n_common_entities": 5,
+  "n_candidates": 20,
+  "text_hash": "c12f335549d6620151eb3d7ede1c7b64a2eb5bbc28910576d86c6baa9b7b0a05"
+ },
+ {
+  "doc_idx": 37,
+  "doc_id": "266d1902b63b67ff3376ee16d66e708022631b953752080b0a12389252ceb9db",
+  "title": "Björn von der Esch",
+  "n_common_entities": 25,
+  "n_candidates": 600,
+  "text_hash": "493341d973973ae56453d55e13c67f5d5f2292a5fca661ecc8b7b9d09f42fa77"
+ },
+ {
+  "doc_idx": 38,
+  "doc_id": "bb1eab30102d518200fa96398d09c58994ae4003c9ec28f60130b37691886413",
+  "title": "Fyllingen Fotball",
+  "n_common_entities": 26,
+  "n_candidates": 650,
+  "text_hash": "609db8fabeaee7f63016e0ffaa86598d59fc1183322403c6562e269a04fb9ce0"
+ },
+ {
+  "doc_idx": 39,
+  "doc_id": "e4c9dd474dd5b65b3e89810e88e0442c3d75ba0448728bf21fabd45770b4af4d",
+  "title": "Martin Ulrich",
+  "n_common_entities": 22,
+  "n_candidates": 462,
+  "text_hash": "d0f879f48cd7d81db7f4dee21b3913ca8fdda489d9073e722258fc5ae346d01e"
+ },
+ {
+  "doc_idx": 40,
+  "doc_id": "5cff58a4820a1fe3d09def023d724eca2d6492aba052016fe9560ae6bf3630f8",
+  "title": "Two Doors Down",
+  "n_common_entities": 14,
+  "n_candidates": 182,
+  "text_hash": "d02fc40b5c8677a37edea12636e4357e3f9134c8cdf51bcfcb7f18596d21e149"
+ },
+ {
+  "doc_idx": 41,
+  "doc_id": "db0a3317e0e5ea9fce7632bc4a0493787e128f0aa13ae52e36a7cdd453e4cb68",
+  "title": "Think Bike",
+  "n_common_entities": 19,
+  "n_candidates": 342,
+  "text_hash": "306b68edcb2ca0713e9212d4ef729e8ad0c4682389ae19810c246f063505b3c1"
+ },
+ {
+  "doc_idx": 42,
+  "doc_id": "5e2eef6e5aee0ffdf04fda2f75d166b7bb5c648f015d0889749b058b73233e76",
+  "title": "United States Naval Forces Germany",
+  "n_common_entities": 27,
+  "n_candidates": 702,
+  "text_hash": "baa7eb4fbb659eb4060d48b175166ef4231dba37f0f77adda523de01059e4aba"
+ },
+ {
+  "doc_idx": 43,
+  "doc_id": "53824fbcc519b806d20d2e2cc8540714cd1d95d39569188618d70671632eb57c",
+  "title": "Cry for Help",
+  "n_common_entities": 23,
+  "n_candidates": 506,
+  "text_hash": "941b0bb399051e9ca631940b17368d8f0c802ca27e6d5345230afb2de3d89e60"
+ },
+ {
+  "doc_idx": 44,
+  "doc_id": "adeb9549d44d1e6b4ddb4f3d48613b9cd52d5ffcacfd8a3bf4fd2c3c04e6824d",
+  "title": "Surreal (song)",
+  "n_common_entities": 17,
+  "n_candidates": 272,
+  "text_hash": "c779c6bb293d89d2d462e721882b063d0eb2cc45a58c13550f1e03f455290a93"
+ },
+ {
+  "doc_idx": 45,
+  "doc_id": "3a6fe1723a0b1f9d39d00dc4be376ffa26b4c8c1b15ac8d65c0863433adbcee9",
+  "title": "Between Five and Seven",
+  "n_common_entities": 26,
+  "n_candidates": 650,
+  "text_hash": "4d755986cfd461b8508c60337800756993447c713c5b56b21bb7916f70ceaf8b"
+ },
+ {
+  "doc_idx": 46,
+  "doc_id": "b2c4ff20a2fb28a260ab3099fa25e4d05b1990a0b265d83c15c8d3d7e2968fa4",
+  "title": "List of Square Enix video games",
+  "n_common_entities": 21,
+  "n_candidates": 420,
+  "text_hash": "b079de0d3ca4fe7f543b3330922e17de951252b1a880e5ef6fb1a3052a344124"
+ },
+ {
+  "doc_idx": 47,
+  "doc_id": "da76d1b310bd4fd2b3fe20a41e3dac73ebeef548b6c449c17bd843a51d512d33",
+  "title": "Velocifero",
+  "n_common_entities": 26,
+  "n_candidates": 650,
+  "text_hash": "c305afdfe656428f6a7e43e975a7fd370f55303bbe051c71bb45f6bd1825ad4e"
+ },
+ {
+  "doc_idx": 48,
+  "doc_id": "0dc6146f7a264066a660414a16c9e912a3bb79f5e34d64e7445be913447f7f23",
+  "title": "Zakhary Lyapunov",
+  "n_common_entities": 20,
+  "n_candidates": 380,
+  "text_hash": "c35a178751ccd08c114ea67c3343c29781efe954106b34d31f901ab10876a607"
+ },
+ {
+  "doc_idx": 49,
+  "doc_id": "e45d6b4c808edb2f97773edc3f5fcd645c0db2aef64ef97627f30bec6a646e0b",
+  "title": "Kriegers Flak",
+  "n_common_entities": 18,
+  "n_candidates": 306,
+  "text_hash": "ebbe70be7bddde9f305907ded57e67e5297f48e495f3f80fb382f9f52b820021"
+ },
+ {
+  "doc_idx": 50,
+  "doc_id": "028403feca9706ac4eb375f6c25db4cbcb2dd0ae7788241a4d1054d0cdb52d43",
+  "title": "Enasa",
+  "n_common_entities": 14,
+  "n_candidates": 182,
+  "text_hash": "6df01188c3470816a5c84c32c7eb86a62227c0632fe28d6d2c40e40d2ed3bbe2"
+ },
+ {
+  "doc_idx": 51,
+  "doc_id": "0c3c6e92b21a3b903f8539024c616e5bc72c6cb3716d2e9ff33c51853eb1069a",
+  "title": "Christian worship",
+  "n_common_entities": 19,
+  "n_candidates": 342,
+  "text_hash": "216012d71470a9b3cce3d2fa0ebc614b76dd1bef70d6189fc450a1ab301fac86"
+ },
+ {
+  "doc_idx": 52,
+  "doc_id": "bfeb5b651b1d4161f13a78aae74af3359b8172005ece57051fffdf32ea757700",
+  "title": "Johan Gottlieb Gahn",
+  "n_common_entities": 22,
+  "n_candidates": 462,
+  "text_hash": "a993cce293f382ee4533fda0c2699083231923cd9861fbd7ab5e556475624699"
+ },
+ {
+  "doc_idx": 53,
+  "doc_id": "3681ad849d41ffd76671a974aef3597d9a30836e659edebf7d61ef43a0458c04",
+  "title": "Bohumín",
+  "n_common_entities": 14,
+  "n_candidates": 182,
+  "text_hash": "733756564e33029cf92896618b401821349dc2b273bd1f9557f830df1b782a60"
+ },
+ {
+  "doc_idx": 54,
+  "doc_id": "7173d70e2165030035adc718ee5661a8d6ae34264d310b272ef2b7a1f2682143",
+  "title": "Leonessa",
+  "n_common_entities": 22,
+  "n_candidates": 462,
+  "text_hash": "bde97115e6438201d5118e4c9c1de14f1a6f2d8f1f8a2ffd20e492c28a6138d2"
+ },
+ {
+  "doc_idx": 55,
+  "doc_id": "5c78c7029de1194e015d1e8c5160983bdbe603b24086fc57090e293fd268fe85",
+  "title": "Philippine Commission",
+  "n_common_entities": 18,
+  "n_candidates": 306,
+  "text_hash": "12310359ed63abd94c07dd4e36c91838a0ddeb3cdf3952bffa2a45ef5f657dac"
+ },
+ {
+  "doc_idx": 56,
+  "doc_id": "dc5b4da52cc9e4132ce5672fa25e093d86ddc47f0cf48de57dcded6ea6d04206",
+  "title": "Chopin and his Europe",
+  "n_common_entities": 28,
+  "n_candidates": 756,
+  "text_hash": "61ffb66166b08ef25ee722df7726fa8eb22e4335b97a6e2b7362edac01a9c87d"
+ },
+ {
+  "doc_idx": 57,
+  "doc_id": "e3acea64211c5a73f650d597c0072d3e24af13648bfce21a3a80f3560057eead",
+  "title": "Gujranwala",
+  "n_common_entities": 18,
+  "n_candidates": 306,
+  "text_hash": "552cb04101f6b3006a1283da55620faf02f386d41a514429f14d99a734a79c34"
+ },
+ {
+  "doc_idx": 58,
+  "doc_id": "0262dfb39860e6cc500a23d8b98d62b55a6eedbf29efc713e115becbac47b9de",
+  "title": "Beibu Gulf Economic Rim",
+  "n_common_entities": 12,
+  "n_candidates": 132,
+  "text_hash": "665b3d4cd7f8250b3ac671c87e4717735100e64e91c74bff03353b74e373d81c"
+ },
+ {
+  "doc_idx": 59,
+  "doc_id": "74dd2c996c96d3f1ac8ab4cc485a0d0bbef13f39def7ec23332956e2cee48305",
+  "title": "Luis Roche",
+  "n_common_entities": 20,
+  "n_candidates": 380,
+  "text_hash": "7fa78f3c039d46620f8431b9f1ed897043259a9857e2cc474af4b7cdff6dd9b1"
+ },
+ {
+  "doc_idx": 60,
+  "doc_id": "967ae829e4bbf31fde337cfa55f33bb4deb9b18f91a91ff028f2a8b3932dd7af",
+  "title": "Nikos Aliagas",
+  "n_common_entities": 24,
+  "n_candidates": 552,
+  "text_hash": "0521177790edae1bdf4a79c2b7bd6fb7bbe598772614412f784a50ee0f8ac478"
+ },
+ {
+  "doc_idx": 61,
+  "doc_id": "45fd3f40058744cc1339d5f3b714997639ced408141612b32863bd6c1c9cdff0",
+  "title": "List of Property Brothers episodes",
+  "n_common_entities": 15,
+  "n_candidates": 210,
+  "text_hash": "df1f331aca8f46d08a3edf902428a66c7c1c0ac1a8159b3119a462f349666cb8"
+ },
+ {
+  "doc_idx": 62,
+  "doc_id": "dd44f9b5504a49eae2c47f9fb9e113a3659ccca47d8c115616f39be75724e188",
+  "title": "Anatoly Chubais",
+  "n_common_entities": 18,
+  "n_candidates": 306,
+  "text_hash": "a94cad579b902d63c9e8e905779d5ece2acaad5f771a76c20855c72cf850f7f9"
+ },
+ {
+  "doc_idx": 63,
+  "doc_id": "86fb9b19dcf5e2ba782d6ae562ebd43f8215e999380b233a4513b140ad67e060",
+  "title": "Navy, Army and Air Force Institutes",
+  "n_common_entities": 13,
+  "n_candidates": 156,
+  "text_hash": "2c8c6c4b9326166eea9d9019ca7551dec72b9db74c573e0246f34d76401f0cb6"
+ },
+ {
+  "doc_idx": 64,
+  "doc_id": "8ce14d12a97b5a1e88b8babb42e45cc879923f2ceb2770d14e7264cf76406279",
+  "title": "Jefferson Madeira",
+  "n_common_entities": 24,
+  "n_candidates": 552,
+  "text_hash": "a0e1464ecbc5ab2d7611f1c6cfc63753b72d564e6f006dbf07d0a17115c927f8"
+ },
+ {
+  "doc_idx": 65,
+  "doc_id": "7f655bc031b778f06d36b131a0860133303cbdf4db5302fe05c5faf8e1b0efbb",
+  "title": "Aspren",
+  "n_common_entities": 21,
+  "n_candidates": 420,
+  "text_hash": "9d276945c0ea704d787aa6d64dd488b586cb883fb6c9eefe3ce2f5f47d905722"
+ },
+ {
+  "doc_idx": 66,
+  "doc_id": "c10177382a7da8eb5054ee8e4de08fea2b89834974b15211e737891bbf35f112",
+  "title": "Jimmy Frise",
+  "n_common_entities": 24,
+  "n_candidates": 552,
+  "text_hash": "a6ebc741a16f4115f6eaa19c7a1b9bfedea5be8700743d378b3e68d10db2f222"
+ },
+ {
+  "doc_idx": 67,
+  "doc_id": "ad4edb293c989943085cfaa834bf89a0de307d0a44bbc5f789093fa07d244fef",
+  "title": "Vineeth Sreenivasan",
+  "n_common_entities": 25,
+  "n_candidates": 600,
+  "text_hash": "c4d03f9bf5861ed3207430cc12017b9161451d9fcb3324a4641afe5c10af2d1c"
+ },
+ {
+  "doc_idx": 68,
+  "doc_id": "80e64b68c0fe7203f615ad5c1a1ba7355d544b1419df1f31969ec402a84b536f",
+  "title": "Zabiele, Warmian-Masurian Voivodeship",
+  "n_common_entities": 22,
+  "n_candidates": 462,
+  "text_hash": "6234a93f2cadf188ea5c2a86252f853445614196e284bbb03896d11f9166a1c1"
+ },
+ {
+  "doc_idx": 69,
+  "doc_id": "be98a94b0d7cf8fbd721f292bcfb84186d49134c31634b3590e2e9069883941c",
+  "title": "Clark Lake (Gogebic County, Michigan)",
+  "n_common_entities": 11,
+  "n_candidates": 110,
+  "text_hash": "a16a571bc9266e270568eecf7db8c5a59d14a9f3a79495678928dc8010fe562f"
+ },
+ {
+  "doc_idx": 70,
+  "doc_id": "e84bfecfb34e812e472ebc148ef0516f55805458d474195b59573a4cef4eefd1",
+  "title": "O'Shaughnessy Dam (Ohio)",
+  "n_common_entities": 13,
+  "n_candidates": 156,
+  "text_hash": "a4779d766ce603f489ef51dcb5263ae43bfd341d14bac4b1025dc535ad1188df"
+ },
+ {
+  "doc_idx": 71,
+  "doc_id": "570e1c5152ba8b0b552e0600b938bd384294b8b2f3d568b9cd621b1c1fa75381",
+  "title": "Vase de Noces",
+  "n_common_entities": 14,
+  "n_candidates": 182,
+  "text_hash": "dbf464600359440fda93c1a9d25b69b8c4a48cf3eee56a5354aabf45d533d2d1"
+ },
+ {
+  "doc_idx": 72,
+  "doc_id": "c7892c8423c2cced53f1103e80d23b7132881018366b37dc3569d90015e7c2a7",
+  "title": "War of the Quadruple Alliance",
+  "n_common_entities": 19,
+  "n_candidates": 342,
+  "text_hash": "d6f822d26ecc4e827517b8c7f5457d45dc8753cca47a8fccc949155cf25ea7b5"
+ },
+ {
+  "doc_idx": 73,
+  "doc_id": "d05923dc55efa91fad0a37cf06cfe54706bb174f1e957889ff8bda16a07cd0f3",
+  "title": "Can't Take My Eyes Off You",
+  "n_common_entities": 15,
+  "n_candidates": 210,
+  "text_hash": "39f7280fe8679bd3e7fb88d06d396f874a82e5c000bb4e7a13d54d9a131a1b50"
+ },
+ {
+  "doc_idx": 74,
+  "doc_id": "c6b0203f088a21646e3141c1ec24792d699c2c641ddfc802f2205caffcd2d2ee",
+  "title": "Angleton High School",
+  "n_common_entities": 20,
+  "n_candidates": 380,
+  "text_hash": "7bbaac1b84362441c2564d2d04e6b73353de06aa5b69ea9e6fa611767c8737bf"
+ },
+ {
+  "doc_idx": 75,
+  "doc_id": "f237962c6f0af1e888cb727cd4cb4afc7601e4bcb24a78633ac9b7efe6bb31b8",
+  "title": "List of colleges and universities in Connecticut",
+  "n_common_entities": 11,
+  "n_candidates": 110,
+  "text_hash": "b83dcc5f4b4d381c41711c41372ffd18c78825e205a699964c4a6a477e4587e3"
+ },
+ {
+  "doc_idx": 76,
+  "doc_id": "d79baa0ebc4015f43185490de20e20cb2118687a8fe645fd924a61a689058ad6",
+  "title": "Ost Autobahn",
+  "n_common_entities": 21,
+  "n_candidates": 420,
+  "text_hash": "2ba570f82733d0edc2ec48970e45067675d9c25bd4a778e9d7ec628fb2aa2036"
+ },
+ {
+  "doc_idx": 77,
+  "doc_id": "8bb5db1bfa29ce3ef62bb505a4cd504edb49450d95718a4efc483d002828cd21",
+  "title": "Anthony Steel (actor)",
+  "n_common_entities": 9,
+  "n_candidates": 72,
+  "text_hash": "047b5aced51865a57f243dcd9fa8cf95053eaaf936bde4073b8bba0855f40451"
+ },
+ {
+  "doc_idx": 78,
+  "doc_id": "1181ac90058aed1410cb54bf5f206cb9a6b7f8f8acc47057bf990e00d69ef176",
+  "title": "Dieudonné Gnammankou",
+  "n_common_entities": 19,
+  "n_candidates": 342,
+  "text_hash": "2e16fc7c6a06b920f4728ef2de8f868b04e7a35a08646f63c0d2b20cba633dc6"
+ },
+ {
+  "doc_idx": 79,
+  "doc_id": "625b03a6f1f33d205c91ce5c086e492199ee7ee4601f66eff64ecacb2b6fbd15",
+  "title": "Your Disco Needs You",
+  "n_common_entities": 16,
+  "n_candidates": 240,
+  "text_hash": "b73cb148dac2b694115eb7c82594c670316890de7c348a753814711d409f06cd"
+ },
+ {
+  "doc_idx": 80,
+  "doc_id": "e25894b289235357c9b6be09d5af5145a699fe99196cc2748699630233f5f305",
+  "title": "Outline of South Sudan",
+  "n_common_entities": 15,
+  "n_candidates": 210,
+  "text_hash": "9afdbddf35aeecb89a750dae38a1209117cc5221e87a83b87a2d597592ec47e7"
+ },
+ {
+  "doc_idx": 81,
+  "doc_id": "00fdd8bbe6a6d69f2dcd8b3699adc635c9327d9916c8ec4184c7d66a1f70d161",
+  "title": "Liverpool Neurological Infectious Diseases Course",
+  "n_common_entities": 16,
+  "n_candidates": 240,
+  "text_hash": "85aa7d97484b563cca2a43ee27c69ff0a248b0acc657409beacd8e8e112d0099"
+ },
+ {
+  "doc_idx": 82,
+  "doc_id": "fb9c31cff0ccf7705235eed5faa0fe124a2a492f17affaac68c9dd3cc7be1fa9",
+  "title": "Breakout (video game)",
+  "n_common_entities": 18,
+  "n_candidates": 306,
+  "text_hash": "fe7c3552bed37d300c97a8596a4f92ceff3a48b24293d008a26a6d14efd4ddee"
+ },
+ {
+  "doc_idx": 83,
+  "doc_id": "ba67627febbe44dc5f3a5df9730c6257554c00489e05f864b26e966489b6d8f3",
+  "title": "Winnebago War",
+  "n_common_entities": 20,
+  "n_candidates": 380,
+  "text_hash": "5447819b58c544ce4be65feeef755e7c278007e7475f86ee5bf30d36b521f8d7"
+ },
+ {
+  "doc_idx": 84,
+  "doc_id": "97c4eee770215f0308879480e2415219eb5a2aa877ed978c311b69fc1131a28c",
+  "title": "Schizoanalysis",
+  "n_common_entities": 8,
+  "n_candidates": 56,
+  "text_hash": "c742863d601112aaa5faaf967c4e3ab6c18f047b64df18efdbfc4146e2fb1013"
+ },
+ {
+  "doc_idx": 85,
+  "doc_id": "1c5f6e14facf52fa843a8913c74f126e98eb62eb1265ca755ffa1121ffabab1f",
+  "title": "Paul Beliën",
+  "n_common_entities": 19,
+  "n_candidates": 342,
+  "text_hash": "57d11641e1cb19255ef92b16be67e046b20b77eb095f1d4d0444f2dfd0e6fd7d"
+ },
+ {
+  "doc_idx": 86,
+  "doc_id": "f98ad0ec076e508eaf64e08740d79dd4c71ba3c7403db2ccc13c05c720b11c1a",
+  "title": "John R. Thurman",
+  "n_common_entities": 22,
+  "n_candidates": 462,
+  "text_hash": "8b2de899e272ab8f3ed09bf2afc304f88e13f91a135dae67c0ab387bcc5eac4b"
+ },
+ {
+  "doc_idx": 87,
+  "doc_id": "97a18a1348622d3e5de806987563a4a6362ff572ff1ed8115da05e1bbaf08488",
+  "title": "María la del Barrio",
+  "n_common_entities": 26,
+  "n_candidates": 650,
+  "text_hash": "1baf3d831680daefa3f9d9cbf216c8c4893db12fe999cfa0439028723a0c5a86"
+ },
+ {
+  "doc_idx": 88,
+  "doc_id": "0fe4b3c87909690b824b5ecfea946357bcfdd908a751e1b0ef1f2b5168e7638c",
+  "title": "Tigran Petrosian",
+  "n_common_entities": 32,
+  "n_candidates": 992,
+  "text_hash": "545f58bd013a1e4474e21eff6bf6a3443e0a9f64795cd151f3a9bce87dc16f30"
+ },
+ {
+  "doc_idx": 89,
+  "doc_id": "bd12c8e9bbc149319747c1c5a381540b4455500850a8bcd5643d50bb38fa54ea",
+  "title": "This Little Girl of Mine",
+  "n_common_entities": 17,
+  "n_candidates": 272,
+  "text_hash": "be940ea4d054910619a8592774313d75fefd59f7739087a4bfb50b30f3a9cbf8"
+ },
+ {
+  "doc_idx": 90,
+  "doc_id": "f86ded285ac28db8750e70869c87ad4ec190f45db3f52925c1163b7694f0196b",
+  "title": "Ernesto D'Alessio",
+  "n_common_entities": 20,
+  "n_candidates": 380,
+  "text_hash": "097931d5ffafa11f161b8ac74435d90afaac44c5995b0052b941b36733eb79df"
+ },
+ {
+  "doc_idx": 91,
+  "doc_id": "fdc453bdab213152a0bbfdda178763d25e64d2b95165ff5cd0b2c57df9cd502d",
+  "title": "João Paulo de Silva",
+  "n_common_entities": 17,
+  "n_candidates": 272,
+  "text_hash": "a1faf9d4817455492a8bca8ce9290fc6fe4d873c1cbe18578cb8ea3f7f27633f"
+ },
+ {
+  "doc_idx": 92,
+  "doc_id": "fb3d1985ce4a7a503ff06f6982644d51c818c34c981b992f6d4cff029e55a543",
+  "title": "Regal Mountain",
+  "n_common_entities": 17,
+  "n_candidates": 272,
+  "text_hash": "def835ad59baf8c3f21326ebc8f2e1df389ec6bcae0f5cd95966b0dce93c3b61"
+ },
+ {
+  "doc_idx": 93,
+  "doc_id": "54b8bc019358f4a18312203eda95dd053e05b2b4f95bcc2d2da0fa939ab2a026",
+  "title": "Il regalo più grande",
+  "n_common_entities": 17,
+  "n_candidates": 272,
+  "text_hash": "98bfcb40593bfeade2b3963cfd5886f54076dac2ebb16df35d8d2c962c032522"
+ },
+ {
+  "doc_idx": 94,
+  "doc_id": "91516d5b4f47943edce2d1bd984dffdb3d7cfea1409c3b2ec3cd16a2cb5322f0",
+  "title": "East Asia Economic Caucus",
+  "n_common_entities": 21,
+  "n_candidates": 420,
+  "text_hash": "161f5c25fa6c1126f28a573cce9aca529bff6f210325e6911aa5407265896ebd"
+ },
+ {
+  "doc_idx": 95,
+  "doc_id": "fe15c9694357754409ff4a88bddb38672a254af43abac39d56e66ee08218321a",
+  "title": "Tiana (Disney)",
+  "n_common_entities": 19,
+  "n_candidates": 342,
+  "text_hash": "8bc725fc0d4f4a5926e6e21e6b850515f14be41e93c9c4ffa47355853f9d3d5a"
+ },
+ {
+  "doc_idx": 96,
+  "doc_id": "e2fa0642c06d174cc4e5fabd20e093c4f11139445a32a5dd1ed853e0dbf199eb",
+  "title": "Vesper sparrow",
+  "n_common_entities": 5,
+  "n_candidates": 20,
+  "text_hash": "a6bb04904d9529a19df46fe6332ff5ad5bd4fb529d9ce1310db36ce5b61a1821"
+ },
+ {
+  "doc_idx": 97,
+  "doc_id": "b58f82a8548eba59a17b5e565c9b4a45b34bba6c925a651f73f7d51fdfa5f171",
+  "title": "Silvan Elves",
+  "n_common_entities": 25,
+  "n_candidates": 600,
+  "text_hash": "4c8d71a88bad3386cdaaa2cc3f4252b8b99ddb8db69a72d1b522e53a915aace6"
+ },
+ {
+  "doc_idx": 98,
+  "doc_id": "1ce6c65cc9757b679b4430fd942a8606ceffc8a5e9c91dff6027945704f7245f",
+  "title": "Young Wild Things Tour",
+  "n_common_entities": 23,
+  "n_candidates": 506,
+  "text_hash": "429e301658a6aa0ac6eb843cad341021954437a05da82697ca0a3717cd598840"
+ },
+ {
+  "doc_idx": 99,
+  "doc_id": "4fe15f7ac5ad0fd4b94ec627ff2d846598c2149939619383476e9834e4c115ed",
+  "title": "Samuel C. Brightman",
+  "n_common_entities": 26,
+  "n_candidates": 650,
+  "text_hash": "66b06d845113dd3c6c1a4c0ce1cd69bbeabb5713374ea32afe2ffb5b5ee710db"
+ },
+ {
+  "doc_idx": 100,
+  "doc_id": "7b65dd305ae004f4436345e9dd36f150a82297df37002a2ee52ba17c6d8a5c88",
+  "title": "Alberto Valenzuela Llanos",
+  "n_common_entities": 22,
+  "n_candidates": 462,
+  "text_hash": "0b24a6d156367106ff9e860ac8bc547392f41d603b299da959e1b93233fea313"
+ },
+ {
+  "doc_idx": 101,
+  "doc_id": "5656a313e5991c80b6b7d24fd06afd380b78117efd2f6157fd713f1413fa10ab",
+  "title": "Amandeep Khare",
+  "n_common_entities": 19,
+  "n_candidates": 342,
+  "text_hash": "e9d1123526594b0a9494e282006107b59c5bd0c1c291219b18c0638a4e552916"
+ },
+ {
+  "doc_idx": 102,
+  "doc_id": "9fd0f866e346ac4062937887be0d1eb6cce7c6f1d3082233b0867da8466e7d6a",
+  "title": "Blank Page",
+  "n_common_entities": 18,
+  "n_candidates": 306,
+  "text_hash": "17592b0a8c0e0be27df84128fa842715c33d24c0feee853e6387e68c7456c5db"
+ },
+ {
+  "doc_idx": 103,
+  "doc_id": "b159b21b785b66caaa16436d5fe1fc6a3c9e96281d15fb28de6954a7ebe67d9b",
+  "title": "Jared Allen",
+  "n_common_entities": 22,
+  "n_candidates": 462,
+  "text_hash": "6b7d5fab4272011f10eae54407655f701824edf26139b809d2ec5a5ed5b0ec22"
+ },
+ {
+  "doc_idx": 104,
+  "doc_id": "53ed8dcb33da685f7411f5bbc9938f1e1c8ef706c4f6326ef7b4c1ab051b9a4f",
+  "title": "The Hurting",
+  "n_common_entities": 18,
+  "n_candidates": 306,
+  "text_hash": "d388171a6d6eb035d124189a4dfadcb0f617dcc2a4230c1df992dc26eabdd023"
+ },
+ {
+  "doc_idx": 105,
+  "doc_id": "27e66cd4ab9edbd45bbe4ce3ca3dd29d50ec052b9527f79f3fb7052018a0e824",
+  "title": "Link River",
+  "n_common_entities": 15,
+  "n_candidates": 210,
+  "text_hash": "b06469ae16e448cd244e24f232065121c4aae439201b071749745d03a524cfb1"
+ },
+ {
+  "doc_idx": 106,
+  "doc_id": "926542ae7d917fa7099dca8f33d7ff2c0621ff026cd1004450f3f8d159cf688c",
+  "title": "Ali Kuli Khan Khattak",
+  "n_common_entities": 11,
+  "n_candidates": 110,
+  "text_hash": "70713edd157698462502df4fd90cba20e87384b6eec3c3b48086f1f844c342b0"
+ },
+ {
+  "doc_idx": 107,
+  "doc_id": "a8b7e38a77041116e7cc4fc0a8440198462c005e7a38a8771f33649d655d10a8",
+  "title": "Paul Morphy",
+  "n_common_entities": 25,
+  "n_candidates": 600,
+  "text_hash": "88b1e7ad1796dd2d9327a8f3663f43efe3afcca5ce25bf320ae73866c8885594"
+ },
+ {
+  "doc_idx": 108,
+  "doc_id": "7ddf2ecfd704236b9e19a3072811efb780a3baf6a279b8813eec2121c31e1b58",
+  "title": "Gloria Estefan albums discography",
+  "n_common_entities": 27,
+  "n_candidates": 702,
+  "text_hash": "98924f951045bd74123192d32faf70499de4c421d177c0c33897ed1b21097e17"
+ },
+ {
+  "doc_idx": 109,
+  "doc_id": "b849ea35a79cbf3f00c3f9261ccfe6371e61e2d9a030bd0eee9dd33942c6a94b",
+  "title": "Tōkai region",
+  "n_common_entities": 25,
+  "n_candidates": 600,
+  "text_hash": "2749f16f5a633d54c1e50aabe289274267b2a0b7efc315d4b12ebc8ded690ae7"
+ },
+ {
+  "doc_idx": 110,
+  "doc_id": "faaae06fbcb1220d273b3a746fca49256d00d7f4d1a46160c2604af88453bbaf",
+  "title": "Parks in Greater St. Louis",
+  "n_common_entities": 15,
+  "n_candidates": 210,
+  "text_hash": "c9f23d731f5b78745dfb31c178d900db4cbd8218b01183a0d65e890cba8287d5"
+ },
+ {
+  "doc_idx": 111,
+  "doc_id": "e5a0cd01193cafe2cdaa2f867c9c42fae3a5334e5be71e70a956b7e905aa01b3",
+  "title": "Loopline Bridge",
+  "n_common_entities": 20,
+  "n_candidates": 380,
+  "text_hash": "e28a6d1710a32ba89d0a7277539671573c09050c05d6ea95ebe2b61c70bb0952"
+ },
+ {
+  "doc_idx": 112,
+  "doc_id": "95cbbad23ba5d20b44e94620adbe3cc1b681349df24d4144f2131ce045e6bacf",
+  "title": "Catholic Church in the Maldives",
+  "n_common_entities": 18,
+  "n_candidates": 306,
+  "text_hash": "3fc6d4be36154ae0e326bc0d2bfccc2c86ba1fe8d514d979ed7d5011d9b87b85"
+ },
+ {
+  "doc_idx": 113,
+  "doc_id": "d2247ed5e4a6cfced8ae800d55562c899503d66637f45292a16d5d5795912c2e",
+  "title": "Across the Black Waters",
+  "n_common_entities": 16,
+  "n_candidates": 240,
+  "text_hash": "095a6df08144ef05cc506f3265b078c3a0b152e7fd84dff5b2aeeae7583db3bd"
+ },
+ {
+  "doc_idx": 114,
+  "doc_id": "6fb600a1719d0ae7a98a582aa6a8f17e3c25195c504ee2c91ecafa54ae91e06b",
+  "title": "Cove Lake State Park",
+  "n_common_entities": 14,
+  "n_candidates": 182,
+  "text_hash": "d9322b5b6c6e588cdfd3be91b74984d428f641542b5aa7889bd2b24e70d1ae9f"
+ },
+ {
+  "doc_idx": 115,
+  "doc_id": "d4133972aed78665833aec40af77b8cec71bae58b46dbc052c1ab2d8684055c6",
+  "title": "German torpedo boat Kondor",
+  "n_common_entities": 21,
+  "n_candidates": 420,
+  "text_hash": "db943deca240c448fc0be643414157a8523cfd6e5c052e233785de4711929729"
+ },
+ {
+  "doc_idx": 116,
+  "doc_id": "9e4460b92fe5cd88e26ab58e3bd2db6038febb7f7617af32749fd5e8628721c7",
+  "title": "Foulsyke",
+  "n_common_entities": 20,
+  "n_candidates": 380,
+  "text_hash": "423cfb9a8bae09ca8408f5d5021eb855d3619e14eac8d4f7061719ae46ac5247"
+ },
+ {
+  "doc_idx": 117,
+  "doc_id": "a6a6470f7ecc6eb6d2d6cba32397a2ca4175ee99965e00044a91e8226029b583",
+  "title": "Le Ventre de Paris",
+  "n_common_entities": 21,
+  "n_candidates": 420,
+  "text_hash": "4c0010ba52a20b93523b010688ef90bd8a1a2ea0c8c1f42224d0ae4ac0219971"
+ },
+ {
+  "doc_idx": 118,
+  "doc_id": "ed0f3046f6ca1c4a0f7e42ade36a3c9c798ca04ab0f5771d38fe2cfb55803ea8",
+  "title": "Energy and Environmental Security Initiative",
+  "n_common_entities": 5,
+  "n_candidates": 20,
+  "text_hash": "b03a4f2f66032eea556259ef1b32ce3b0574587218f6ebb172ef1b828836698a"
+ },
+ {
+  "doc_idx": 119,
+  "doc_id": "8ad3f2a7fff9c4e3ed7fb2812b00451ab37ecb70210db0f90e7ba67db4d9d6f9",
+  "title": "Ne crois pas",
+  "n_common_entities": 18,
+  "n_candidates": 306,
+  "text_hash": "6edd2d05926fced1800328a852b6f9a0ce454824160205f820090032fdb2e400"
+ },
+ {
+  "doc_idx": 120,
+  "doc_id": "84ba3b242d332e166eb104d4d891aa6dd4da55a84024b2bc7697870d13f14992",
+  "title": "Downy",
+  "n_common_entities": 26,
+  "n_candidates": 650,
+  "text_hash": "1e42836d64e3db8d0583daa39b701673b1cf336918c9ec27fc97ee17545b9c3c"
+ },
+ {
+  "doc_idx": 121,
+  "doc_id": "24d4b2fe0c4e8348091b7f1d763e96ad7402c524c3ced59febf460f68c42249e",
+  "title": "Boltenhagen",
+  "n_common_entities": 19,
+  "n_candidates": 342,
+  "text_hash": "330fdc68396797f1778910a9884d585b7ac8c84eba01910cf4d0dd2869c6beb4"
+ },
+ {
+  "doc_idx": 122,
+  "doc_id": "c049e22b9792f0a074ac050ca6f4a32061d81bdac03bcaf07894f22670984d7b",
+  "title": "Upper Ammonoosuc River",
+  "n_common_entities": 25,
+  "n_candidates": 600,
+  "text_hash": "4a7ec606a9801748163529bbdfa0c9cfb89cd593173770175a3e778addbe5530"
+ },
+ {
+  "doc_idx": 123,
+  "doc_id": "91e70654e1526e1e57bb32baee5d9bf1df039a3b03e8da17c2e8a17f5c6432bd",
+  "title": "Michael Giacchino",
+  "n_common_entities": 28,
+  "n_candidates": 756,
+  "text_hash": "66533e7b55e060f167a2203667411c9d8ca1e5cae9ba30a9ab5030e7541c6ec4"
+ },
+ {
+  "doc_idx": 124,
+  "doc_id": "49c4e8c76c6db463b0c89677eaa3c6e462a8b41387c9f718980c0ea7c61ae53f",
+  "title": "Oberliga Rheinland-Pfalz/Saar",
+  "n_common_entities": 17,
+  "n_candidates": 272,
+  "text_hash": "8f19453edcba8f1c8ff6d983291cbc41bddd5c3e5497aba3d0edd28653e5076b"
+ },
+ {
+  "doc_idx": 125,
+  "doc_id": "439ec0abc4d9b2de24b9ea35f7b3a59fa707494242ee26102854fcd9271f3b99",
+  "title": "Siberia Governorate",
+  "n_common_entities": 15,
+  "n_candidates": 210,
+  "text_hash": "019a8da50db731abf163dc37450faa59910cf21d476d68cc20dbb49a12faacb5"
+ },
+ {
+  "doc_idx": 126,
+  "doc_id": "9c39921d9bc242edc3e034c88c3f47b29643f5f3a0bb3b2f42784be889c15c0e",
+  "title": "Raymond Hermantier",
+  "n_common_entities": 22,
+  "n_candidates": 462,
+  "text_hash": "59729c461959a988bdcf4358240a57ed288be1c3c8503dc47ca7fc3c4643b45c"
+ },
+ {
+  "doc_idx": 127,
+  "doc_id": "55ae1dca034aa12707b744de1bc6b66272df2dd365b7560a020475def2e990b0",
+  "title": "Kurt Tucholsky",
+  "n_common_entities": 18,
+  "n_candidates": 306,
+  "text_hash": "707fe65e60dfe8560d6433389656265922d799ddfe1abeea07caa6603d17e6c7"
+ },
+ {
+  "doc_idx": 128,
+  "doc_id": "cdd5a792e5d79759b09b1cade0e1da82e0d2acfa5e4e4fea98a07e007c6c75fe",
+  "title": "Urgut",
+  "n_common_entities": 13,
+  "n_candidates": 156,
+  "text_hash": "b5bc3549beb70448b80a46435c84c0a3c4a540af5d1e1fd71a5a760b4dde9a42"
+ },
+ {
+  "doc_idx": 129,
+  "doc_id": "bad47f996a5776c74752f4a6dba29d830adbb888b5942bdfeb675df567aa7864",
+  "title": "N. C. Wyeth",
+  "n_common_entities": 14,
+  "n_candidates": 182,
+  "text_hash": "44e3f2fb8687f2f8c1213c9ee299c98997b595c1d09abecfbc43b9b34fa4119c"
+ },
+ {
+  "doc_idx": 130,
+  "doc_id": "008ce9119671e7e5a075c2a7392549a007409bfe7bfeb5a4e5fa11dac27b70c6",
+  "title": "Bound Brook (Raritan River tributary)",
+  "n_common_entities": 19,
+  "n_candidates": 342,
+  "text_hash": "dbc1c89aaf1b77fe7fed5b2f8550e25ea4c240f8112f1ab463904fdfbc000629"
+ },
+ {
+  "doc_idx": 131,
+  "doc_id": "f0ec7799d646095e8cc1a05a5a102217def589d5061f4b4b4f7b114690a7b751",
+  "title": "Bombtrack",
+  "n_common_entities": 23,
+  "n_candidates": 506,
+  "text_hash": "4b0e42644aef63a40d8e615a1946b9f6dcff1b9f5a14e7e234c5dedb34bfd2d9"
+ },
+ {
+  "doc_idx": 132,
+  "doc_id": "a6afd7fe06d7264441b0ab9dca84eea5ff346580d466260e300965fbf1e8845d",
+  "title": "Christine Razanamahasoa",
+  "n_common_entities": 21,
+  "n_candidates": 420,
+  "text_hash": "5d520f3db1351ab246ff6ad92809072dba3bfc86174c0c747e648c41319b7af4"
+ },
+ {
+  "doc_idx": 133,
+  "doc_id": "6d704470a32bcb42cc1babe6b3a985b12332f42bcbc963578975017fa9d1a4b0",
+  "title": "Shihlin Electric",
+  "n_common_entities": 27,
+  "n_candidates": 702,
+  "text_hash": "316e2ae286f42bb0faf6beb623dee2fc19063310db518aa812faa8fc4c6eacf1"
+ },
+ {
+  "doc_idx": 134,
+  "doc_id": "fe12d5e6b4bddf816a904ee4569d6ab65aaeb2073b43571c53084a32ee055f22",
+  "title": "Wayne Gretzky Drive",
+  "n_common_entities": 21,
+  "n_candidates": 420,
+  "text_hash": "a702a0356e4b81df98a0592c670cac3faef943fd9d55377cf785b88844cfb103"
+ },
+ {
+  "doc_idx": 135,
+  "doc_id": "aaf6f93f2ee75276032db50bd657378d91db97efd058057bd487ecd2c82056ba",
+  "title": "Inner Life",
+  "n_common_entities": 17,
+  "n_candidates": 272,
+  "text_hash": "28b89af75c5a077a8a8a05f51edf4e743e07ff39591bf69d119746693cc6a121"
+ },
+ {
+  "doc_idx": 136,
+  "doc_id": "32581824fd87316cd189715fccadf5e42c99160df2d41a3e6454452dcbad4634",
+  "title": "Ahmet Kaya",
+  "n_common_entities": 17,
+  "n_candidates": 272,
+  "text_hash": "c8567b2c1bd0f616df279bcca1a881294eab75a5ca51a80d75cad9051404f2b8"
+ },
+ {
+  "doc_idx": 137,
+  "doc_id": "c501986320b7b2ee0e84712cb8db64a8ac7f76006ee72fa0f9b67c3a52f917f4",
+  "title": "Leone Marucci",
+  "n_common_entities": 24,
+  "n_candidates": 552,
+  "text_hash": "ad1cacc372b7a32ca08ea6b07100f877a70d91c2a33fd0cf6aca9c63f023c909"
+ },
+ {
+  "doc_idx": 138,
+  "doc_id": "572426412018713c6879bf101ff0679565a85f1eddced2f484fb769323f90fe2",
+  "title": "Susan Pharr",
+  "n_common_entities": 13,
+  "n_candidates": 156,
+  "text_hash": "e160b73ccaa9ee6f4b48b3cc468367c4a18f2d0bba177d2336ba11420b7ac7ba"
+ },
+ {
+  "doc_idx": 139,
+  "doc_id": "afca3277852c51edbdcc569251496d8222874a2742109c83e736482135b97380",
+  "title": "Sycamore Canyon Wilderness",
+  "n_common_entities": 24,
+  "n_candidates": 552,
+  "text_hash": "27d1881184ab54cc659e52d7b2d7439cdeaa372189c06436cd363319d3fecdda"
+ },
+ {
+  "doc_idx": 140,
+  "doc_id": "541a8c7621624be5c58320af4b0585a3a823353ecc7a0ba9dafe37757f5390b1",
+  "title": "Eva Bosáková",
+  "n_common_entities": 24,
+  "n_candidates": 552,
+  "text_hash": "ff226f9da2259cc208c1f7316d0fbbfe00ead1b6f74a951c67c6c665f4696012"
+ },
+ {
+  "doc_idx": 141,
+  "doc_id": "23c1d2b0d2cb10cbd4ced2f642739ed9fd3e7aaae9b990a138f2875f0fb8a60b",
+  "title": "Ripton (fictional town)",
+  "n_common_entities": 11,
+  "n_candidates": 110,
+  "text_hash": "9acf068c1da309ad6b8755be9074d0c18388615e98241bff273c8c0f4c805993"
+ },
+ {
+  "doc_idx": 142,
+  "doc_id": "22cc079ec37eec78ba4cff2b7597746b4914403a49c51cf6cad7c0805c3f3905",
+  "title": "Khooni Khanjar",
+  "n_common_entities": 25,
+  "n_candidates": 600,
+  "text_hash": "89468f877f735be2f9683704f8e141a2298c59bd6337427768f5752817206f1b"
+ },
+ {
+  "doc_idx": 143,
+  "doc_id": "34b7780d3d1bfd2700434c9f5515ef4536cb223541435e89a6aae6fad4de4076",
+  "title": "Barry University School of Podiatric Medicine",
+  "n_common_entities": 21,
+  "n_candidates": 420,
+  "text_hash": "4b58eb41459b37906c2c94da9b1b5abd3f31f877b8e26bfb8a46a85de04efc6c"
+ },
+ {
+  "doc_idx": 144,
+  "doc_id": "f47a258c4c9d2bafc1de835806d7758d2c94fd1c6009727f58efa8ca83a54392",
+  "title": "Louise Faure-Favier",
+  "n_common_entities": 17,
+  "n_candidates": 272,
+  "text_hash": "d5b77e5563f62fc9e828fd38dfd8021d2b311aa04ebd8af7b1f02ed09e2979f7"
+ },
+ {
+  "doc_idx": 145,
+  "doc_id": "96b85dfca50dc827e0ca3fdaf3711a06ce1c5b8b85f3333e9edbb692603b37d7",
+  "title": "Kirnitzschtal tramway",
+  "n_common_entities": 14,
+  "n_candidates": 182,
+  "text_hash": "4a00de99f6d2412213da7b1f19f0911b03712b985cf3d0c6c53db81510955942"
+ },
+ {
+  "doc_idx": 146,
+  "doc_id": "fee3fedfc1512cf85f27300ffe4d126cc2ef37d253c25d565e05d18f9baa8ef0",
+  "title": "Rob James (singer)",
+  "n_common_entities": 33,
+  "n_candidates": 1056,
+  "text_hash": "0e54e8ddcef91a418c3e83a5924078d4b7082f7916025f87cf893ae2eab08dbf"
+ },
+ {
+  "doc_idx": 147,
+  "doc_id": "6ace31df7383d2f8397fb334a533575766db67b051c56ccdaeabbda992bd642d",
+  "title": "Joy Division discography",
+  "n_common_entities": 20,
+  "n_candidates": 380,
+  "text_hash": "a333d20426ebd323132c1a994e920b176f682fb2d376c8fd71dd22a8b417c5d5"
+ },
+ {
+  "doc_idx": 148,
+  "doc_id": "27de7d38638206baaf61600aa4072cec38e12bdf919f4f1c2043dfc875bf5918",
+  "title": "Franck Piccard",
+  "n_common_entities": 27,
+  "n_candidates": 702,
+  "text_hash": "c1801e7b9df58b05700fba0683513f7c1568eca863292da15d89f219a34d7436"
+ },
+ {
+  "doc_idx": 149,
+  "doc_id": "b23c2085e80b11c6b39f0f5329cd7e432e68a8d7bedc1f03873f53b2448dd8aa",
+  "title": "John Alexander Boyd",
+  "n_common_entities": 25,
+  "n_candidates": 600,
+  "text_hash": "58ade0f3caf3af6380160803b43482abd42526ee646d97bc9f6aa44e32dd8e6a"
+ },
+ {
+  "doc_idx": 150,
+  "doc_id": "f5b0125192ed8129497e7e40278364607129a39d65bb95abc7d07a14c74de9d9",
+  "title": "Hélé Béji",
+  "n_common_entities": 21,
+  "n_candidates": 420,
+  "text_hash": "edd29cb35ade57f97580681014c639046083170c07d81087d6d3e7e742addf5b"
+ },
+ {
+  "doc_idx": 151,
+  "doc_id": "851ac2c3d70421313d7ecaa5bfede91ce64b66381fc73a50317397950e70a9ae",
+  "title": "Perpetual virginity of Mary",
+  "n_common_entities": 27,
+  "n_candidates": 702,
+  "text_hash": "ade64f819f4c013ccf9fa96a61af253c1f3f366bd01cd920013666decb8c6a95"
+ },
+ {
+  "doc_idx": 152,
+  "doc_id": "243e9546e3c10b8249134b2182805e5f474b501cc0ebfbbaaff31356a3cec0a1",
+  "title": "Rachel Proctor",
+  "n_common_entities": 23,
+  "n_candidates": 506,
+  "text_hash": "ce0a8102db19d5c59697e81d4145f072ccb4c438b1a08da701ff3ba2e567fe97"
+ },
+ {
+  "doc_idx": 153,
+  "doc_id": "f2028937b7861d17f4f7cc3b8bb00c8f754c47440fc31d89d2e32032ad50c8d5",
+  "title": "Die Haut",
+  "n_common_entities": 17,
+  "n_candidates": 272,
+  "text_hash": "b40a201ff94887b56983a9ea08252891656994944c842ab2713d5dd8c0b64db9"
+ },
+ {
+  "doc_idx": 154,
+  "doc_id": "10ff2d6e151d2dfa3b34b7eb29cab38b4df9664675db80478af96ecda0a04639",
+  "title": "Mehmet Çetingöz",
+  "n_common_entities": 15,
+  "n_candidates": 210,
+  "text_hash": "deec74e0a67579a3b942a252e833c144ddcda6af412efbf6607003cbb43decbe"
+ },
+ {
+  "doc_idx": 155,
+  "doc_id": "39a276362ce4933ce323c4bb2271d63a58bcbacd4f9b2b8bded6cbe562383d0b",
+  "title": "Extreme Makeover: Home Edition",
+  "n_common_entities": 21,
+  "n_candidates": 420,
+  "text_hash": "2f6fe747c39bbdd4e785410f3f01dbb064a60e234ff2069b39f418644b89af32"
+ },
+ {
+  "doc_idx": 156,
+  "doc_id": "0b3508b8b72aa021398547a3571c0c8101a313ae77280804fe9ad192b18c18b2",
+  "title": "George Prévost",
+  "n_common_entities": 23,
+  "n_candidates": 506,
+  "text_hash": "6f27267844355538efbe3f736585ddd73d700435d0c94bb167aafc7358ae09ba"
+ },
+ {
+  "doc_idx": 157,
+  "doc_id": "ff9468d75d6945e5cfda825bfcd80332f4fd9a1838354d94a3068938fda7dce4",
+  "title": "Tire, İzmir",
+  "n_common_entities": 26,
+  "n_candidates": 650,
+  "text_hash": "1f946622218b730849932cd6689eacffc92b8f65214a86dc3732cf373074f2a6"
+ },
+ {
+  "doc_idx": 158,
+  "doc_id": "c812933b7b2c70563fe19e00712633a60e6674cdb2391f68a02c496aa28a662f",
+  "title": "Oecophora bractella",
+  "n_common_entities": 13,
+  "n_candidates": 156,
+  "text_hash": "ea0ac5d88354808ecd5c9e8ae017368ee93b5968670df5a87a817e1e6943f3b6"
+ },
+ {
+  "doc_idx": 159,
+  "doc_id": "b595ca0e37f2222b77557c79ad477bf3353448ac3ff8f6eb9868e4c582757d59",
+  "title": "U.S. European Command State Partnership Program",
+  "n_common_entities": 22,
+  "n_candidates": 462,
+  "text_hash": "511b1d8ce6bb1bb0ec06c3a776d9bfef45f05d9d58dd2f1958e8277bc4b7bb1f"
+ },
+ {
+  "doc_idx": 160,
+  "doc_id": "52d0f3380316141cbe4738c0abc900d4dc54863ce6a5ce8bad570ed39662a4f9",
+  "title": "The Swingle Singers",
+  "n_common_entities": 17,
+  "n_candidates": 272,
+  "text_hash": "1bcb931aef38ad28a6351f43a723aec5727f7b1b4e43cb5d6d99cd413a6538ed"
+ },
+ {
+  "doc_idx": 161,
+  "doc_id": "3b8dbbdc7f839264d7e3d8a7472ada6d1bf595fa10da0ece5d61d864dd07d097",
+  "title": "Pete Ham",
+  "n_common_entities": 15,
+  "n_candidates": 210,
+  "text_hash": "f00bb0f0013bd727d0e798566a812ae7540a00c518ea5e207abbbffdc73be739"
+ },
+ {
+  "doc_idx": 162,
+  "doc_id": "de670410c1e1f7808e0098af605417c45723438770134724bafe6ef43a78585a",
+  "title": "Beijing Ducks",
+  "n_common_entities": 13,
+  "n_candidates": 156,
+  "text_hash": "dc4204ca6795de40313d647cae73a39f680a2493b6aa93f76dc336fed5f980a1"
+ },
+ {
+  "doc_idx": 163,
+  "doc_id": "ea154dbcfa0b133e9bcb7f946aa0782c04d50e7173865075b6fd55cd30652683",
+  "title": "Hope Town",
+  "n_common_entities": 9,
+  "n_candidates": 72,
+  "text_hash": "c813856431840895e36a7404b7bdba325bc8cb84aed977deb24eb7c7aae25bc2"
+ },
+ {
+  "doc_idx": 164,
+  "doc_id": "5e2f3f2221e913e71e430e0840656f440226ededd7d020d31602de50b92ddfea",
+  "title": "Calueque",
+  "n_common_entities": 13,
+  "n_candidates": 156,
+  "text_hash": "2b489317014a0a80d8f3f758b11a644783bbeef2f0e07e8ab6d4b65e6cd3e507"
+ },
+ {
+  "doc_idx": 165,
+  "doc_id": "2b40bd415f2f0e15136a3f6e8e5e23b966152ae5eed91b224830fc503fd992dd",
+  "title": "Ali Akbar Moradi",
+  "n_common_entities": 24,
+  "n_candidates": 552,
+  "text_hash": "33ca5ceb42b0ec5c430f2daef50392db9e6a85a80f23ba879b6161d54cfb61f5"
+ },
+ {
+  "doc_idx": 166,
+  "doc_id": "7e8a30330e324fc3d544a1b53da23ecab95a27e455e8e523e48c9e6ec893cfb2",
+  "title": "Dan Chupong",
+  "n_common_entities": 20,
+  "n_candidates": 380,
+  "text_hash": "b3d68473f6ea2263b35cef008313901e692d908d94ce079c1cfab10c364b7a35"
+ },
+ {
+  "doc_idx": 167,
+  "doc_id": "73391a26203249863aa925ccc7aa85c3ad5a90687e5188d3d6b6326491e41ecd",
+  "title": "Mount Shinn",
+  "n_common_entities": 28,
+  "n_candidates": 756,
+  "text_hash": "533047f3a598a05d7252d9c48e4b2953e41b2b71d2a223c0f9e37a9b10f89dc5"
+ },
+ {
+  "doc_idx": 168,
+  "doc_id": "82e055346bffa512b15b3199ee1ac3559b10002e627e6ee543ace1aef7b86d8a",
+  "title": "Georg Jochmann",
+  "n_common_entities": 24,
+  "n_candidates": 552,
+  "text_hash": "ce4e9660e948d3bf55ad25aef2dd152bded0928375d51932f0ae507a7346e601"
+ },
+ {
+  "doc_idx": 169,
+  "doc_id": "5f4b821824667fcf0896851e56ee0c1873a65f9161e46180c464b51018a95387",
+  "title": "Abdul Jabar Sabet",
+  "n_common_entities": 17,
+  "n_candidates": 272,
+  "text_hash": "48c3a94b9a81891acb232885b3728df976d5701a3dfdb6858b722fe47d55f275"
+ },
+ {
+  "doc_idx": 170,
+  "doc_id": "8b217d684906652378e20197b0b85faef56ada9382352f1b5cdfa36c4d38e7a5",
+  "title": "Joseph Octave Mousseau",
+  "n_common_entities": 24,
+  "n_candidates": 552,
+  "text_hash": "b0a4221524a21212fbbc5e227b3cf6cf271025f711bc4d99d16e8c24df1915b3"
+ },
+ {
+  "doc_idx": 171,
+  "doc_id": "1266248748aa4b479be7099a3529e0b7a212c5f27fb3ea4bba6902c50dec71d6",
+  "title": "Christian Atsu",
+  "n_common_entities": 26,
+  "n_candidates": 650,
+  "text_hash": "e86a53f6a7dc206cb20ed70713d0d1778296483ff852ca3b32418320f936c0cd"
+ },
+ {
+  "doc_idx": 172,
+  "doc_id": "47faad25fecc569817207cfe9a652967c30e7021348859470e6daa86a3f1ff34",
+  "title": "Kahului Airport",
+  "n_common_entities": 23,
+  "n_candidates": 506,
+  "text_hash": "c0b523dd65560d06d5df37c8a11dcf5407a996fbd86c1f2ccd3cc95e5d93cd86"
+ },
+ {
+  "doc_idx": 173,
+  "doc_id": "fa6a97d79efb9ee3b990118be0062e88223de4e665a6d0d6c5a45118ac9d3053",
+  "title": "Greatest Hits (A-Teens album)",
+  "n_common_entities": 30,
+  "n_candidates": 870,
+  "text_hash": "6e0ec637e3e2b7ea10f8436bb2e9c7aac2db86206cdae0d447c38e534e5c2be0"
+ },
+ {
+  "doc_idx": 174,
+  "doc_id": "82096b045eb1ff7aa682d1ddf5e5f77358ecbee918f60164bea03411cf3f0ac9",
+  "title": "Torrejonian",
+  "n_common_entities": 14,
+  "n_candidates": 182,
+  "text_hash": "97da047890f9cbd9c9a9ca3b3213f5dc845ccfb8fa2c580977af608dc47a7d3f"
+ },
+ {
+  "doc_idx": 175,
+  "doc_id": "8dd6a44a30bb06013590a7fd1598acd49eafabd9c7bf93e8a624b9f3a4f27c95",
+  "title": "Carol II of Romania",
+  "n_common_entities": 27,
+  "n_candidates": 702,
+  "text_hash": "da22735848fb26411487caff08c945288c0f754cd94770dc94eafa5d09730f39"
+ },
+ {
+  "doc_idx": 176,
+  "doc_id": "14e2fd37f881c7f4b45dfd4d7bf361d7227c48619b143b9cbb543d4a14383464",
+  "title": "Metropolitan statistical area",
+  "n_common_entities": 18,
+  "n_candidates": 306,
+  "text_hash": "1877da5d04bdb0ca5995a0af64cf9affc8368c6cb68986bd05c84ee73210f1af"
+ },
+ {
+  "doc_idx": 177,
+  "doc_id": "991eb5a5f3be3e30e87e0787550992584a014de89d5a20b8e49b8e14eeec4141",
+  "title": "Sarah Gibb",
+  "n_common_entities": 21,
+  "n_candidates": 420,
+  "text_hash": "dac086c629fcd159d09f27ad1cf4139fc41592ac37679ba5f9b37aac3b264ad4"
+ },
+ {
+  "doc_idx": 178,
+  "doc_id": "22973c88d95c59557243d95b4218d111bcdac8ad4f115a31c5abf2848a29f470",
+  "title": "List of songs recorded by Rage Against the Machine",
+  "n_common_entities": 28,
+  "n_candidates": 756,
+  "text_hash": "73f6876068dabe381ab555d8853cb9ad8036b7a80a5a1f1767ace73878154c20"
+ },
+ {
+  "doc_idx": 179,
+  "doc_id": "f6ebeab259f9376a818ff1a8b6e08423dea2aa9e72ed4783a6b37820155f9678",
+  "title": "National Turkey Federation",
+  "n_common_entities": 14,
+  "n_candidates": 182,
+  "text_hash": "b65d93aaab554df815bfa045eb0b565feea55300fb7d8d98a28b5fec393c4d2c"
+ },
+ {
+  "doc_idx": 180,
+  "doc_id": "d154ffef049ac273aa85e3b808575e300b6a3f6f37c419315c439aa9f9709a5e",
+  "title": "Mike Padden",
+  "n_common_entities": 24,
+  "n_candidates": 552,
+  "text_hash": "41a2aed5326460112f7b2e19be99246d32b4bc553ddd68a0ac06309a5b20ba48"
+ },
+ {
+  "doc_idx": 181,
+  "doc_id": "4ddc4bf1fad212b17aceab4e900991c18998d237b4aa38440f084be3659b8e4b",
+  "title": "Puskás",
+  "n_common_entities": 24,
+  "n_candidates": 552,
+  "text_hash": "27c752bac2ce5b0b708544e99aa7ea9bd7f64fcd64d17b58568015676086bb72"
+ },
+ {
+  "doc_idx": 182,
+  "doc_id": "8ae092375743778064a09f2162aa6e37b410694cd13d76a54d04eb07ea99a646",
+  "title": "Zevs (artist)",
+  "n_common_entities": 20,
+  "n_candidates": 380,
+  "text_hash": "cff863efaf01298250e2f0ba5ea32fc920179b3db29b18211c5cde72ff47d4d8"
+ },
+ {
+  "doc_idx": 183,
+  "doc_id": "282993d293c733ad3416e72a8b68ec0d1e434cb69c756a9681a7dd008b77bc3e",
+  "title": "Camp Caves",
+  "n_common_entities": 19,
+  "n_candidates": 342,
+  "text_hash": "cf21b11491de762f5afb86a1f44e431291b6ddf1dc0b133c1fa4ae6b629c3334"
+ },
+ {
+  "doc_idx": 184,
+  "doc_id": "207f8e44ceaab20f782595439380f219e722809a955ab3835ebb46be6a889daa",
+  "title": "Independent Democratic Action",
+  "n_common_entities": 24,
+  "n_candidates": 552,
+  "text_hash": "285191eae53b58529be8e18eaf211d0913b0e610dfa305af0c59901650c344e9"
+ },
+ {
+  "doc_idx": 185,
+  "doc_id": "126808e0b4efa143a2fd708490b185f4345996844eaa3af513a9b46437651f9f",
+  "title": "I Knew You Were Trouble",
+  "n_common_entities": 20,
+  "n_candidates": 380,
+  "text_hash": "779844e3c64027a6a0fd8a4c15f9aa9617fffb908f1ea819b11c027df81b46be"
+ },
+ {
+  "doc_idx": 186,
+  "doc_id": "e02f7e0388577ff4694a17ae17e74744da0fdcdb15cab344923e05d91a4e6d80",
+  "title": "Great South Australian Coastal Upwelling System",
+  "n_common_entities": 13,
+  "n_candidates": 156,
+  "text_hash": "2e9b4e3824bf5a368b6b5641ecfe8632045c5be4c8ea76ef555b0e1a1310aae7"
+ },
+ {
+  "doc_idx": 187,
+  "doc_id": "03c9fdb18159e0ab0563d40c9492c598e65d074249142831c0d00af4c18ee09d",
+  "title": "X-Men Legends II: Rise of Apocalypse",
+  "n_common_entities": 18,
+  "n_candidates": 306,
+  "text_hash": "4a28715e6fc43dc1e29edb9d518932f559e0ec7073a2ef239436b1e6381d3ba4"
+ },
+ {
+  "doc_idx": 188,
+  "doc_id": "69bc2a6a0ee99206391161ac5c7b206483c008a91b1a93aae19f4b26fb27f2c3",
+  "title": "Çağlar Söyüncü",
+  "n_common_entities": 17,
+  "n_candidates": 272,
+  "text_hash": "5973da4268073ab00d580756cbfad8742652b48e1c8bd9ae64cc6e5a9075c676"
+ },
+ {
+  "doc_idx": 189,
+  "doc_id": "2eff004666d93577a893907ee6842f08000a93daf1b5394b3fb09ca6618da361",
+  "title": "Chachalaca",
+  "n_common_entities": 15,
+  "n_candidates": 210,
+  "text_hash": "6f4d027f5d4d96c5e2ea4e7d56215254f0c60131e63dedf8e6b869fc1624e977"
+ },
+ {
+  "doc_idx": 190,
+  "doc_id": "2f9db0b005cfa9fa8c3e722605af1059834956ab36e26290e6f93f72a96a53d3",
+  "title": "William James Wallace",
+  "n_common_entities": 22,
+  "n_candidates": 462,
+  "text_hash": "76a4cd1a6c0a8ed69f11e259f2add69a4d754e4ace57ea0cf6bf0a4eef7302a5"
+ },
+ {
+  "doc_idx": 191,
+  "doc_id": "e7d9c6cd65124531a2f616477dab91f43dd86e84c590d5c4d51dbaa245c27f72",
+  "title": "Horst Eidenmüller",
+  "n_common_entities": 31,
+  "n_candidates": 930,
+  "text_hash": "56221a5e00567baecbe730257bed963f0b3f09ed66c28b0fe13e06124536f2c6"
+ },
+ {
+  "doc_idx": 192,
+  "doc_id": "d12724959c9f02531ef7aaf89de662db991f4d929820561bb54714e4113b58c8",
+  "title": "Goght",
+  "n_common_entities": 13,
+  "n_candidates": 156,
+  "text_hash": "1163a1fae0af974c630f346cb241495eefa9c03212e1d85b4740fdfaec91d36e"
+ },
+ {
+  "doc_idx": 193,
+  "doc_id": "9bd0815f52c8300ff6b7cb49129e1695515b0387bf58e5247658e631e1012a88",
+  "title": "Riksakten",
+  "n_common_entities": 20,
+  "n_candidates": 380,
+  "text_hash": "90ed36b2b87ce5e4e5ba87695fffbfede8fff9261c9671136c8205cdaf3d7a7b"
+ },
+ {
+  "doc_idx": 194,
+  "doc_id": "08c0631cb544ade77b60b8f41492e1769143cac3897f001840dea53f23b54b8b",
+  "title": "Astana International Financial Centre",
+  "n_common_entities": 22,
+  "n_candidates": 462,
+  "text_hash": "2dc18c68cec9692538748395aa82be048c60b7cbe26e725266878fd369a96755"
+ },
+ {
+  "doc_idx": 195,
+  "doc_id": "6308286d54691fe228c6e7247fad4ea5994b699eefb65a57be9ef295b9da936d",
+  "title": "Amos Hochstein",
+  "n_common_entities": 21,
+  "n_candidates": 420,
+  "text_hash": "32ab682415d485b33879836807c4d9e552123d1d51df416478de93b7c5c309ef"
+ },
+ {
+  "doc_idx": 196,
+  "doc_id": "a9b6f67bc78fe4c86328ceb492435a7f8a8afdb1c7e43f9fb2b32e88b07c5cd1",
+  "title": "Gregorio Pacheco",
+  "n_common_entities": 14,
+  "n_candidates": 182,
+  "text_hash": "a80c20a8d26b4eae4d2e09464e546b3eb3907c702853c46a063a3e7bab4668f3"
+ },
+ {
+  "doc_idx": 197,
+  "doc_id": "c1d4a505301635adfc3f2749571a885a7a23e9304f740382d4693bb97e53b523",
+  "title": "Pete Murray",
+  "n_common_entities": 19,
+  "n_candidates": 342,
+  "text_hash": "3ab543c37d58a4079ba572b1e69802303034c0a4582cfa97dbcaa62dd798af40"
+ },
+ {
+  "doc_idx": 198,
+  "doc_id": "e54ec4f99f340768e4e4b56cae27cd572cbb82e28b6f05c70e20556493e55b90",
+  "title": "Malpai Borderlands",
+  "n_common_entities": 15,
+  "n_candidates": 210,
+  "text_hash": "fa295f3b863ab237a3ba16acb702d9e773f6f45b4a27d371cff39effcb0d888f"
+ },
+ {
+  "doc_idx": 199,
+  "doc_id": "266a7fdbe75d254bdbd5423c2479f4c7149e3c54736db5f0219f2a36a94de2ef",
+  "title": "Lost Verizon",
+  "n_common_entities": 16,
+  "n_candidates": 240,
+  "text_hash": "b02ea411ee15c53f98fac32809bf3f4473860b80df973ca64e7d8f0831677b33"
+ },
+ {
+  "doc_idx": 200,
+  "doc_id": "40d6dac3af4c37001b2d242fccd1a31afa69444000e94b21625994397395d078",
+  "title": "Leandro Mbomio Nsue",
+  "n_common_entities": 26,
+  "n_candidates": 650,
+  "text_hash": "5fada2143dc2a6204389d01803f89aec51df17a95f1a49a20c83b395a59a5c86"
+ },
+ {
+  "doc_idx": 201,
+  "doc_id": "4a2294a5be18322c14e19dbeaace26afaf7cb6dc9279dd0677273bfb6f74ec9c",
+  "title": "LEC billing",
+  "n_common_entities": 8,
+  "n_candidates": 56,
+  "text_hash": "d9a1add14c902027ad96a7638e2a8eafd4b69120b71e9bd1484bbe70ab406b4d"
+ },
+ {
+  "doc_idx": 202,
+  "doc_id": "d431996c6c0e9b32b934e9aafaceec42be353355a2cde9d9e5d2ab3fcf516edb",
+  "title": "Joe Gates",
+  "n_common_entities": 14,
+  "n_candidates": 182,
+  "text_hash": "1d926de3ac5d4ca44b5f5b779270190cb8ccafb7bb3ad8523e21ff52f5f2643f"
+ },
+ {
+  "doc_idx": 203,
+  "doc_id": "10f2b826fc9478c7a6bb2f18170a95ca68dc818c5fb52bf54dc6f2ed6cc233b6",
+  "title": "Lunula (amulet)",
+  "n_common_entities": 9,
+  "n_candidates": 72,
+  "text_hash": "b10ee1a8e32cfac11283351822254834e63be1dd99b80ba0445bc9e6657b8e4b"
+ },
+ {
+  "doc_idx": 204,
+  "doc_id": "7a1715d3b89ea8afed5e942585ec180c1388c767922cffdcdc23077e288e71e0",
+  "title": "Schiedea haleakalensis",
+  "n_common_entities": 9,
+  "n_candidates": 72,
+  "text_hash": "5915a93a63561095adf535a07d51099c0e64d35a41934c57597821af01ef81ed"
+ },
+ {
+  "doc_idx": 205,
+  "doc_id": "39022207d710bd002a39dc2072830f0118cccce9c85fcc3041f243a3328214ed",
+  "title": "Jeanne Thérèse du Han",
+  "n_common_entities": 22,
+  "n_candidates": 462,
+  "text_hash": "db87eed4447e0de62a806c9d549b88828be0bff72ad2dd92aa4acf11d9a98c1c"
+ },
+ {
+  "doc_idx": 206,
+  "doc_id": "e6905f7c11421e4423763d94beb2d7ead8c3a613f79ea1cccc1a2a5ac0f0db2a",
+  "title": "Kokumin Dōmei",
+  "n_common_entities": 30,
+  "n_candidates": 870,
+  "text_hash": "ef987344e47b730637a5b9c2e3128bae391b6fd9459407c5b9dec61505227a16"
+ },
+ {
+  "doc_idx": 207,
+  "doc_id": "ba793add71a5ec85e2e4c006bdde6798f9b3da56554f560f9a1e977ccea2216b",
+  "title": "Vanya Mishra",
+  "n_common_entities": 20,
+  "n_candidates": 380,
+  "text_hash": "3bb0cad1f142869b7197082fdbdf3f90a2983e687888f0605446be16833cd86e"
+ },
+ {
+  "doc_idx": 208,
+  "doc_id": "cf1b454cdb0ddcbbbf74515bf57c909f4be1fe0ecba7ff4ec75b6e94a1518700",
+  "title": "Kitigan Zibi",
+  "n_common_entities": 12,
+  "n_candidates": 132,
+  "text_hash": "d5a57b266dc5846042f44a425b6ea4ea6721448c7c699e15d07ef9b7b3e517e4"
+ },
+ {
+  "doc_idx": 209,
+  "doc_id": "daa5f690362c9b5c58db9583bc29dc6bd02c4c074b841f4930b6167c07b1fc33",
+  "title": "CKNL-FM",
+  "n_common_entities": 19,
+  "n_candidates": 342,
+  "text_hash": "e2463e5a53093d05765c71ca558934827de991c3a4b560ad5e9b0679191c0a5f"
+ },
+ {
+  "doc_idx": 210,
+  "doc_id": "f23e6b9f051c699b5cd75f3e87dc1f9a3e52c60f0d2dade842d3aaad5bf0b1d9",
+  "title": "William Hepburn Armstrong",
+  "n_common_entities": 26,
+  "n_candidates": 650,
+  "text_hash": "e1d48c6a4519614a599997a4cfa8f8cd618d388889c45cf979b2dee8ef21bd1d"
+ },
+ {
+  "doc_idx": 211,
+  "doc_id": "de88865f50245387c84b72e028004bda8f8945cf2cb7986e4177a5c79362b30a",
+  "title": "Joseph Israel",
+  "n_common_entities": 21,
+  "n_candidates": 420,
+  "text_hash": "e9332343fa2c97cc33c007f35f37cf4c9c71ee45578b83394560ffb8dfb754f5"
+ },
+ {
+  "doc_idx": 212,
+  "doc_id": "c211144d8f9b4871c3f1a52e5a4b0c50bba529b83ce06b5c884fc009a4afa7cc",
+  "title": "Ellerbusch Site",
+  "n_common_entities": 6,
+  "n_candidates": 30,
+  "text_hash": "7b96a6e4fabf3a050bb8219ef7fc75dc0faeca19f16d81158c83b95856c21872"
+ },
+ {
+  "doc_idx": 213,
+  "doc_id": "5d7082ead76faf0f7d7ea94e84183b1cbd88b160c63981409568a8f5fc90967a",
+  "title": "Brother Man",
+  "n_common_entities": 13,
+  "n_candidates": 156,
+  "text_hash": "17262d9b61ededf7074a47d37e00496a60176f7ab65ec90d895438ce7cf2ea1d"
+ },
+ {
+  "doc_idx": 214,
+  "doc_id": "cc52baa2134cadb68050d85aa41254acf06e69c67a879800b4689438c05176c1",
+  "title": "Big Muddy Creek (Missouri River tributary)",
+  "n_common_entities": 24,
+  "n_candidates": 552,
+  "text_hash": "a9e2555ab3db0018308a94541066951647ba8400b59bf51bce83941d745c1f0c"
+ },
+ {
+  "doc_idx": 215,
+  "doc_id": "a112af2ca6ca82501dddd5080eb99079c01010e35ac4b980e1daf3dc829736d9",
+  "title": "Clear and Present Danger (film)",
+  "n_common_entities": 17,
+  "n_candidates": 272,
+  "text_hash": "dd5525981b6841b572780232e64203c0549e83adc8961c2e659e1b61b961c6aa"
+ },
+ {
+  "doc_idx": 216,
+  "doc_id": "718d045f79150cb6536d39b01220b854c8b44f6a9d5e0164292252d1c55d00fd",
+  "title": "Osmund Ueland",
+  "n_common_entities": 17,
+  "n_candidates": 272,
+  "text_hash": "1c4aa05e097443047d3dd6dba7c1bdcc055915cf7535b40bbdabb3ddb16a5378"
+ },
+ {
+  "doc_idx": 217,
+  "doc_id": "0e9c42702b467dbb55804d60b1b74e69080aba45374970a9dc2a80559943ecb5",
+  "title": "Alecu Russo",
+  "n_common_entities": 19,
+  "n_candidates": 342,
+  "text_hash": "5862ea134394d59763cfd82e338d01f4ad323acb756696fe4a321adfeb220564"
+ },
+ {
+  "doc_idx": 218,
+  "doc_id": "73078bcf785dca96b2ff394164fa1ef86dab72d66b6dcf6c4e3d12f00e97d0a4",
+  "title": "Ramapo High School (New Jersey)",
+  "n_common_entities": 23,
+  "n_candidates": 506,
+  "text_hash": "62ae528172b186573946d8d72072882f95d91d36715851dac7c9a8ef110ccf31"
+ },
+ {
+  "doc_idx": 219,
+  "doc_id": "568991f8b537aab1f616a925d10c732686946d7581db999b99c79b897406deaa",
+  "title": "Tulelake camp",
+  "n_common_entities": 29,
+  "n_candidates": 812,
+  "text_hash": "815645c4bd737d9165894e0cbac3e918dd39af0ed89f28f79a03cdd214109a99"
+ },
+ {
+  "doc_idx": 220,
+  "doc_id": "e7e6cf3c18bbbd94f02f57e5e9e8ee14f300f3662d6fd8c4c91220cc930dc53b",
+  "title": "Tomasz Bohdanowicz-Dworzecki",
+  "n_common_entities": 21,
+  "n_candidates": 420,
+  "text_hash": "536ada767dc7aa173dd8c8975f1452a3058fd3262dbf0f597b9164a8e3263f64"
+ },
+ {
+  "doc_idx": 221,
+  "doc_id": "204769903f11791ee6eaad8da8e439693fc81a16db881e75eada6a3db7d116fa",
+  "title": "Financial District, Manhattan",
+  "n_common_entities": 21,
+  "n_candidates": 420,
+  "text_hash": "696a6e67bd2c10ceb1c4d0ac02f01265d450e512cccd13cbd91e3a03ba00a129"
+ },
+ {
+  "doc_idx": 222,
+  "doc_id": "e7878643822c916c8c5cf22c343b7ee69b02fc006162f3650cc520ed96874c31",
+  "title": "King Louie",
+  "n_common_entities": 11,
+  "n_candidates": 110,
+  "text_hash": "0569fa3ac663fd510127e779c4ba781be6cbd1707ef1f9cca87641e3766f5cc0"
+ },
+ {
+  "doc_idx": 223,
+  "doc_id": "a8153c9aabaaaf80dcc9ca824fed8acfc32f25081b26f4a2fc71738ead2cb21d",
+  "title": "John Henry Dearle",
+  "n_common_entities": 17,
+  "n_candidates": 272,
+  "text_hash": "b02bfeb71d28ed5d870e32342d86c9cdef84e7bd064c2467dba9012bcf8c7814"
+ },
+ {
+  "doc_idx": 224,
+  "doc_id": "c98e8acbab93f0379a7f76108b165e4a2056a80f5a5d748f52d9d33d6d8e08b2",
+  "title": "Patrick Stettner",
+  "n_common_entities": 17,
+  "n_candidates": 272,
+  "text_hash": "a033e826e16db63e2d285f0652e5373269ba0cbab5d324a314b1d156ba6c7016"
+ },
+ {
+  "doc_idx": 225,
+  "doc_id": "212643704fc9fd84c20ca485db051667b393757f25b03472502b7dae2aa22f16",
+  "title": "Arjuna",
+  "n_common_entities": 23,
+  "n_candidates": 506,
+  "text_hash": "377790c8dfb4469d1c0d482a83c03be445f1e4265f401c6996398600a521212d"
+ },
+ {
+  "doc_idx": 226,
+  "doc_id": "b5ab250d649d64d6c810333657156b1e712bfe2da0ac9e3791cfb2c5b59f34ba",
+  "title": "The Two Mrs. Nahasapeemapetilons",
+  "n_common_entities": 13,
+  "n_candidates": 156,
+  "text_hash": "e723e65eb8137211f418d1f0bb388e6900134d327a029373bbdbabdc8956389a"
+ },
+ {
+  "doc_idx": 227,
+  "doc_id": "160f4b492758f9cd2247e3398c37cb2d5e8f77a86dc3bd11d908fdfa3900eb9e",
+  "title": "Daniel Ajayi-Adeniran",
+  "n_common_entities": 16,
+  "n_candidates": 240,
+  "text_hash": "1d2ff94e5025570a312d971d14b40ac3c5f635ca0a12ce9005dc17d00aab35e3"
+ },
+ {
+  "doc_idx": 228,
+  "doc_id": "eb5b8081e03756980b19ca59148ffbd1c73270095c1241d2eb831ea37d376329",
+  "title": "Ocean Waves (film)",
+  "n_common_entities": 16,
+  "n_candidates": 240,
+  "text_hash": "fe38b87864f0dbc569885453b8825a96c6cf0c219a48f7843c76a5652f158463"
+ },
+ {
+  "doc_idx": 229,
+  "doc_id": "0bbe2218ec10af985f9b6a90cfb11574368f856ef1566c5e2455131331194be0",
+  "title": "Mavis Grind",
+  "n_common_entities": 14,
+  "n_candidates": 182,
+  "text_hash": "de6c318f639f48cecf5a0178c83752044fad92d0c97ac6779261252e10c451c6"
+ },
+ {
+  "doc_idx": 230,
+  "doc_id": "0128d4d31191cdc718bc198d9e30b92ba1b522f2cbda9e1c2c3a415884b2f3e8",
+  "title": "Ages of consent in Oceania",
+  "n_common_entities": 13,
+  "n_candidates": 156,
+  "text_hash": "ae7d4db8f6e8b4db57ed887e67c5dec6bbaac9748ec652920e06cccf3f752e14"
+ },
+ {
+  "doc_idx": 231,
+  "doc_id": "9ce07c297605f49729642d4a2f36684cbb9db437d70aee1206a4c31af230d01f",
+  "title": "Trane's Blues",
+  "n_common_entities": 23,
+  "n_candidates": 506,
+  "text_hash": "02f058160a28bef391c4d659834c6f51392689cbbc9e1c6cc95df6ae7fc72ab0"
+ },
+ {
+  "doc_idx": 232,
+  "doc_id": "fe1bd9b423c9532aed2342c1e9feb5d37dee44428472dc89e2b5e30b1557c465",
+  "title": "Hooshang Seyhoun",
+  "n_common_entities": 19,
+  "n_candidates": 342,
+  "text_hash": "b8ec170ffd95e079f9c4e4fba4bdba7e31dc735e6105985606f511d27b234618"
+ },
+ {
+  "doc_idx": 233,
+  "doc_id": "cd4ab4143c4814d968cf3c71bffbdc4d4e821e235c3c377ed871b2faef5ced90",
+  "title": "Thirteens (album)",
+  "n_common_entities": 19,
+  "n_candidates": 342,
+  "text_hash": "a49fedaba76cf94c4ee9a49ac70dc362726dd5e562629896c4d4404b0a055375"
+ },
+ {
+  "doc_idx": 234,
+  "doc_id": "8b0564d0a1340640caf079575420851e5d365795eebd4d209d2e5c2e35f89f04",
+  "title": "Babyfingers",
+  "n_common_entities": 17,
+  "n_candidates": 272,
+  "text_hash": "881931fbc34db906548a63d4f62eb1102a8cc1a8fe4bdf7134441a0c536f2d7b"
+ },
+ {
+  "doc_idx": 235,
+  "doc_id": "997abb19250c7a496c8f035cd64da2b7c9700d8c99a4643005b5c067aa90c510",
+  "title": "Brigden, Ontario",
+  "n_common_entities": 22,
+  "n_candidates": 462,
+  "text_hash": "4fbca97ab14f0c543c8a80b9a8984fabd7f3bd37d9803abf1f23da2c6396a3fc"
+ },
+ {
+  "doc_idx": 236,
+  "doc_id": "5ea3af2337123697e1b6a0f83a2ff24df2dcd736dac15e044a28997152042b26",
+  "title": "Carl Dix",
+  "n_common_entities": 14,
+  "n_candidates": 182,
+  "text_hash": "6a8d43d93232641a43595739e946ca891c6b8824a50c9bffe94a382747f1c716"
+ },
+ {
+  "doc_idx": 237,
+  "doc_id": "0d13d60a6694279398380ca6f3bd25f0e3fdb5241d38338ef66142d5297fb222",
+  "title": "US Airways Group",
+  "n_common_entities": 20,
+  "n_candidates": 380,
+  "text_hash": "a17abd816a0f8aaec382dc5c0710dbe51c197467818b59069bc645b83213ca69"
+ },
+ {
+  "doc_idx": 238,
+  "doc_id": "358b78be604347a2f8b378d130f840b3d5a724a535cc412dfae4f13af0ea60ff",
+  "title": "Jerry Steiner",
+  "n_common_entities": 23,
+  "n_candidates": 506,
+  "text_hash": "85d668f516f9182bd18bb6d787451640668a1fb7e4c04e37a8586154065f04e7"
+ },
+ {
+  "doc_idx": 239,
+  "doc_id": "3afc100626d60939a82c833e576b0763d7ecae4ee9f64bd9a4e7c6c524b1129a",
+  "title": "Joan Burton",
+  "n_common_entities": 20,
+  "n_candidates": 380,
+  "text_hash": "56e5d9216f78a0071bf792824cf771c70b252dd9a784ac58fe5048dc0d8f5dde"
+ },
+ {
+  "doc_idx": 240,
+  "doc_id": "4af8afe35b14200bb53557d17c323633a6e9291abd3f5ee01194131c6e3c725b",
+  "title": "How to Save a Life (Grey's Anatomy)",
+  "n_common_entities": 23,
+  "n_candidates": 506,
+  "text_hash": "c2438e2f468925e350be390a408345e2690e3f05479edd51c73f79c66e90b412"
+ },
+ {
+  "doc_idx": 241,
+  "doc_id": "dcd5a00f248ac1c031a19986f3dd11344016162ee7e5d024f9f7389c5309907e",
+  "title": "Lappeenranta",
+  "n_common_entities": 24,
+  "n_candidates": 552,
+  "text_hash": "c05150c0923f53b6dea46305e1fe600fc19d8a2bdf9034a1d899ca6d5fbdcafc"
+ },
+ {
+  "doc_idx": 242,
+  "doc_id": "c2948e0e44e361e443a99f69badd7c68f24823f9791ee59045b2c255521597e9",
+  "title": "James P. Maher",
+  "n_common_entities": 31,
+  "n_candidates": 930,
+  "text_hash": "ddb547f61f8f3d1a2a337721ef147231d55fa46593978a0e2f2ac77860c9f49f"
+ },
+ {
+  "doc_idx": 243,
+  "doc_id": "63855b1be3b2a73bee60a35847f5341c01c0f053e46a54ea379dd36ebd44bc65",
+  "title": "Statue of Jan Smuts, Parliament Square",
+  "n_common_entities": 24,
+  "n_candidates": 552,
+  "text_hash": "450e82ffac7f50f76d1412e97f6367446e0d36787989bfdc7aaadb4a3ff8471c"
+ },
+ {
+  "doc_idx": 244,
+  "doc_id": "bfa0c128d4175476088e9f966ee0ac9e9f9228d4c3278d7425d0c54d5215448b",
+  "title": "Panama during World War II",
+  "n_common_entities": 14,
+  "n_candidates": 182,
+  "text_hash": "25c55fdbbff106b148c7a248b431b059ebf744876f1aa56128f23a7221543776"
+ },
+ {
+  "doc_idx": 245,
+  "doc_id": "a31bcf39972bcaf7c15f6def1762bd6ae1018d401c1659cdc8b01d8057b5eafd",
+  "title": "Arthur Percival",
+  "n_common_entities": 15,
+  "n_candidates": 210,
+  "text_hash": "176877bd7d6cfd88ace2a4edc2a92b4321ff3e2611066b5e8158f6ba9badae34"
+ },
+ {
+  "doc_idx": 246,
+  "doc_id": "28efd8557090995d99512799715f840e68ae2e482eb58239605aed6b885fa880",
+  "title": "Holden New Zealand",
+  "n_common_entities": 25,
+  "n_candidates": 600,
+  "text_hash": "ebf91969a96f0e59b61926cd76fcf1de00894a3edd3441bb2eb84989fe229098"
+ },
+ {
+  "doc_idx": 247,
+  "doc_id": "6eebc5188c693855c51486af10e3765b686f6d6ace6cbd59a18da83ab4b87b8e",
+  "title": "Piton des Neiges",
+  "n_common_entities": 23,
+  "n_candidates": 506,
+  "text_hash": "2168fbe1a8ff695ef53b0a9489e98671fd298a6c8ccc52c919b3ac93d59bbc39"
+ },
+ {
+  "doc_idx": 248,
+  "doc_id": "3a3c8e43f937952d36867fcb4145d8c91caf902eea1968bc9a378a19ca648141",
+  "title": "Irish experiment",
+  "n_common_entities": 18,
+  "n_candidates": 306,
+  "text_hash": "0ad2c6e9a78d170535c811308922ff52ba4aa95b8de0c5d1813d409a2520b30e"
+ },
+ {
+  "doc_idx": 249,
+  "doc_id": "2d4af7e795410ea5b67f933c0182d7d6625690b61cc5225f005ca1760a1dac74",
+  "title": "Bookbinder soup",
+  "n_common_entities": 10,
+  "n_candidates": 90,
+  "text_hash": "e1e3968f0e1f7e8580e79ae055755081b55940f86c96b63c62b33baa07df7ec8"
+ },
+ {
+  "doc_idx": 250,
+  "doc_id": "957da73f102510e9ce5072cf66d20ffd1edb51de61e3a0f24e2f7ef2ac63e47f",
+  "title": "Durán, Ecuador",
+  "n_common_entities": 15,
+  "n_candidates": 210,
+  "text_hash": "65a8e01481e334bd1021d99ee9285d371baf887823b50ca0ae8c9b63ebca912f"
+ },
+ {
+  "doc_idx": 251,
+  "doc_id": "29461d6a2884ea4b0c6dd448e076988cbc44016b5a98fb27cbe8e7cafd692f7a",
+  "title": "Argentine heavy metal",
+  "n_common_entities": 19,
+  "n_candidates": 342,
+  "text_hash": "fea16558c686ce5bd300c82c4f463541b64a2bb5a8d5e108b9fbaccb2fec7c64"
+ },
+ {
+  "doc_idx": 252,
+  "doc_id": "c563b13a6f9b32446fa71a41917cf0efe7db8b058d1110a86636d05ea16ecd31",
+  "title": "Guarenas Cathedral",
+  "n_common_entities": 24,
+  "n_candidates": 552,
+  "text_hash": "e20d1955a2f67116b86daffa5d4afa4379fdeeffbc8ea398343577b6e1e7cc7f"
+ },
+ {
+  "doc_idx": 253,
+  "doc_id": "c6d0f3f62a0aa080d358904f8c082d798c7042c61f8f2552107aa903781ff867",
+  "title": "Foots Creek, Oregon",
+  "n_common_entities": 16,
+  "n_candidates": 240,
+  "text_hash": "020817a2c0a5fc34f0aa3c8766ab9b5005925d79f07efe97462c982c8c3c87f5"
+ },
+ {
+  "doc_idx": 254,
+  "doc_id": "e2e0f7fdb58680ad51c652f04d1a9f4b610fbff1497831cb09ab252394b63a8b",
+  "title": "Committee against the Finnish White Terror",
+  "n_common_entities": 17,
+  "n_candidates": 272,
+  "text_hash": "62c4fd94aaa321a7f5851c5ba9602ffc7ae1ed6077af794790cda3b6133c874f"
+ },
+ {
+  "doc_idx": 255,
+  "doc_id": "9d09f1d5448164e08ae9b6f5325b86853a731b54552eba1bfa29be44bbf7b362",
+  "title": "Bessang Pass Natural Monument",
+  "n_common_entities": 24,
+  "n_candidates": 552,
+  "text_hash": "3a94a941a40b9f14c60f7ad056ac29d6c62a2b3fb521f911322bd58d8fe2921b"
+ },
+ {
+  "doc_idx": 256,
+  "doc_id": "0db226db50fb40786c88b6364d1bb41700eb0eacfbaa57f55e8ea5cfff77ed8f",
+  "title": "Panlongcheng",
+  "n_common_entities": 21,
+  "n_candidates": 420,
+  "text_hash": "c0e505d3f33395716795bfe299af68c69a8d5a688276ae37bfd83226e43da29e"
+ },
+ {
+  "doc_idx": 257,
+  "doc_id": "f52e2b16584fa53c8e0e51406b9bb030d27fd6cd7c4ecf0d619ef8aa69ae9b4e",
+  "title": "El Tren de los Momentos",
+  "n_common_entities": 22,
+  "n_candidates": 462,
+  "text_hash": "18f5efe285661e81c9928098350a90fc73e76dc16f76e80df3ce146d44ebb2bf"
+ },
+ {
+  "doc_idx": 258,
+  "doc_id": "da45b1a67aca1597e23d1079b1d9b5c61de8128d08bfcbeecf75c8d209cdb456",
+  "title": "Quokka",
+  "n_common_entities": 7,
+  "n_candidates": 42,
+  "text_hash": "dccdd9cdc543bc004660ba69703c5e05ae9f1b21ef84ab25ef1b4dc7739ebdd0"
+ },
+ {
+  "doc_idx": 259,
+  "doc_id": "934b1a6999d13e721f9fab7211875a5ea954f188cde030ecb87ae976a21d1d67",
+  "title": "Google Springboard",
+  "n_common_entities": 12,
+  "n_candidates": 132,
+  "text_hash": "6163015f57a6b5950617b59f7ae00bbe0128d34c6c4a5138b46d57a3db9ba08f"
+ },
+ {
+  "doc_idx": 260,
+  "doc_id": "41627aa0c78c1b82edfefa0f57a186568f749a3a56b1795ad7dc70eaf5260efa",
+  "title": "White Sea",
+  "n_common_entities": 21,
+  "n_candidates": 420,
+  "text_hash": "1c47f66ecedd6b3b152d2842a0359434ce9d8b2012dcc43c26c00937d8ea7c19"
+ },
+ {
+  "doc_idx": 261,
+  "doc_id": "2d286a616a236224bb8775b4e64028e2e121c62777aa450a428a08930f7d038b",
+  "title": "Robert K. Huntington",
+  "n_common_entities": 18,
+  "n_candidates": 306,
+  "text_hash": "6cbb6e587f74d122cd4a34a344d0c6d2431c7ac4458eb2c293838c10a3d7f88a"
+ },
+ {
+  "doc_idx": 262,
+  "doc_id": "f54c9824dc3ef327837ddbc3c042cc79cbca0156340dced2e2f515b88ea32c63",
+  "title": "Achilles Last Stand",
+  "n_common_entities": 16,
+  "n_candidates": 240,
+  "text_hash": "45b100473b772aa2ef4465a21b39c582854c8d3a8cdd06af47860f5b839a53fa"
+ },
+ {
+  "doc_idx": 263,
+  "doc_id": "eaf4df45e35c3c1d52c46f8d2b50f91e02b87f4bc66947e0518d329bda5881c5",
+  "title": "Toyota Avalon",
+  "n_common_entities": 30,
+  "n_candidates": 870,
+  "text_hash": "2a3e71e3266a498741e3ba76bc2a9da745cf6440365ca90df7bb901355ca79c2"
+ },
+ {
+  "doc_idx": 264,
+  "doc_id": "ccf0a8413c53019eb574f700c50b7d18b46da23cb7d9103f74274ec56f4e3b30",
+  "title": "Truth in Music Advertising",
+  "n_common_entities": 10,
+  "n_candidates": 90,
+  "text_hash": "0abed19ecded391349070ccc0049795c7cfb3fea81a5c2ad923089075fb1b3da"
+ },
+ {
+  "doc_idx": 265,
+  "doc_id": "a8d7759e6cbaddfa59eb7412c3a998d8bfe7845f6a403ac3c56dcaa7dbe9e088",
+  "title": "Cranford Agreement",
+  "n_common_entities": 24,
+  "n_candidates": 552,
+  "text_hash": "0f44d3864ec4304e4c2cd2dcd1b20e03e226af19e777d27fa45ecf572c6519a3"
+ },
+ {
+  "doc_idx": 266,
+  "doc_id": "865bace0dad0329c3a666c8558f0a555911f22bb9759dff21e8ed6f6d4779654",
+  "title": "Cy Becker, Edmonton",
+  "n_common_entities": 17,
+  "n_candidates": 272,
+  "text_hash": "3f7ce03f55cbbbd4046db91a9beada258c4c7fe074c28cd79fb4b06020194be5"
+ },
+ {
+  "doc_idx": 267,
+  "doc_id": "21c8e5d65bb10a6ae2caf4224d9b1225cfbb2256ee1fa4d31617f7ec784382cc",
+  "title": "Ici Paris",
+  "n_common_entities": 20,
+  "n_candidates": 380,
+  "text_hash": "17fa4f1aa18ef2bee8a44f5e109c1dc7c0b9f4cb49bbd13104600515a687ce08"
+ },
+ {
+  "doc_idx": 268,
+  "doc_id": "96d33783ea63c141d22646e4b8139a8db57409c8d9c3f65270096437929ac083",
+  "title": "Luan Bo",
+  "n_common_entities": 21,
+  "n_candidates": 420,
+  "text_hash": "c4c1704a9f805b7bb80169e0cd8c495dfecdf3845d84f19d7665ec0a00fa36a8"
+ },
+ {
+  "doc_idx": 269,
+  "doc_id": "c557eaf42ce5e2dd7530abfa359c807ace252d2deb45db8e019a75c3f74c39d3",
+  "title": "Burseraceae",
+  "n_common_entities": 25,
+  "n_candidates": 600,
+  "text_hash": "24ed12395728a6e89ebce445d30e997d490dd7d5a3dcd6aa9ca15e6de7bc261e"
+ },
+ {
+  "doc_idx": 270,
+  "doc_id": "3b6dcc461432f8feb52953e588cb028692515d0d251690137c472c21716b13cd",
+  "title": "National Executive Committee of the African National Congress",
+  "n_common_entities": 11,
+  "n_candidates": 110,
+  "text_hash": "69eee18a92607446796a2022ef15eb1ce19abb208eb6beb2c97432ca1093c584"
+ },
+ {
+  "doc_idx": 271,
+  "doc_id": "4f6532ab3a94d4faa7d67d623a8414260b63296ff2e0c8fbdc76d9070a371cfb",
+  "title": "Economic history of Cambodia",
+  "n_common_entities": 10,
+  "n_candidates": 90,
+  "text_hash": "c298d88cb1e174dcd8144ae98bece2c4abe16c5e92dc634c433b484560a63607"
+ },
+ {
+  "doc_idx": 272,
+  "doc_id": "6b88b8b934c8570fcdf9026c0f1ec25ba36709cb253255ae26f7bde01f4a6e3c",
+  "title": "FLAMA",
+  "n_common_entities": 23,
+  "n_candidates": 506,
+  "text_hash": "d8878ae4ebfd3abfef43faa7a9d0589a0cd72e14eed1c3f9f25d7e078ff84b31"
+ },
+ {
+  "doc_idx": 273,
+  "doc_id": "19661af7ec237937a6b5a793dc0747637d241bbfdc2f7a24463fd49146bd89a8",
+  "title": "Guillermo Endara",
+  "n_common_entities": 24,
+  "n_candidates": 552,
+  "text_hash": "1762a5e005bd48aa94e20621045a7de5ca6a89e7267aba855287f1a372c6e312"
+ },
+ {
+  "doc_idx": 274,
+  "doc_id": "c75c7c4c2f35f41bccb569ba37f62bf07634ea68f3df39759729ce07b547f306",
+  "title": "Washington Place (West Virginia)",
+  "n_common_entities": 19,
+  "n_candidates": 342,
+  "text_hash": "c4098b868aacf4a01813bd237d0aed6df046810e8dca643e6a82fec2a1ff79fd"
+ },
+ {
+  "doc_idx": 275,
+  "doc_id": "583b88b8377ae55273cf28a79612c9f1c495b10241379fa960c8d199a26c8882",
+  "title": "Abbas Kiarostami",
+  "n_common_entities": 34,
+  "n_candidates": 1122,
+  "text_hash": "8cebd2b2fd2334217bbbd00226e3d9a192a238c87d21d0b430ee5e115122cf25"
+ },
+ {
+  "doc_idx": 276,
+  "doc_id": "cd778311257ee98caedf5eb98847da0b2af0ea6e768b8499018c7314dc33e742",
+  "title": "Tomcats Screaming Outside",
+  "n_common_entities": 14,
+  "n_candidates": 182,
+  "text_hash": "fd1269c6e7df3ef0b41fee9cbb341c0c845849a60f705ba59a24b457f43df19a"
+ },
+ {
+  "doc_idx": 277,
+  "doc_id": "c25b004e3020d298610b43790e7c4ca967d8444014441ab531bfdf4152ab1cee",
+  "title": "Mark Harmsworth",
+  "n_common_entities": 19,
+  "n_candidates": 342,
+  "text_hash": "1f6d5818e08df0c45489f4ba73cab4183a592653f88146724db0c301ab05008c"
+ },
+ {
+  "doc_idx": 278,
+  "doc_id": "519f0e3bf04fe75ee5ca70250450f96d3210cefc1d7acecef4ecb96684da0173",
+  "title": "Friends of Peter G.",
+  "n_common_entities": 20,
+  "n_candidates": 380,
+  "text_hash": "9878e19eaa7d8439974b09da4e9aab8edcf22fc0695f1995f7d46d36399cc0f1"
+ },
+ {
+  "doc_idx": 279,
+  "doc_id": "6ff7fd51691981b48a98c078dc7b4c33f9fa03d1dad6793df523aacf49378649",
+  "title": "Joyce Godenzi",
+  "n_common_entities": 16,
+  "n_candidates": 240,
+  "text_hash": "1714d2e7975e12ec0cfdcc645625ef205c961601fa659bba8ff8dc5b1acb983f"
+ },
+ {
+  "doc_idx": 280,
+  "doc_id": "5626f9e232b596b3e2bc10775f0f9ab610a4848ef0c15ecb9eb9b6000bc52b82",
+  "title": "Pskhu",
+  "n_common_entities": 24,
+  "n_candidates": 552,
+  "text_hash": "1b01a4037ddb45330b30f54e6a44b8dfb091bdf6fa3afcb293ac1aa1cd760973"
+ },
+ {
+  "doc_idx": 281,
+  "doc_id": "e53da60b695c7605452222ca907d9469dba1d66fb7677f4fbbabfd2eb3c34950",
+  "title": "Cassin's finch",
+  "n_common_entities": 12,
+  "n_candidates": 132,
+  "text_hash": "d89c7063e6cd4fda3ae29c01e460d3e3bcc86d72187b2c545fa6ddcd1664f7c1"
+ },
+ {
+  "doc_idx": 282,
+  "doc_id": "5a66dea695ce0be0331437e501d3cbb9f6aaab10cca703c98e9c24c1c100d07d",
+  "title": "Christie Elliott",
+  "n_common_entities": 15,
+  "n_candidates": 210,
+  "text_hash": "97f4d22ac9547602b3d0e1fb81d8427d3b576026966b0c4ea42e0366a5bc5c6f"
+ },
+ {
+  "doc_idx": 283,
+  "doc_id": "ac71dba8c8929def7b5428568bb384fad8364eb32bf969c31d78c8d5f38b16fd",
+  "title": "Bajofondo",
+  "n_common_entities": 11,
+  "n_candidates": 110,
+  "text_hash": "93bc0f6f99d7cfc4333bbae18cbc872495410d07038830de364ab72bad8bafb9"
+ },
+ {
+  "doc_idx": 284,
+  "doc_id": "04f3022b12e29b2e0b4e8db09e89d57cf5bf91a9293e7d46cd07749ed3ec7d7a",
+  "title": "Mendenhall Glacier",
+  "n_common_entities": 12,
+  "n_candidates": 132,
+  "text_hash": "5c7833adc07b9b0814c2a10deed325c5ab83d3f1838763c9205a41b0dace9891"
+ },
+ {
+  "doc_idx": 285,
+  "doc_id": "072d86c2c65169c504b4ed8686072464278b5c27ece4834a3ab08fb04e1990b3",
+  "title": "Battle of Chiari",
+  "n_common_entities": 24,
+  "n_candidates": 552,
+  "text_hash": "4e80674f678d5e5af02eab953d6668224116d9bf65cc919a52b55adbc82e8145"
+ },
+ {
+  "doc_idx": 286,
+  "doc_id": "a04bf457f899ea5d56da55f03e16859c6f29b149ec7e4d499e7fba97d285b6e2",
+  "title": "Washington v. Texas",
+  "n_common_entities": 13,
+  "n_candidates": 156,
+  "text_hash": "78140f5c790028b283d9e8585d69db0f32cc49e5a7a70101c1d70dd1a60c672e"
+ },
+ {
+  "doc_idx": 287,
+  "doc_id": "a634e3d0805b5b4d85602ef36f800a54267043502bdc36e298abaaa576f00cfe",
+  "title": "Raunaq (album)",
+  "n_common_entities": 12,
+  "n_candidates": 132,
+  "text_hash": "3d3c702d588c0f4ed328ce3b09e6666ae31a6026c018f2106479557713219d75"
+ },
+ {
+  "doc_idx": 288,
+  "doc_id": "de796bb1be45e3b491e15c132d2f915ff19be5d06c91d354d0351e4d627000ba",
+  "title": "Carl Buchheister",
+  "n_common_entities": 17,
+  "n_candidates": 272,
+  "text_hash": "06b5477e750df1fb829bedc018234c26414a729234170b08eac1a1a2c6b2c74b"
+ },
+ {
+  "doc_idx": 289,
+  "doc_id": "6a6eb16022e40fde0d71736f2aa714e590e254efea04603ba7ac0bcde2985a1c",
+  "title": "Roald",
+  "n_common_entities": 16,
+  "n_candidates": 240,
+  "text_hash": "67b13831970b11c2a36aaa2a59c51a965830b2c10621c81b9bfab2297d6d3d0b"
+ },
+ {
+  "doc_idx": 290,
+  "doc_id": "79927a5705465602d0a8b2bf72eafc969d9ee0145d45a59dbe628f6065fdcba8",
+  "title": "They Shoot Horses, Don't They? (film)",
+  "n_common_entities": 29,
+  "n_candidates": 812,
+  "text_hash": "cbb6576d3b458e9f4d486574e336a142f6adeab23ee866233b3fae7083e06662"
+ },
+ {
+  "doc_idx": 291,
+  "doc_id": "1aa2979250a17d674467a8eb483938c311cae6bc8e128ecb6b5ba6df68995b53",
+  "title": "Bonnie Blair",
+  "n_common_entities": 28,
+  "n_candidates": 756,
+  "text_hash": "6b8b553a110ece054dcdab2bc0e19e6bb04a5c277a88dcb234ba5761c61f6175"
+ },
+ {
+  "doc_idx": 292,
+  "doc_id": "153a09521fd26ee3478409282d40ae677029d14ca4948752678d66853797760e",
+  "title": "Signaling of the New York City Subway",
+  "n_common_entities": 14,
+  "n_candidates": 182,
+  "text_hash": "65b7818dfccf0011d9687ef75d347a4cc35761bad5697c3fb73518695f62aca8"
+ },
+ {
+  "doc_idx": 293,
+  "doc_id": "9421c54fad9b23eb773307e0f7d8131ce5b4bd9cafe25a60eca89960cdc796b7",
+  "title": "Symphony Hall, Boston",
+  "n_common_entities": 18,
+  "n_candidates": 306,
+  "text_hash": "3cf45765d9a477050543425bf669f5074fc822f4d375a981025224978d2dc90e"
+ },
+ {
+  "doc_idx": 294,
+  "doc_id": "fae1fabac525322edf358f087b26643e28f6693ca6b394e17f4a599b22f5fe53",
+  "title": "Liang Congjie",
+  "n_common_entities": 29,
+  "n_candidates": 812,
+  "text_hash": "bb07fca85b633c3f1ed286143a617b88fba0b05c1054f0a1ea514b174f5e90f8"
+ },
+ {
+  "doc_idx": 295,
+  "doc_id": "e7f31d3d9e729edf9ad176ce3f93c2b131465926253057a1cc0da02dbbfb8327",
+  "title": "Pleistocene coyote",
+  "n_common_entities": 15,
+  "n_candidates": 210,
+  "text_hash": "01cd1d29330a67c888c8fa523d51730c03a0affabe12abdbdecaf0d19d604d05"
+ },
+ {
+  "doc_idx": 296,
+  "doc_id": "ebd2adcd70ed42d6b46905c47956c139e069568c4925301cf97394628aea92ff",
+  "title": "Skylake (microarchitecture)",
+  "n_common_entities": 18,
+  "n_candidates": 306,
+  "text_hash": "2f9797318d90118a8e1cc36a4cd17a3a1a8c0dff61a20d01cb2c77c9465a126d"
+ },
+ {
+  "doc_idx": 297,
+  "doc_id": "7aad18430510e6c50ef7c4b7ce854180a4018ae852ba8b522a19d851786f21a7",
+  "title": "Lewis of Luxembourg",
+  "n_common_entities": 15,
+  "n_candidates": 210,
+  "text_hash": "2cbd2351a1b143d9cea20e28c173980a45a0db0d8b22d109ea72265054a0c6f1"
+ },
+ {
+  "doc_idx": 298,
+  "doc_id": "5c3243eae085678803a219c0fbf78194c6445e501062c4c7b5e0620a6b17807c",
+  "title": "Ronald Leonard",
+  "n_common_entities": 27,
+  "n_candidates": 702,
+  "text_hash": "7aa6a72fce7cd8df5546cde8888f4d9c4608904fcaa174281d3cbe3107760cae"
+ },
+ {
+  "doc_idx": 299,
+  "doc_id": "634b31ce3a92225078f2486fe07f505fd00b79bc091129a2b4f21d121e7f6172",
+  "title": "Hewanorra International Airport",
+  "n_common_entities": 17,
+  "n_candidates": 272,
+  "text_hash": "ec5f1e7bb4340fd38279bd9be1e3759a03d28ec2d7d51bc395aaabfbb0e8f0bb"
+ },
+ {
+  "doc_idx": 300,
+  "doc_id": "4ff1bcfc86ef73edc0314ee6005408a51504c69142be6275a228b52af7ab3ca0",
+  "title": "San Pablito, Puebla",
+  "n_common_entities": 12,
+  "n_candidates": 132,
+  "text_hash": "c130cae4e4c752097579b74b686046125a81e87961bfb4dfbd088adbaa8f14ce"
+ },
+ {
+  "doc_idx": 301,
+  "doc_id": "5ec0d2e1af1276123c897cc0fc35b66c964398887d4d3368445dd983bc050db4",
+  "title": "École des officiers de la gendarmerie nationale",
+  "n_common_entities": 18,
+  "n_candidates": 306,
+  "text_hash": "8da55b0c09b0f86685055c4443c5fc4ca18d03a0f4cb0c6f5635fd3253fc0163"
+ },
+ {
+  "doc_idx": 302,
+  "doc_id": "30674252bc75d3b160f858d1e7a898eff356c123c03b84ae54366ee346fcf94e",
+  "title": "French Resistance",
+  "n_common_entities": 25,
+  "n_candidates": 600,
+  "text_hash": "ffb769c1f63da6f8ad643e6e099c0bd861010b7b3e122bcf13a99a3cb07c11cd"
+ },
+ {
+  "doc_idx": 303,
+  "doc_id": "088efc70078d4336741e21282c981e1f1d2f43209e7a5fe678a78ba50fd77e2e",
+  "title": "Independence Pass (Colorado)",
+  "n_common_entities": 27,
+  "n_candidates": 702,
+  "text_hash": "aca7e2b95df6eb3b33e9eb830efb4aab3e2c08c2e979e8b6cd0ad1a21999aab8"
+ },
+ {
+  "doc_idx": 304,
+  "doc_id": "88569bc5cce635b8ae63937f30b5003709aa851a683f5b10518d7e2cff3552f8",
+  "title": "Toulouse Business School",
+  "n_common_entities": 24,
+  "n_candidates": 552,
+  "text_hash": "79284a98c99de1092c4dfc83f693eab631ce1d9056de8c3ae72e94e762d7dd20"
+ },
+ {
+  "doc_idx": 305,
+  "doc_id": "dfc7e19deda3abdb52ced34f6b3e48a42ca64255d805de75878df942048fda39",
+  "title": "Tropic of Cancer (film)",
+  "n_common_entities": 26,
+  "n_candidates": 650,
+  "text_hash": "fc366bd0d81fc4c8cad44f4309a4a5a6dd2b2cefdb54057d0bbc1537b0e3165d"
+ },
+ {
+  "doc_idx": 306,
+  "doc_id": "dc5c23b34b882be9df410f54d7f56aaddbf5d3cf7446814bb185cb7b0b6bbc9b",
+  "title": "Lake Hiawatha",
+  "n_common_entities": 12,
+  "n_candidates": 132,
+  "text_hash": "f4a18d835714c7b3cffef1dc4c1545cd5f3769a29c4a0311f77348290717e5ce"
+ },
+ {
+  "doc_idx": 307,
+  "doc_id": "1e708e2c6413955ba9b5416502153f982a66f8bd631e579d09a9183dcceec95d",
+  "title": "Jonathan Joss",
+  "n_common_entities": 18,
+  "n_candidates": 306,
+  "text_hash": "b6590e2ed2520afc4ebbff366388605947251ab638da83201f1b962969be030e"
+ },
+ {
+  "doc_idx": 308,
+  "doc_id": "5e4930ce66c88269d531ceb5d6d5d5939f1d4d7688f47bb8b24f2b8403512a1d",
+  "title": "Francesco De Masi",
+  "n_common_entities": 21,
+  "n_candidates": 420,
+  "text_hash": "34cded433aca0f9b73ef350d6d6457e3d72d58666250e1fe13267345eb0f07f8"
+ },
+ {
+  "doc_idx": 309,
+  "doc_id": "86ec22256bfb7ed884ba7f14811fa9a9a67734a4de8e5a6cd9e8c61f70288c79",
+  "title": "Belmopan",
+  "n_common_entities": 17,
+  "n_candidates": 272,
+  "text_hash": "054364067e885e226a51e276f35d4d71d672b8ec86669541c58363eae45dc5d9"
+ },
+ {
+  "doc_idx": 310,
+  "doc_id": "ad96e29fd0e8963905a608d7b878a5404150cba3103276b80405827690a0991b",
+  "title": "Robert Burns Fellowship",
+  "n_common_entities": 14,
+  "n_candidates": 182,
+  "text_hash": "b497c30d58e577ff134f2a10a355ad72e08db92aee3bfe1227d9fd83a9292b7c"
+ },
+ {
+  "doc_idx": 311,
+  "doc_id": "90a797dedb8d01db14fe819660d17865583ae81c00ea681282ba63770872392d",
+  "title": "Frédéric Talgorn",
+  "n_common_entities": 21,
+  "n_candidates": 420,
+  "text_hash": "34537387591ee81c37daee999f8a443079d46bdd7b47cccc99a56d93785e0f3a"
+ },
+ {
+  "doc_idx": 312,
+  "doc_id": "4466032ae95560a5b9dde7268a6b4423299eba79154cac1e5b1652495574f1a8",
+  "title": "John of Islay, Earl of Ross",
+  "n_common_entities": 20,
+  "n_candidates": 380,
+  "text_hash": "8cc9f891ef9981dca67df975856ae626b67cd2aa32e3a98fdbdef6d8b8f5f5a6"
+ },
+ {
+  "doc_idx": 313,
+  "doc_id": "d1cd91a4c460f946d8cf3a3babcdb03c1b4fe4ece3663b5bc9867299b97015d8",
+  "title": "The Hub (band)",
+  "n_common_entities": 28,
+  "n_candidates": 756,
+  "text_hash": "92588271257b236d68c43a2ef121dfd0b9be025c1e3fb93a29df428c5bdcd129"
+ },
+ {
+  "doc_idx": 314,
+  "doc_id": "6d2397e53ca41c7e5704867e5bcef24b5ed3942ffb5753bee2a2446db6b61d3e",
+  "title": "United States Ambassadors appointed by Donald Trump",
+  "n_common_entities": 7,
+  "n_candidates": 42,
+  "text_hash": "6ac9280cf3170570b3ae7cb9cc6a3abc0f0eacc94b5a82abd0cb19d22ae820cf"
+ },
+ {
+  "doc_idx": 315,
+  "doc_id": "51a3b3cf61e94075ac37120976ba8187e57d16da31c8f5d73727cb3e130d7782",
+  "title": "Snoopy and His Friends",
+  "n_common_entities": 17,
+  "n_candidates": 272,
+  "text_hash": "206edba6addea9b2724f79cb3b75c616d04182a5dd5f0fbec6d9bce6bb2475be"
+ },
+ {
+  "doc_idx": 316,
+  "doc_id": "a3f0c9ad2257a693740019e9f36230883ecd8932818006694138b05795c63d90",
+  "title": "Yi Seok",
+  "n_common_entities": 21,
+  "n_candidates": 420,
+  "text_hash": "9f86008f761c353d3927ce6bac230ddb658506a68dcf6878e76453f3eaa8d911"
+ },
+ {
+  "doc_idx": 317,
+  "doc_id": "cd6a88c4d13d650192c9e083b89a280686cbfe77e4573933e1b8f38d4e7b4569",
+  "title": "Christopher Franke",
+  "n_common_entities": 26,
+  "n_candidates": 650,
+  "text_hash": "85021b1990ce13cfc98938ddace6d57be3d1be269183614bbd2abf46c7342ada"
+ },
+ {
+  "doc_idx": 318,
+  "doc_id": "e697399eb0e0fd9d6110b3b39ce41e09f12cd8d27eb0b69ada8611fd66058378",
+  "title": "Wellywood",
+  "n_common_entities": 14,
+  "n_candidates": 182,
+  "text_hash": "1d9cf24e00d30ec5e1cc59fef6873fcd8c3bcbf9deadb7aee7d6171e8dc04454"
+ },
+ {
+  "doc_idx": 319,
+  "doc_id": "7f75376e40e55c9e78742598e51620db20a8ff8826a908179a65ff1de7b38a1a",
+  "title": "Bernard Cribbins",
+  "n_common_entities": 25,
+  "n_candidates": 600,
+  "text_hash": "d58b95035381cbec59217d5a9784659af990c088818e3ad20a0c857990115f27"
+ },
+ {
+  "doc_idx": 320,
+  "doc_id": "09cecd486c7e166c6e3c8404ccf0e07165903390c180fd271fde35ccb15d9976",
+  "title": "Samsung Galaxy S series",
+  "n_common_entities": 18,
+  "n_candidates": 306,
+  "text_hash": "0f2264c05fab05a6227b6edc2111a2a27aa5b931606148ee19bce30734c0ab40"
+ },
+ {
+  "doc_idx": 321,
+  "doc_id": "89792037a0d644a7d63b1ea96a2fa2e6a170908e7df1eec646579bdb21854709",
+  "title": "Scott Porter",
+  "n_common_entities": 20,
+  "n_candidates": 380,
+  "text_hash": "68e30263e2759dc1bbc93ae0d08ccdafe9d81f0f954d534c8c01ad261d33cb0b"
+ },
+ {
+  "doc_idx": 322,
+  "doc_id": "ef6369f170974f5f0aec7a79b25b539afd150e44607d9a0cf3f6f392daf36b14",
+  "title": "Newsnight",
+  "n_common_entities": 15,
+  "n_candidates": 210,
+  "text_hash": "86d5b004251123b9c9d426eefa6cae583cb873dd113cf9c962e483c310e6a137"
+ },
+ {
+  "doc_idx": 323,
+  "doc_id": "abbf95a1ed44c051afd86bbf19e3e41d8d3534656ff2533556933e5a1f217756",
+  "title": "Flag of Prussia",
+  "n_common_entities": 26,
+  "n_candidates": 650,
+  "text_hash": "20fa8a9ca98b49e704e045f2877422a1754dff0f6403fc7aa37f8eda8bf13295"
+ },
+ {
+  "doc_idx": 324,
+  "doc_id": "e7bde6f702818268db7b7f93cfb296b4975c7c7b0c45cd190a0880e8962918d9",
+  "title": "Nonconformist",
+  "n_common_entities": 24,
+  "n_candidates": 552,
+  "text_hash": "612c837ed5db2245fe7f5503480ced28215d574e085a9620c51b33ea7efa1f08"
+ },
+ {
+  "doc_idx": 325,
+  "doc_id": "755138213730bc56e80e9aeff96f07f8dd2297d718e0071db8509fb86f6f98b7",
+  "title": "The Expendables (film series)",
+  "n_common_entities": 12,
+  "n_candidates": 132,
+  "text_hash": "9fb8be51150340b027449bf06771cf174033879fd29936d83bb93aa04c3bcd78"
+ },
+ {
+  "doc_idx": 326,
+  "doc_id": "dae41024d0993a1bc38c6a888d99a792c64e222edfe54be208d7c95fe53fd70e",
+  "title": "Penn Line",
+  "n_common_entities": 19,
+  "n_candidates": 342,
+  "text_hash": "f9ed033b6e79e1b2297f0a333f811c977b44fa40522a639ce8a48974c6917fbd"
+ },
+ {
+  "doc_idx": 327,
+  "doc_id": "51eafc9062b7f919a502d152a10ab6ea02915f6bcc68693cb43b2924bb0cf225",
+  "title": "Ali Abdullah Ahmed",
+  "n_common_entities": 21,
+  "n_candidates": 420,
+  "text_hash": "349102cc6ad8df2d88a6e2d2b096deda8295441a1e677b9645478c5bcdb9e290"
+ },
+ {
+  "doc_idx": 328,
+  "doc_id": "07fb84b1547dc2abba1570050cf02dd361d27f74cd87783a3b7083f998de6d1e",
+  "title": "The Virgin and Child with St Anne and St John the Baptist",
+  "n_common_entities": 16,
+  "n_candidates": 240,
+  "text_hash": "84d38b96e8b780c1895e2484b19ec4232e3441a1f7af787334fe8946b50820aa"
+ },
+ {
+  "doc_idx": 329,
+  "doc_id": "a30a34834f853829aaa0b15b1af54eb365cc5d106b61c8749f74fb482004a12c",
+  "title": "Crupet",
+  "n_common_entities": 13,
+  "n_candidates": 156,
+  "text_hash": "59335a3a926fa3d2f8702861732de0c1f10cde01c26533c3d25c2bdd6dad193d"
+ },
+ {
+  "doc_idx": 330,
+  "doc_id": "55c857fa4d8d5d3c541c6f10097b2ae445139143b628bc6af8bc94d3ae6bd6be",
+  "title": "University College London Hospitals NHS Foundation Trust",
+  "n_common_entities": 24,
+  "n_candidates": 552,
+  "text_hash": "e955610ec976b6186d59fe57eed9e62b7953cf5f517c453e13579d7f82f3b9c6"
+ },
+ {
+  "doc_idx": 331,
+  "doc_id": "980eb7a352e8e9af412f493bb6761325a6dcdcc85c8cfb35629857aed66ae255",
+  "title": "Mono (software)",
+  "n_common_entities": 23,
+  "n_candidates": 506,
+  "text_hash": "c92d116b9280234ec9647d05f21d31a948cb771ab4cee4602e159889883bd879"
+ },
+ {
+  "doc_idx": 332,
+  "doc_id": "0d7d0816c95f9c7c927f6cc32cc2e8243748a3930c18c0f4886ba89d2e2ad4c3",
+  "title": "Njangalude Veettile Athidhikal",
+  "n_common_entities": 20,
+  "n_candidates": 380,
+  "text_hash": "c4bfe8d45c5d2816185f996143a80c477081223263975378c78b038292f7050c"
+ },
+ {
+  "doc_idx": 333,
+  "doc_id": "50ed42759d60db9a8e17a218a9a1c905e3fc9d32429a34c71192ce0ab7baa9f7",
+  "title": "Naomi van As",
+  "n_common_entities": 25,
+  "n_candidates": 600,
+  "text_hash": "b38cff4d3b540b430342f6e4aa73f55144e0cece1fde7c456e52035546054e27"
+ },
+ {
+  "doc_idx": 334,
+  "doc_id": "87d327671624c509b752fab5ac69db0234c748d875bb20c8f801091780833168",
+  "title": "Mariana Cook",
+  "n_common_entities": 18,
+  "n_candidates": 306,
+  "text_hash": "0f5be9b10d4669a9037a96a7b26c40a298b2c35e3389642b2bb2598e38dae1a2"
+ },
+ {
+  "doc_idx": 335,
+  "doc_id": "b4129b74b16afbf341f1bdd435b2a35028a331320ee8fe4e6dbeb2da57f9bb5d",
+  "title": "Load (album)",
+  "n_common_entities": 22,
+  "n_candidates": 462,
+  "text_hash": "d7fa23519ea32683e7effdf56f56a29254e5fd14b20e6520362fff027374084d"
+ },
+ {
+  "doc_idx": 336,
+  "doc_id": "13bfdff55ac87db388008fe29e9f54520e43e899dec52d1070c9e200bae405ee",
+  "title": "Ngoako Ramatlhodi",
+  "n_common_entities": 20,
+  "n_candidates": 380,
+  "text_hash": "4e3180bfcc01d259ad469b606bf46e3cdc4a130a2de682b9374d89a2505e558a"
+ },
+ {
+  "doc_idx": 337,
+  "doc_id": "996f007e9c3cb718c1528f7b6e5c6cffede48cced2510168abca17d52b38498c",
+  "title": "Joseph R. Anderson",
+  "n_common_entities": 17,
+  "n_candidates": 272,
+  "text_hash": "ba5ee453cf105c6b866f21dc83a50036ddcf76760a595e41a3441038515e661b"
+ },
+ {
+  "doc_idx": 338,
+  "doc_id": "da0199e435672db16f942d371318369973b47c30b020338feff5e40a20b4b026",
+  "title": "Harbour Esplanade, Docklands",
+  "n_common_entities": 11,
+  "n_candidates": 110,
+  "text_hash": "e24bbdfd2b392e4b3131a88f6ec101ee3cb460c168261bb3795ca5eb6617bcc3"
+ },
+ {
+  "doc_idx": 339,
+  "doc_id": "5bf2350b0415ff254f886f337b51ca45dbe12c84144d9b7965055872f93495ea",
+  "title": "Fyns Hoved",
+  "n_common_entities": 19,
+  "n_candidates": 342,
+  "text_hash": "4b474b8d8a228545b32f95e87da49ae753b1a5a83f1a39a2ae6fc500db98dd6e"
+ },
+ {
+  "doc_idx": 340,
+  "doc_id": "e3ebd6ef145e8f7730358abdb899004e590a99a9bc7a5bf3095ba259065cf1a2",
+  "title": "Chrysostom Blashkevich",
+  "n_common_entities": 24,
+  "n_candidates": 552,
+  "text_hash": "98e3eba06f30fb44fbaff61aac1b1611fd174010f8431b91ca80e0baab6aa976"
+ },
+ {
+  "doc_idx": 341,
+  "doc_id": "7b52d4189bb805e4fce004a4cb3b79d4f44f5716444cf130508f3347fc5f1a61",
+  "title": "South Wigston High School",
+  "n_common_entities": 26,
+  "n_candidates": 650,
+  "text_hash": "febb1347222a075a0a39835b1d23daf5c3710a6ecc6704a8f6437a0ffbde7226"
+ },
+ {
+  "doc_idx": 342,
+  "doc_id": "8cb5a92e588d0e8e907213c031c4e40ec7f7d33cdc94bbbfb78a4137e26f1e73",
+  "title": "Triple-threat man",
+  "n_common_entities": 19,
+  "n_candidates": 342,
+  "text_hash": "62b707c53a4697882773f3904a3c3f47a2fb02d08cac628bc256d697802fcd7f"
+ },
+ {
+  "doc_idx": 343,
+  "doc_id": "a3e5379da11fce97acd495f52ebe8c84289696388a6f4f02f782cd15196e2917",
+  "title": "Sappy Records",
+  "n_common_entities": 28,
+  "n_candidates": 756,
+  "text_hash": "42de92e883076aeac1fb1d0e851671f3b758c5c2924a4ec27d98d307d2ccfaf7"
+ },
+ {
+  "doc_idx": 344,
+  "doc_id": "70b96171c0763e0b05397c9258cc7e726526463ab3a06fb42c8e3bb6558366c0",
+  "title": "Outright Distribution",
+  "n_common_entities": 15,
+  "n_candidates": 210,
+  "text_hash": "bbab334bf130e8866f7f8a1de95e1fc24718b022755c4ab42afc67caf08fc58a"
+ },
+ {
+  "doc_idx": 345,
+  "doc_id": "b86ab9a77090afd9f745667e6dfa12159afa3e97b6ca952c3ee07c5bf36690ee",
+  "title": "The Killers (Bukowski short story)",
+  "n_common_entities": 14,
+  "n_candidates": 182,
+  "text_hash": "f5a524e61831d4d2e2f10931e479a815c1e9e49970b2f6337f2a493e08d7ce48"
+ },
+ {
+  "doc_idx": 346,
+  "doc_id": "6bc0ac323b4f5c1050f3b230286ad33491e92961565a7a32a919aa84ee80b6c9",
+  "title": "Józef Piłsudski Monument, Warsaw",
+  "n_common_entities": 20,
+  "n_candidates": 380,
+  "text_hash": "4b21187bb44abb261b389ba4c2495dfe856ead59ea19ff2fc8789c15523fb4fd"
+ },
+ {
+  "doc_idx": 347,
+  "doc_id": "19de96a3bf140422fe502b03aabc4b50da897f7f11a2a207bdd2bc63e3b9379b",
+  "title": "Aleksandr Alekseevich Borovkov",
+  "n_common_entities": 19,
+  "n_candidates": 342,
+  "text_hash": "50b6ba22ac71729b2eaf1efff3051055ee81e3c869f0947906978c8aa2679548"
+ },
+ {
+  "doc_idx": 348,
+  "doc_id": "7d1d2dd1810cba42aba077522aabd9a107842127de07d06b2d24bdb0452213e9",
+  "title": "Michael Imperioli",
+  "n_common_entities": 26,
+  "n_candidates": 650,
+  "text_hash": "553fab4effe1c3925b8918f334c913f11a884399dd6a55705d44b189fc0510d3"
+ },
+ {
+  "doc_idx": 349,
+  "doc_id": "c306657501529701ad40e0ad602da0d676c842567f640c0cbb3fcbaade6e70a0",
+  "title": "Memories (Elvis Presley song)",
+  "n_common_entities": 19,
+  "n_candidates": 342,
+  "text_hash": "66ecfa44b44425eb0864247ba1fab42bb90e0a5d0a639f4474d530d3723f0b83"
+ },
+ {
+  "doc_idx": 350,
+  "doc_id": "0d9774ba174cc5642a3fbfa68ab3e514cb51ba43d4259747928bcc981b8244cb",
+  "title": "David Bohigian",
+  "n_common_entities": 20,
+  "n_candidates": 380,
+  "text_hash": "c24dd25eb9bb7a1ce961b7229c2cf5d4cefde516e69fe6a4d1d6db2a4d14796b"
+ },
+ {
+  "doc_idx": 351,
+  "doc_id": "260cfc5ed5913c65453bb8ba6c85dd150ccc1f4fefc664e6345f1e414f2bb7bd",
+  "title": "Rock n Roll (Avril Lavigne song)",
+  "n_common_entities": 18,
+  "n_candidates": 306,
+  "text_hash": "a069bfb996cda93f00b91dca1c6b412560b8cf357501ef33abd661ab34fcdc73"
+ },
+ {
+  "doc_idx": 352,
+  "doc_id": "96f74312a34b98f5e92c885a70a59ad0e65736d88d3b8ecba468c8308258cfae",
+  "title": "Smoke Break",
+  "n_common_entities": 14,
+  "n_candidates": 182,
+  "text_hash": "4caafe4ac3edb6f1d299c9cf3d3618b60df29f58ceb9c97f529c0ec0429a60f8"
+ },
+ {
+  "doc_idx": 353,
+  "doc_id": "df2f23a2a60438753200358574657b9ab484f7b055e1c080e88fdfcef20bf099",
+  "title": "Naomi (wrestler)",
+  "n_common_entities": 23,
+  "n_candidates": 506,
+  "text_hash": "734b2fca7e760bfe9748ddc6f72ed394598cd8e7562f5aecbe78c51f3301fad3"
+ },
+ {
+  "doc_idx": 354,
+  "doc_id": "e14339c62b4761e2e2e8e1603b66015e7d25b77cd082d34b0ef019c8b15da9df",
+  "title": "Edmund Burke",
+  "n_common_entities": 25,
+  "n_candidates": 600,
+  "text_hash": "476adc551dc720987e521e59b91edc395f06243a32b4b0a2ee74064f173593da"
+ },
+ {
+  "doc_idx": 355,
+  "doc_id": "444e65b8c5f7b7c37d22ba53e541531fedd5cc7e8770673c7628b12488969723",
+  "title": "Russification of Finland",
+  "n_common_entities": 14,
+  "n_candidates": 182,
+  "text_hash": "8a1c7242024e4fb241b166b15caa3541de3c18955f2ce9c42939336773c73d82"
+ },
+ {
+  "doc_idx": 356,
+  "doc_id": "3e1be7d14ae4fef977b4598b9501148b930fedfaf950248abf4aa5d1d80ffbc9",
+  "title": "Aino (mythology)",
+  "n_common_entities": 6,
+  "n_candidates": 30,
+  "text_hash": "f9ec9589ccaa7fcf84f43a53efa223b9b07c233ee0d8d5dc7d8a53a7f106b0d5"
+ },
+ {
+  "doc_idx": 357,
+  "doc_id": "743076cae16dba9d4d9eea39f9a95530b169f0fd6693ae9c0c56571f807cc4ab",
+  "title": "Kiss Each Other Clean",
+  "n_common_entities": 22,
+  "n_candidates": 462,
+  "text_hash": "67e27384a18edc8debbda7a3cf9b93fe8e856f4e9881784b69b75b6859ac8ee8"
+ },
+ {
+  "doc_idx": 358,
+  "doc_id": "e695f17e7d9ed4f17db43a1149613fd8b6804d0becdde5abc0096b674608d8f8",
+  "title": "Villanova Preparatory School",
+  "n_common_entities": 23,
+  "n_candidates": 506,
+  "text_hash": "78303cfdf24c1935dd265016ebb7fb870677fc4a2a06de6aab58cbecc1ffadb2"
+ },
+ {
+  "doc_idx": 359,
+  "doc_id": "4c2a7e36865f21e1fb41ee7a15505587b0e7a40dc0ae4732d895387c888ee18c",
+  "title": "Todas as Ruas do Amor",
+  "n_common_entities": 20,
+  "n_candidates": 380,
+  "text_hash": "1dfd6074c20a113d6df5f5e60a557ed4237a44e71a7e723ffaf9f985016a88e7"
+ },
+ {
+  "doc_idx": 360,
+  "doc_id": "8dd251c19e4a28b4ca95c3f2340ca30bc155254ad6881cd244a821fefc08f7ae",
+  "title": "Brookston, Minnesota",
+  "n_common_entities": 18,
+  "n_candidates": 306,
+  "text_hash": "79596529bdc89c447419da256c16071c7123ba1e354509187e0aaf27602135d7"
+ },
+ {
+  "doc_idx": 361,
+  "doc_id": "36318193ab5c8555bcfb5aed2001b150a6b91be35e2744cecee540efcd5525e9",
+  "title": "Beyond Good &amp; Evil (video game)",
+  "n_common_entities": 23,
+  "n_candidates": 506,
+  "text_hash": "5879b17587ce3caeda5e2108f0e6b381ea9096655d42a422b87ce9c2236054fc"
+ },
+ {
+  "doc_idx": 362,
+  "doc_id": "91874f69273d6f2f5fb3a625c581894caf4094a9db8d2a7567bb8c545b554c70",
+  "title": "Black Lake (Michigan)",
+  "n_common_entities": 22,
+  "n_candidates": 462,
+  "text_hash": "021bb4098a3e7c406a0a55b79a3cf35e7637e955f10857f95c4ca0c269592b9e"
+ },
+ {
+  "doc_idx": 363,
+  "doc_id": "9dfe09fd9593029a541f41e0f4db94a54c0c3b2d33d4c9a14ef2e29fbcc327b1",
+  "title": "Fyodor Kulakov",
+  "n_common_entities": 18,
+  "n_candidates": 306,
+  "text_hash": "1738a04b6415c34e3441a372555a34f859f967b1db0e51cff3b0b8163088d42e"
+ },
+ {
+  "doc_idx": 364,
+  "doc_id": "c2d6a1274758bed1f32ca69c5efa3b0e087cb4f1366e23460fa994e05995b6fd",
+  "title": "Guido Bonatti",
+  "n_common_entities": 19,
+  "n_candidates": 342,
+  "text_hash": "6862a95fa78912b2d0e5f894491431ab6b400c2326e14b0a1d1614d297ba05e9"
+ },
+ {
+  "doc_idx": 365,
+  "doc_id": "82f34616c1031d252cb52b43b5bdd1af73990ee2f0c4452c6ba3985ada7d7a56",
+  "title": "Maybe (Jay Sean song)",
+  "n_common_entities": 17,
+  "n_candidates": 272,
+  "text_hash": "5cb1fc5f1c435d8b00ae75ea4c351684bb79338a7a68079317cea5025ca87d5f"
+ },
+ {
+  "doc_idx": 366,
+  "doc_id": "15732ff0bd5c9b099914a01a587ae763bb0a5c252c93a137b73db256742df045",
+  "title": "WUIS",
+  "n_common_entities": 17,
+  "n_candidates": 272,
+  "text_hash": "e6631c8c8b95af76ef81695088ec666e285af75596640fe93d195c27f49edd1a"
+ },
+ {
+  "doc_idx": 367,
+  "doc_id": "123f38e46b00ccd3ea447683db9ff6e1024bd90838ac3134b312bb7b277790f0",
+  "title": "Ștefan Grigorie",
+  "n_common_entities": 18,
+  "n_candidates": 306,
+  "text_hash": "2fb97a341fee0aa8311b3b7d28da662eefc3f2acecc96061a5175d94f61e3e30"
+ },
+ {
+  "doc_idx": 368,
+  "doc_id": "49e9cc25058eed91b3fe7e8254ab84a279604341e1987c9f7529b3c44606aa80",
+  "title": "Titanfall: Assault",
+  "n_common_entities": 14,
+  "n_candidates": 182,
+  "text_hash": "eedf711e25ba9e20dd2f0fe20d106a407d8813d32081a5b0d02e88daeecdfd59"
+ },
+ {
+  "doc_idx": 369,
+  "doc_id": "b5021315bacabfeae32cd64a72395302a3fdb8e8374ae8404fd7c000851daac8",
+  "title": "Great Belt Fixed Link",
+  "n_common_entities": 31,
+  "n_candidates": 930,
+  "text_hash": "049c7d13a4b783cafd565f1c59d2a6013e4384e53c0f3848d4f4144652b24e38"
+ },
+ {
+  "doc_idx": 370,
+  "doc_id": "235853cc509b2851acc6aae40384c57f530e30058db6ccf867383939da65b06c",
+  "title": "Book of Royal Degrees",
+  "n_common_entities": 15,
+  "n_candidates": 210,
+  "text_hash": "838c45a3063a4cd1287618f9bb857dd4b873ffa2cbac7c4bc4ed8143eb461504"
+ },
+ {
+  "doc_idx": 371,
+  "doc_id": "1ac0961a77ac488c67805fb912e379d3e18c747565df50095bac91ea43320fea",
+  "title": "Han Lei",
+  "n_common_entities": 23,
+  "n_candidates": 506,
+  "text_hash": "422605cb0b260c25fdfc67fba266c105f46442c38b36401d32582131fefe33cb"
+ },
+ {
+  "doc_idx": 372,
+  "doc_id": "10a879b313d7eee10929a26d415918520f5b1e79d83d60b52bff00aeef79e45b",
+  "title": "House of Orléans",
+  "n_common_entities": 16,
+  "n_candidates": 240,
+  "text_hash": "3b2bc44b17a8e503269123e64e5a4e7be26fa15a470b2fa92921d6c9a30a4573"
+ },
+ {
+  "doc_idx": 373,
+  "doc_id": "4c5e3fb0330b05546ba89f147e8adb8a09828b0f478db4e9b6328c9a9c72fc4c",
+  "title": "General Lavalle",
+  "n_common_entities": 11,
+  "n_candidates": 110,
+  "text_hash": "8f290e24355d0e24f75117ec073470145a917d25bdf2127b8999c364c166896d"
+ },
+ {
+  "doc_idx": 374,
+  "doc_id": "bb14c9a3783fe45fab09359049b87fcc508fc4ec2d9e912f7b17013c81c755c8",
+  "title": "Cleopatra's Needle",
+  "n_common_entities": 19,
+  "n_candidates": 342,
+  "text_hash": "cf9cebf3fb5e2863355175ad4b465541bf4750135d34a1665d7c17b96a9146bc"
+ },
+ {
+  "doc_idx": 375,
+  "doc_id": "2ec296010b07f80403edce512b7aebd24dc81cd629e234f8d7e3bba761fbe547",
+  "title": "Eleonora Vallone",
+  "n_common_entities": 19,
+  "n_candidates": 342,
+  "text_hash": "406c7f46a90e0a146d45d96ab0d6201264c3d44a46aade696fe9a69b2d84a9cb"
+ },
+ {
+  "doc_idx": 376,
+  "doc_id": "84031d79202c567735a4d6b8e4b03abdbeed6239daf5bbf85ff1e6b686fc8ef1",
+  "title": "Fingerpori",
+  "n_common_entities": 23,
+  "n_candidates": 506,
+  "text_hash": "2ea24955513aa9f6fe8cff4c51edf983c604cf9b8f9cf91d560f9a9453ff8fdc"
+ },
+ {
+  "doc_idx": 377,
+  "doc_id": "a52b2afa647ff6df7e32a47d08853ac4aeb21e21674df03f655beb80d611ae14",
+  "title": "Number Ones (video)",
+  "n_common_entities": 26,
+  "n_candidates": 650,
+  "text_hash": "74af5eb5456827a2778934140c28275c775ffbe080d7f5ff7319cef34ae9bb77"
+ },
+ {
+  "doc_idx": 378,
+  "doc_id": "5648e09620dba2ec05f4aa81a7886bcc52f6723ab3f9eb59795708858bdae423",
+  "title": "Lookin Ass",
+  "n_common_entities": 14,
+  "n_candidates": 182,
+  "text_hash": "736cf40a2646e2147ebde9faf0ecd187b4373a1bf276853602cbe299c086a61f"
+ },
+ {
+  "doc_idx": 379,
+  "doc_id": "ed158485530939938dedfa851040425e57dd7c090d3301414ec4ec4506dcb600",
+  "title": "CBBC",
+  "n_common_entities": 22,
+  "n_candidates": 462,
+  "text_hash": "cca5f896ce84d5993d9dd766973c68b80e3a0e9bfeadb7ca920a1701798e5067"
+ },
+ {
+  "doc_idx": 380,
+  "doc_id": "faa786df742fd1a93d3330f3aff969663046de1a0d8e41ff09d3d0c4a1d73335",
+  "title": "Chauncey B. Brewster",
+  "n_common_entities": 23,
+  "n_candidates": 506,
+  "text_hash": "726b56d94d1c05968513c137f00b27d6477cf27de94b0e8c41c2548b36400ed4"
+ },
+ {
+  "doc_idx": 381,
+  "doc_id": "859b672ab394f049487d0180a0a6e9adb49f1fbb7d1192c34668320f6b97253c",
+  "title": "Olympic National Park",
+  "n_common_entities": 21,
+  "n_candidates": 420,
+  "text_hash": "4c465857421aacbba605dc373d2f5d803e0a229cb89f917ed94d3ab7dff6a378"
+ },
+ {
+  "doc_idx": 382,
+  "doc_id": "508cb63fb20eccd6d25cd281667dcd1028322ba2296559e599980e482ec5963c",
+  "title": "Raimundo Fernández-Villaverde, Marquis of Pozo Rubio",
+  "n_common_entities": 20,
+  "n_candidates": 380,
+  "text_hash": "2105d6639e06491ddda5a9f566b6f801e31f7304b804deca7bffabce4476ea27"
+ },
+ {
+  "doc_idx": 383,
+  "doc_id": "b7049e536e10ad040e53dd1657024c60f28ee19cb486af41028bfe6f2837b6f3",
+  "title": "Anthony G. Brown",
+  "n_common_entities": 20,
+  "n_candidates": 380,
+  "text_hash": "a0ca282761935b6245ab87d7a385d51c8d56847847d16a8c24c85543ddcf72d7"
+ },
+ {
+  "doc_idx": 384,
+  "doc_id": "9778d016178493b0b88e2bc835378a26398c4b54d36acccc097b8c6f90b010b0",
+  "title": "Excitebots: Trick Racing",
+  "n_common_entities": 17,
+  "n_candidates": 272,
+  "text_hash": "43935f7c8f245f6ea43ddd469a671cbdec5d5b257f0e4f52f96d7c809f304f6e"
+ },
+ {
+  "doc_idx": 385,
+  "doc_id": "945e2c912a405b1178dd0bf5ce24ade023b10246576e2e908d43c1827d714ba7",
+  "title": "Orongorongo River",
+  "n_common_entities": 10,
+  "n_candidates": 90,
+  "text_hash": "609cddcf678ffa62bccf3392d021389aa5119b7cf6c9b1cc99119729a39d7926"
+ },
+ {
+  "doc_idx": 386,
+  "doc_id": "0429bb073408f188d9095eae03ef625dad41436cb94ed0b89e34e17bd75dd500",
+  "title": "Charles S. Johnson",
+  "n_common_entities": 17,
+  "n_candidates": 272,
+  "text_hash": "a7dab27704e97218a1ff10be7a8e886fc5686b41bea48d521ca667548e508ce7"
+ },
+ {
+  "doc_idx": 387,
+  "doc_id": "bd341b1dbdef2e30bad0d9adb5330aa616f8bad034eeb7aa55cfee718ca178d8",
+  "title": "Fatih Terim",
+  "n_common_entities": 21,
+  "n_candidates": 420,
+  "text_hash": "c1ee1211d9f09eb5ea463cc26ca5ae92398e4c5ec46e0d6b7d8520f4f726084b"
+ },
+ {
+  "doc_idx": 388,
+  "doc_id": "506e246c44ea18f92e5ae9ca9eab12d29a624c400bc678c4af2bb6e8084526ba",
+  "title": "Faliero coup",
+  "n_common_entities": 21,
+  "n_candidates": 420,
+  "text_hash": "645534216f1fc56becd42b34fae585878ee2f2c95ca42283f49fefafdbe5e536"
+ },
+ {
+  "doc_idx": 389,
+  "doc_id": "ecfc0a4ed20543f4240bae8383d430c73227af06efbe717e18270ac05aa096d1",
+  "title": "Drake Landing Solar Community",
+  "n_common_entities": 12,
+  "n_candidates": 132,
+  "text_hash": "65ec529393a28d7bb0755450eafee1b66ab85ee34dca1709a0d2c2f3e480ed77"
+ },
+ {
+  "doc_idx": 390,
+  "doc_id": "1528aedd4bf8e4aadde1a520571416f83fc785c76fb155ebb1f864da321b5d9d",
+  "title": "Elwood Buchanan",
+  "n_common_entities": 23,
+  "n_candidates": 506,
+  "text_hash": "1c180349d9816c27ed88cbebb45158afdb790dd4ea4965457e2d57b068f72429"
+ },
+ {
+  "doc_idx": 391,
+  "doc_id": "71e52f79f9a54c68544dd9ef104b332bfa8109478ab098ddae21dd28aa4db3c2",
+  "title": "How Could Hell Be Any Worse?",
+  "n_common_entities": 30,
+  "n_candidates": 870,
+  "text_hash": "2a6ac7fe5c44b7b3f81da546135c782aba637823c706cd9dded6f28e4e942c5b"
+ },
+ {
+  "doc_idx": 392,
+  "doc_id": "e6a39b00e768126bf8810e41090c872a32ce0c515ce0c52947a61ea72079621c",
+  "title": "Souvlaki",
+  "n_common_entities": 9,
+  "n_candidates": 72,
+  "text_hash": "94387e1bc5da4a94c65e3e7d238412ac86dec1e871b8e1de00f8a47066de410e"
+ },
+ {
+  "doc_idx": 393,
+  "doc_id": "04abe12e00512f244cb6c36966c278f45c1af4bc18285544883311eedc617c24",
+  "title": "Stanisław Tymiński",
+  "n_common_entities": 12,
+  "n_candidates": 132,
+  "text_hash": "45e34fd1ec2049fa97ef0e9f4e834309b9fccae754ba9c6282a016a96c753832"
+ },
+ {
+  "doc_idx": 394,
+  "doc_id": "62cf1fe597709f5255cd6f93ea7a9f07906f41b9972c70e2fc5b9bb4c9c06231",
+  "title": "The Private Life of Helen of Troy",
+  "n_common_entities": 23,
+  "n_candidates": 506,
+  "text_hash": "0e0affc8d8d906a75a57fb032aa09e82ab756244ca893e079b93687c3da6491a"
+ },
+ {
+  "doc_idx": 395,
+  "doc_id": "7e92f6e15e1f2200d3cab3f4cdb6e4d13810e11b20bf8b879b2995e743971b2e",
+  "title": "Memogate (Pakistan)",
+  "n_common_entities": 19,
+  "n_candidates": 342,
+  "text_hash": "09208a156e994054f571e314a34df7b35c2ed728d67ce56205507df97a78f2f9"
+ },
+ {
+  "doc_idx": 396,
+  "doc_id": "245008f1f4b930617a66592c5a21c56ad8e0c44953017cf3a632a9e3b45e8dab",
+  "title": "Tullgarn Palace",
+  "n_common_entities": 18,
+  "n_candidates": 306,
+  "text_hash": "2aa221e8c9aedb641f8118bb3b7d67850db9e1cf64c49d9c8bc022a5c07581a1"
+ },
+ {
+  "doc_idx": 397,
+  "doc_id": "1b466a3a61d241b123b0cf06ac597eb577205f3ad63f909d948cbb8900bf427a",
+  "title": "First Battle of Homs",
+  "n_common_entities": 23,
+  "n_candidates": 506,
+  "text_hash": "0152e13ea9ecc01df8367b741102f8bc2d27de8f66b1091c506adb3c11dd1dda"
+ },
+ {
+  "doc_idx": 398,
+  "doc_id": "513bbea4931fe4491a5d44b03b738e5f222141d687881fbf8ade8c83f1729ea5",
+  "title": "List of Chief Ministers of Madhya Pradesh",
+  "n_common_entities": 20,
+  "n_candidates": 380,
+  "text_hash": "eeef442f5cfb5a7a893a6c98847067c364ea7e1c9379119d6b1f2a336377d232"
+ },
+ {
+  "doc_idx": 399,
+  "doc_id": "0035d00d33786faf3540df507c1d17ed4dc087149f831bd07842e4f095c16cf5",
+  "title": "Rio Grande de Mindanao",
+  "n_common_entities": 16,
+  "n_candidates": 240,
+  "text_hash": "beed0892a5da88668f8db8025443bf8d1cb0d714777ec0c29968aba9081017b7"
+ },
+ {
+  "doc_idx": 400,
+  "doc_id": "3c491a7999e0c29492f8fc117d4f50f0542674a78386e92b545d7e5d1dcfec66",
+  "title": "Devichandraguptam",
+  "n_common_entities": 12,
+  "n_candidates": 132,
+  "text_hash": "feed678f5d5e30ea1b1feb505bbbe0fade4dc3bfd709ae84d21fd07153e47f2d"
+ },
+ {
+  "doc_idx": 401,
+  "doc_id": "ac08f1de61052edcc6fb2d383621513200759d5fcb820744603ae7c542e31251",
+  "title": "Kiirunavaara",
+  "n_common_entities": 17,
+  "n_candidates": 272,
+  "text_hash": "a6c593a91118d050bbfc548f3481a29ae50917cef65874cefb379407f0056748"
+ },
+ {
+  "doc_idx": 402,
+  "doc_id": "7baab58192f49f5991cc39c799323130232c34d50c7694c7bee4741d35286614",
+  "title": "Guybrush Threepwood",
+  "n_common_entities": 12,
+  "n_candidates": 132,
+  "text_hash": "2a89fbfcff7b138e2c240d04cf8b67f7caba42b331b02d607a22a59583536cb0"
+ },
+ {
+  "doc_idx": 403,
+  "doc_id": "1b1d8d9d5caef4412f0ad31e320c3cd3e22c0baa62c9de343e79aca908afb76d",
+  "title": "Muir Beach, California",
+  "n_common_entities": 18,
+  "n_candidates": 306,
+  "text_hash": "03ae5ffd651dc9ed26639227d9111484594ca01da3c4849c2d05136240b6d025"
+ },
+ {
+  "doc_idx": 404,
+  "doc_id": "fcbca7c986678905bd226b9ebe2e8fb219850add1096871f189b000fab31fb4b",
+  "title": "Ispendje",
+  "n_common_entities": 7,
+  "n_candidates": 42,
+  "text_hash": "1aba640beec3ae47268db06dc022204f2e82a19961b06ad26c7e1789547251a8"
+ },
+ {
+  "doc_idx": 405,
+  "doc_id": "eabe4d51d86242ec6818cb3368914639be58cfd4f300bb6c717ff686db8f1b16",
+  "title": "Cello Suites (Bach)",
+  "n_common_entities": 19,
+  "n_candidates": 342,
+  "text_hash": "c6377989212c1b0a720be126ba8a529b534c0f0ec0f89466827761c8f9d74fa5"
+ },
+ {
+  "doc_idx": 406,
+  "doc_id": "a2da2fde45af41286c7428fcde7366993f27d242f5ea6cb2f22bebb1aabe4c97",
+  "title": "Law of the Cayman Islands",
+  "n_common_entities": 10,
+  "n_candidates": 90,
+  "text_hash": "871401b4da7441c053203f5d8663f739b4e059a970345db3d2b16f456053552f"
+ },
+ {
+  "doc_idx": 407,
+  "doc_id": "98ac6c1d69ae7bce44ef1ffc1a9c7ed43b80cc81b76a81df7a961862d393b099",
+  "title": "Juan Carlos Muñoz",
+  "n_common_entities": 28,
+  "n_candidates": 756,
+  "text_hash": "fee90cbe995d27fc1fe16cade1b0a2877c177b189da4b7d420345ff874d3084b"
+ },
+ {
+  "doc_idx": 408,
+  "doc_id": "1336fcb7018660ec96e40545bf672da99c3e9abd06ce6115c7c118e60ec7c18b",
+  "title": "Alexeni",
+  "n_common_entities": 13,
+  "n_candidates": 156,
+  "text_hash": "c762ba7200478e60192536e6926bdd09f2d67a9f67a52653c3a132dedb11eca4"
+ },
+ {
+  "doc_idx": 409,
+  "doc_id": "0b344547728af2904ce8d84e032d635e2a136d2e70be9787d6159c3c8cb43ea4",
+  "title": "Irish in the British Armed Forces",
+  "n_common_entities": 19,
+  "n_candidates": 342,
+  "text_hash": "6fa4786b9d79d89f11c7cd482c1e3f0d4e2f210964c76847f1fd1026ae0b11f0"
+ },
+ {
+  "doc_idx": 410,
+  "doc_id": "9168dfddce789f20dccc9f84fbbe0baf461f2d457b3d61d65d92f1a4e6098c8a",
+  "title": "Battle of Samugarh",
+  "n_common_entities": 20,
+  "n_candidates": 380,
+  "text_hash": "539f95f28d53de1c8811a3003e564126bb2f0daad5f426ca545d0b8d0f92003c"
+ },
+ {
+  "doc_idx": 411,
+  "doc_id": "61e80bc1ac69b0827bf172a3c24ad8c553104691bc5cc8ed19a9716abb814825",
+  "title": "Lisa Mona Lisa",
+  "n_common_entities": 18,
+  "n_candidates": 306,
+  "text_hash": "0558fabce980ba6f704f00a9763b91e02a312f2b9d94716904d4d85b193473cc"
+ },
+ {
+  "doc_idx": 412,
+  "doc_id": "3a863460b8ccb5c54e91fff4c9bbda59dfac0467bd0d12b6268e0fe4e37c44f9",
+  "title": "Penedo da Saudade",
+  "n_common_entities": 7,
+  "n_candidates": 42,
+  "text_hash": "31160b57d808d9942d62c51a35d987e4a964d04fba571e2a38aaf8c9785416a7"
+ },
+ {
+  "doc_idx": 413,
+  "doc_id": "02a3f17ad8fce43671afd4bd5354b74ca388d14c32e3ed81947dff38f0ba1866",
+  "title": "Yandina, Solomon Islands",
+  "n_common_entities": 9,
+  "n_candidates": 72,
+  "text_hash": "48deb319ac2ca51c7d00e12300b0b8ea5f0821b47e64961110a12963ce54893d"
+ },
+ {
+  "doc_idx": 414,
+  "doc_id": "7d93dd5b65c33133970370d79ea783629c14c159ad9bf66840e85997dcbcaf78",
+  "title": "Osaka Bay",
+  "n_common_entities": 26,
+  "n_candidates": 650,
+  "text_hash": "ae43dbfe581df1799e242cc096788d604935829ca13eb9d517614d9e0d6d268b"
+ },
+ {
+  "doc_idx": 415,
+  "doc_id": "34022924f8e7aef5183b861a8752d96de986952bcee5eea22e205acc02474aeb",
+  "title": "Tudor Chirilă",
+  "n_common_entities": 21,
+  "n_candidates": 420,
+  "text_hash": "0e0f94a5d884f3dcc0b4891136f140b61ea89b85d4f3e5521b981a679fbb68ef"
+ },
+ {
+  "doc_idx": 416,
+  "doc_id": "4aae3c5e3a715ae15fa03d5c0a83d5e4d723caa34152f0900615dadc61f705a4",
+  "title": "Juan Balboa Boneke",
+  "n_common_entities": 15,
+  "n_candidates": 210,
+  "text_hash": "ccc197d3506613729224a05397c8eedbeb93799078d2e12a5383b4ae1326a03d"
+ },
+ {
+  "doc_idx": 417,
+  "doc_id": "9f867cc3d2ad8904f5949a8eec0e5fe20d220f083eff04036c6bcc459a47ba1e",
+  "title": "Sunol Valley",
+  "n_common_entities": 16,
+  "n_candidates": 240,
+  "text_hash": "f14d9e1ae33d9c25f761c7333749b5f0244747440a791f26381d1b640aa69e39"
+ },
+ {
+  "doc_idx": 418,
+  "doc_id": "de6af743cc41553daa8861f805be31effb10fd599074940f22198daa3c9b90d6",
+  "title": "Li Jiancheng",
+  "n_common_entities": 17,
+  "n_candidates": 272,
+  "text_hash": "706eb2015284e8a874af7f61be72623734c4845fd11f7248f88e0a3bc2d713a7"
+ },
+ {
+  "doc_idx": 419,
+  "doc_id": "166a64f74204f90a288b123539923d3d728e7ded45b58df776e9c1f13eed74a3",
+  "title": "Historiographic metafiction",
+  "n_common_entities": 29,
+  "n_candidates": 812,
+  "text_hash": "03f73be0450348180d86784192e19017a223419609017bae5ee97b7cd6693143"
+ },
+ {
+  "doc_idx": 420,
+  "doc_id": "93a0ddd3554d240edf79fe1e0140fdb33eadd630aff86a2385f651b96fb82982",
+  "title": "TY.O",
+  "n_common_entities": 18,
+  "n_candidates": 306,
+  "text_hash": "6adb98bcf21f8812b3d42f4f4eccdd691e7849e532f75a7bb425913f257b118e"
+ },
+ {
+  "doc_idx": 421,
+  "doc_id": "cb5af7639cf32d235b1ced98d55034b386b39425d294668dccba3815efee6612",
+  "title": "Aramis Ayala",
+  "n_common_entities": 12,
+  "n_candidates": 132,
+  "text_hash": "70239dd30c7d509f7c5db96058376ba015e8c8c30eebe10b61d3f509b0ba6e4f"
+ },
+ {
+  "doc_idx": 422,
+  "doc_id": "da98d88195d879153dcd4d7b91c911326ee1fbe2ee3b0fcc62f0fdfb2dac8d82",
+  "title": "Association of Australian Artistes",
+  "n_common_entities": 21,
+  "n_candidates": 420,
+  "text_hash": "605caaad4b125fff8a895b3a653cc142c41b23192fd833c5206f06e88078c13b"
+ },
+ {
+  "doc_idx": 423,
+  "doc_id": "a37a2e3b4152dd6fe09ec730a51bb807da743b41c24acb69f5b0d20e386e5c9c",
+  "title": "List of Spanish inventions and discoveries",
+  "n_common_entities": 15,
+  "n_candidates": 210,
+  "text_hash": "a370e76ea8c3e6bb9f254789a11bcc0323cfcdb03ffd73132a5243425fe37682"
+ },
+ {
+  "doc_idx": 424,
+  "doc_id": "e7204ef4963e9fa516528c622e11236e45a9d216a6ccbd4d64d59b573c32aaf5",
+  "title": "Glandularia",
+  "n_common_entities": 15,
+  "n_candidates": 210,
+  "text_hash": "c35c041536dfbedeb0a4ba12c42479926fd3ce840f2aadf16e78f444296a1a82"
+ },
+ {
+  "doc_idx": 425,
+  "doc_id": "3ef99cb5acce6a1fddeac942eacb81b5b16dd609310ef48bcf960bb5ea3a1b29",
+  "title": "Admission to the Union",
+  "n_common_entities": 17,
+  "n_candidates": 272,
+  "text_hash": "1a53fab89326b8f34bbbf0938fcd193fdd6d94cf21f711de8bdc4ff09856fa7e"
+ },
+ {
+  "doc_idx": 426,
+  "doc_id": "c7089abaa1ef6cbcb322376abdc733b9df5c8dfaf81332d60cf51b835de30d71",
+  "title": "Asian Games",
+  "n_common_entities": 26,
+  "n_candidates": 650,
+  "text_hash": "138ba8e0afaee6d0d6c15e3e4a4b4f239f9597970508f85749e34aa0aad3a675"
+ },
+ {
+  "doc_idx": 427,
+  "doc_id": "f7d663d5a466ecfd9027477ba4d0a2feb1984763bd77989c872712e3552f4f31",
+  "title": "Kungliga Hovkapellet",
+  "n_common_entities": 22,
+  "n_candidates": 462,
+  "text_hash": "b19da655c60bfbbc5f79763d6820e6e5566e9573e7ea620b019ad8ade6394575"
+ },
+ {
+  "doc_idx": 428,
+  "doc_id": "3d7dfc489e94a73ee0316a8ba0e3af8d32f8fcc44a9bb5691e036bccadf03237",
+  "title": "Queen of Mauritius",
+  "n_common_entities": 27,
+  "n_candidates": 702,
+  "text_hash": "f06e4d00a9b04946c2468da3eb2eb8e178b1d8425c1849ff4949a8a795612d78"
+ },
+ {
+  "doc_idx": 429,
+  "doc_id": "82485fa7a650ad3ddeb0638bf3e1d4b6419eabffaf3fc6e08248ad891fbd4d2c",
+  "title": "Stars and Stripes Forever (film)",
+  "n_common_entities": 18,
+  "n_candidates": 306,
+  "text_hash": "119c695ebd782b62517e7688fc6fa7561f62670678707f816a247f42b22b3cd5"
+ },
+ {
+  "doc_idx": 430,
+  "doc_id": "ca6cf8182862dd4b8c4e2a10505572d7d8b5b9bd3f19468a39787debd8a9b3bb",
+  "title": "TMF (UK &amp; Ireland)",
+  "n_common_entities": 24,
+  "n_candidates": 552,
+  "text_hash": "e68134c37559f383499365b8c30744d78f25d1a0d0e5bdfa9d01a232d4d739ce"
+ },
+ {
+  "doc_idx": 431,
+  "doc_id": "e55e8aaa8e3ce100ab2143a834635d062444eef3c00da45074b7df8ea8762d6e",
+  "title": "Jonathan Sayeed",
+  "n_common_entities": 17,
+  "n_candidates": 272,
+  "text_hash": "5f3552219323c382ee028522ed0f5f5f117b89eecb1a6ba1b812b6eb433d9c98"
+ },
+ {
+  "doc_idx": 432,
+  "doc_id": "5f6d42bcaabf92e74bbeee2b03ac95e2e5474ee1b16c206546d233f9e6eadeb7",
+  "title": "Subramaniapuram",
+  "n_common_entities": 16,
+  "n_candidates": 240,
+  "text_hash": "11f4eb99915feb25986df66aec65f03e8fffdbf0eb636b470c741201a0f5e772"
+ },
+ {
+  "doc_idx": 433,
+  "doc_id": "7f2b4789c4e606b52ee4c9e92488d647ed2b2ee49ed1a1e2c9d748e738cafb14",
+  "title": "Louis Chollet",
+  "n_common_entities": 18,
+  "n_candidates": 306,
+  "text_hash": "e243b55464735b9bb7dac765ab3c24c4bdbf020bbef910356a11d462c7cbb1cb"
+ },
+ {
+  "doc_idx": 434,
+  "doc_id": "6073969bf754f79566ac9336fdc06da05e8d42f73ade5184b6ec1f9e591925f3",
+  "title": "Sonic the Hedgehog",
+  "n_common_entities": 17,
+  "n_candidates": 272,
+  "text_hash": "003cb2fe6af186e8b48d593d424e3e408b3a0c16dce53387e94969ddcdb26f28"
+ },
+ {
+  "doc_idx": 435,
+  "doc_id": "f019a976b8659b1d1670924bfecbdf1c135b28995dd85de505f638711a0fae04",
+  "title": "Western Ukraine",
+  "n_common_entities": 28,
+  "n_candidates": 756,
+  "text_hash": "db5f15489f2f21ea23d4661195c5d7f38dbfa4b420a778a27adffd473f3bf3c6"
+ },
+ {
+  "doc_idx": 436,
+  "doc_id": "d46ca3ab6629fe57bf6a7704cc98ab1b2c4ef4c38a13297755a17dcf3f920acd",
+  "title": "Bill DeMott",
+  "n_common_entities": 16,
+  "n_candidates": 240,
+  "text_hash": "c2936f3db09aea2c041313cb59663992400cfb67faf7be3b8e5785aa10a44f24"
+ },
+ {
+  "doc_idx": 437,
+  "doc_id": "51cc37f5102ff1e613c58e6358bf651dbe4da0a4e2bdb54f637345e43f245933",
+  "title": "Delia Gallagher",
+  "n_common_entities": 22,
+  "n_candidates": 462,
+  "text_hash": "ee7831601480a24a5a5d2a1d9ed25b43ac682610811ec0e01f75d35cbfc3aae2"
+ },
+ {
+  "doc_idx": 438,
+  "doc_id": "de0f67953c173d2cb442fa53f33d44f0bca0e1879c5bf8e447cd68c987a3333b",
+  "title": "Goodooga, New South Wales",
+  "n_common_entities": 15,
+  "n_candidates": 210,
+  "text_hash": "c51dd11d7fdd3baa518f5c594e5215a538ebb9af8dec6d795fc92a6d157bba5c"
+ },
+ {
+  "doc_idx": 439,
+  "doc_id": "fa21eb67423c7a6bf0122cfd0fc929a69604bca9c53b646defbd30475672d0b8",
+  "title": "Electoral district of Frankston East",
+  "n_common_entities": 15,
+  "n_candidates": 210,
+  "text_hash": "d48eeec458e2fc42dc9247d9a734d4cc4e957801dc85c885a535ce0e31d35c60"
+ },
+ {
+  "doc_idx": 440,
+  "doc_id": "b153d556a54b9d46dc0c2acb2639328e35da014e0eff484ce7affd0e992778f9",
+  "title": "Louis Lombardi",
+  "n_common_entities": 30,
+  "n_candidates": 870,
+  "text_hash": "cbed18782cce98bf5bfc1c64b29e28eec150ec7f550bf52876ff9bf1792ebe53"
+ },
+ {
+  "doc_idx": 441,
+  "doc_id": "cd923e2646d20fb3341245c07930e5923ff9e21cf1e29911a029da76e3b18f1b",
+  "title": "Odessa (Bee Gees album)",
+  "n_common_entities": 18,
+  "n_candidates": 306,
+  "text_hash": "f88f9fb90f676d79cd335f751746a961a96b3ee053e7c21a934876cc06cbfbff"
+ },
+ {
+  "doc_idx": 442,
+  "doc_id": "3fa026da5e40bd95952f8b792f74a2430a6a27b0310fa65141af00d93018095f",
+  "title": "Pavol Sedlák",
+  "n_common_entities": 16,
+  "n_candidates": 240,
+  "text_hash": "9846ae50ea0776c9b23fc870349f490e2066f3601a4192b79b37cd4e139bfd75"
+ },
+ {
+  "doc_idx": 443,
+  "doc_id": "af7557f79811819322e5c22cb1121b7f4ba9a92d0c34fe55dbcd201ea0b612fc",
+  "title": "Kusha (Ramayana)",
+  "n_common_entities": 24,
+  "n_candidates": 552,
+  "text_hash": "c7cfe25bdbfa4acff45d37ec65b4df744e8607bbe77f292703a1084ffd46bac6"
+ },
+ {
+  "doc_idx": 444,
+  "doc_id": "78591e52f76e3866c27cfc07138e0ebf99dc95dd59434419d0c10057142d301a",
+  "title": "Gei Zantzinger",
+  "n_common_entities": 25,
+  "n_candidates": 600,
+  "text_hash": "0b7de6c828fc314e30ed98b47cfc123bf2b92c57c94ee01ba1208eea46a1b09b"
+ },
+ {
+  "doc_idx": 445,
+  "doc_id": "99d6b54b23893e65c659d2a0bcbf05e7ef91b68aa74bf1e8d71f3d740c64a25f",
+  "title": "Viscount Alanbrooke",
+  "n_common_entities": 17,
+  "n_candidates": 272,
+  "text_hash": "8fcfdf856d27fd7956fad10a39745f57a4b66b982027a20d158bb9fb2a4e59b7"
+ },
+ {
+  "doc_idx": 446,
+  "doc_id": "fa7c8ac95cbe9564b980f2afff3c5e228e24a7362c69ea1326a6ff798405ae91",
+  "title": "Iowa Telecom",
+  "n_common_entities": 27,
+  "n_candidates": 702,
+  "text_hash": "0ac11853a135627acd8be049357644cf1b5d8a79c7aae4f342cc7aa322810e98"
+ },
+ {
+  "doc_idx": 447,
+  "doc_id": "03431dd80f5fc8da7126951f6395458f04898e038a36b12ecc8cfedea0bf001a",
+  "title": "Peadar Bracken",
+  "n_common_entities": 19,
+  "n_candidates": 342,
+  "text_hash": "e77f5367c772920057dc79404e72e88e583c75ebe96a05ed49131de64567cc0b"
+ },
+ {
+  "doc_idx": 448,
+  "doc_id": "98ee4523b6882e015ff8a7212c53eda43e895310397c7814a849d7b33eaa3a18",
+  "title": "Tartu",
+  "n_common_entities": 15,
+  "n_candidates": 210,
+  "text_hash": "db448f502261bc7e5135af0dcdf585a84ea8ed504b477f7c2e3de54a22856776"
+ },
+ {
+  "doc_idx": 449,
+  "doc_id": "30aedb9aa764f47bc51af18f47346de5dc71cef4246f3bb70b379ebc2778a819",
+  "title": "Eleazar Lipsky",
+  "n_common_entities": 24,
+  "n_candidates": 552,
+  "text_hash": "3c9e0e20dcd7800aa7971bd60c3c99de1721596633ce7d0efbd1dc1d65c31897"
+ },
+ {
+  "doc_idx": 450,
+  "doc_id": "c64cc98bb19b74231d4bc7d1d68a88aed9f81a45f9bd4501b83bea4abefff2fb",
+  "title": "The Colts (vocal group)",
+  "n_common_entities": 19,
+  "n_candidates": 342,
+  "text_hash": "4a30413f8422ac577da437d1485e931bf66bd6b5d1dfecf20fd50b69567567ca"
+ },
+ {
+  "doc_idx": 451,
+  "doc_id": "a2678cb34680d6f5234b0ca3be161df0d819f17dcf8ddd1502c4e8f1c2a5f081",
+  "title": "Pointr",
+  "n_common_entities": 11,
+  "n_candidates": 110,
+  "text_hash": "c74104ace14b2934d18d7d9947365fda64d3eee29707a1548c786376ffa37174"
+ },
+ {
+  "doc_idx": 452,
+  "doc_id": "9c7777f6708ffe04fa71599eab4bbcec154db986e7c702469f1ced36125f04a7",
+  "title": "Lumia imaging apps",
+  "n_common_entities": 15,
+  "n_candidates": 210,
+  "text_hash": "f4750617dcdf0f1598a45d16ac3cb689a4756e8f2bc8143085365acfda0cce33"
+ },
+ {
+  "doc_idx": 453,
+  "doc_id": "aada014ea4b558baa195903557084c60d567ba931b20dfa1fdbcc38ea36b6f5f",
+  "title": "Nikita Bogoslovsky",
+  "n_common_entities": 29,
+  "n_candidates": 812,
+  "text_hash": "96a3377bc114f27ae967ba151a16f5683ab0cf133ddc9cabde9927c187981b86"
+ },
+ {
+  "doc_idx": 454,
+  "doc_id": "cb427c6b09857a2591afb2e9cc16fefbc1dcdb585d2a6c2e7a802ff43fc7b185",
+  "title": "Rachel Perry (artist)",
+  "n_common_entities": 12,
+  "n_candidates": 132,
+  "text_hash": "ba4a842fcb3d412cd79d72d3cae4ce20b0d76135324bb37ba08f9d295edf17c9"
+ },
+ {
+  "doc_idx": 455,
+  "doc_id": "9fa5b24bd3967dd3c59c9b5dc539b515a8352fabbcac01996adc04e08c917e01",
+  "title": "Heeney, Colorado",
+  "n_common_entities": 15,
+  "n_candidates": 210,
+  "text_hash": "fa4f225319e5f7b2d86a3dc7b09babe6efa9c700ba469c66dc7d0cf92a1c8a63"
+ },
+ {
+  "doc_idx": 456,
+  "doc_id": "796f3316a0eb37f762d1120fdee27814d8f3be01d403087832ca4a725c9d7ae5",
+  "title": "Miguel Hidalgo y Costilla",
+  "n_common_entities": 27,
+  "n_candidates": 702,
+  "text_hash": "c8f1943d5e85abcc70afae491d27b29ee21b2af7f0d13b95053219a8ec2f06ae"
+ },
+ {
+  "doc_idx": 457,
+  "doc_id": "9c36e1dca9b99b4d71c70a471f578838092baf2587d5ece7c7379e675f557c7f",
+  "title": "Extraordinary Merry Christmas",
+  "n_common_entities": 21,
+  "n_candidates": 420,
+  "text_hash": "1e80a8b65a48aaf7c289c314dd50f03667ce250fa94ac3173841911e9f14b4a6"
+ },
+ {
+  "doc_idx": 458,
+  "doc_id": "829474313345db690fb457616797f85369634a14bd1d98a4228323d25684f433",
+  "title": "Baltimore and Ohio Railroad Martinsburg Shops",
+  "n_common_entities": 14,
+  "n_candidates": 182,
+  "text_hash": "e1684b9fea7e62fc2aac56dd1259a98d74cc27ac144f08eba1335fab99598228"
+ },
+ {
+  "doc_idx": 459,
+  "doc_id": "d1fb47326152e83a44656d7e72bfce38127b8b96ff5b876b16d45d1204a0cc61",
+  "title": "Tyche",
+  "n_common_entities": 12,
+  "n_candidates": 132,
+  "text_hash": "7a3bef1bb3224ee152741b1141047a4e2f9f652af98509fbdb3739f14b580617"
+ },
+ {
+  "doc_idx": 460,
+  "doc_id": "fc39177cb8a44463f6099233ba08629edc87e62e0ab21c936aef23bc25055e17",
+  "title": "Anne-Marguerite Petit du Noyer",
+  "n_common_entities": 27,
+  "n_candidates": 702,
+  "text_hash": "9aae7885e7128f448c69bde44206aa8acb4b54e722ed2fd944414a3a70e212c5"
+ },
+ {
+  "doc_idx": 461,
+  "doc_id": "318bbb6fef8570150143222aa00cac0cb45101c87682012b1c477a11d449e674",
+  "title": "Christian Hee Hwass",
+  "n_common_entities": 23,
+  "n_candidates": 506,
+  "text_hash": "a585f36e5b82a4452f8725db7a0e8c02073528982f219c3b7bb0101c12161d03"
+ },
+ {
+  "doc_idx": 462,
+  "doc_id": "80b0ba4abaf1db6cc99caae8763348d20ab4b77a6724102ebeab9d0051dc1bd7",
+  "title": "Dan Sterling",
+  "n_common_entities": 18,
+  "n_candidates": 306,
+  "text_hash": "21d84277aabe055053b16f9c61ac5c4be2e6f09f0728a52fe92068b9485fb456"
+ },
+ {
+  "doc_idx": 463,
+  "doc_id": "dcd15bfbd69af9c22abc0074f4d306d2792ac3e71c91582bd26f83e354e6883d",
+  "title": "L'Oblat",
+  "n_common_entities": 15,
+  "n_candidates": 210,
+  "text_hash": "6cbc3831fb15e434a2e92c397f5798fcfc0bbf6d7dfd5b800eddb693e4a45b3a"
+ },
+ {
+  "doc_idx": 464,
+  "doc_id": "825cec2a161ec028220cd73cb24d1820f2b83d74ca82bbb55c594008b34c3b9a",
+  "title": "Nicky Ladanowski",
+  "n_common_entities": 26,
+  "n_candidates": 650,
+  "text_hash": "8a3c1f9e96170b1986d0e968669b2705714c07ba3c5e51eee3d4bad6dbdf0c11"
+ },
+ {
+  "doc_idx": 465,
+  "doc_id": "294aa3ef0c5fa170fee9ff30b23c781c0c794b526cb51be29e7e9902870054ed",
+  "title": "Vicente Genaro de Quesada",
+  "n_common_entities": 24,
+  "n_candidates": 552,
+  "text_hash": "bb86ce33641577c070e0c12b35b610a8029badf1d24ef451e1531d0e0a4df92d"
+ },
+ {
+  "doc_idx": 466,
+  "doc_id": "c143a52e9c54a98202d0687bc444f7f5668246f12caf355c3de5eacd0e24adef",
+  "title": "The Catholic Catechism (Hardon)",
+  "n_common_entities": 15,
+  "n_candidates": 210,
+  "text_hash": "8b4afba08537fe4668069b73638c7903125c282e3786b60094f01706950888ff"
+ },
+ {
+  "doc_idx": 467,
+  "doc_id": "66c1fcd7cc6b9d03ef553b327247e979fdf32d595acebf577f38851c23033af2",
+  "title": "Santa Elena de Uairén",
+  "n_common_entities": 22,
+  "n_candidates": 462,
+  "text_hash": "b9095137455a522b8cabc4a81db5b1d19db7bfdde7f494d86667cd7d2df7de25"
+ },
+ {
+  "doc_idx": 468,
+  "doc_id": "a9c6ffb59a862e0f33d1d782dd52f72dd9889590b0c550afbe00e8e62a5d73c2",
+  "title": "Pljeskavica",
+  "n_common_entities": 13,
+  "n_candidates": 156,
+  "text_hash": "247056b58df376f0d21d635dead483b90d4caf38da57d388357bf55260e8c00e"
+ },
+ {
+  "doc_idx": 469,
+  "doc_id": "ea83fb4db97323131988515c87251d2029a118dc7a9965b88e778c7b606a3e4f",
+  "title": "Rufus Carter",
+  "n_common_entities": 17,
+  "n_candidates": 272,
+  "text_hash": "25019b67fac5a06e38005ee01cdb05317c9d65ec986a83434a32d06932bf0cbf"
+ },
+ {
+  "doc_idx": 470,
+  "doc_id": "682eb971c9779a86ed218911d398938ab000199e30899c2902ebed00f75d04b3",
+  "title": "Ko Joo-yeon",
+  "n_common_entities": 14,
+  "n_candidates": 182,
+  "text_hash": "59b06366eb2d11fc3f462843eddf57ea4a92f19b59c42270d407eb960adc4cc1"
+ },
+ {
+  "doc_idx": 471,
+  "doc_id": "bceb82662da9074a25e0d6f1982c7bc9a40ca8d55b628bab6f18796931d54eff",
+  "title": "Betty Bowes",
+  "n_common_entities": 23,
+  "n_candidates": 506,
+  "text_hash": "5650a8cd8dfc8fca37441b0e4ec7a93050fe5207e5b5baa864528da59e0b0dae"
+ },
+ {
+  "doc_idx": 472,
+  "doc_id": "810ea20fe6cb6fed504a11db9e3726f88e27c906e66969337faa9c4ff1f8d9f3",
+  "title": "Hang Tuah station",
+  "n_common_entities": 15,
+  "n_candidates": 210,
+  "text_hash": "0be1ac527ad40ec719fc0f3573133cc9b391ac1ef8edd2cf225c0cd488baef12"
+ },
+ {
+  "doc_idx": 473,
+  "doc_id": "1c50817431544e15a1aacc2c09253df34e275186ac9a2383d5b2cf40c3493141",
+  "title": "Cinema Verity",
+  "n_common_entities": 23,
+  "n_candidates": 506,
+  "text_hash": "c5eab24e88d3ed74a2e561b29390644e81a5856b3c505afee647237512931a99"
+ },
+ {
+  "doc_idx": 474,
+  "doc_id": "40ee80884d72dad8d25d8567cb767a1f5366d75eb1949f35ea6ac11f3eba551a",
+  "title": "Grand Wing Servo-Tech",
+  "n_common_entities": 12,
+  "n_candidates": 132,
+  "text_hash": "df62f9aafe2ed248147395c5dc360238e2f3e539de795d32412e8d39eb3876b7"
+ },
+ {
+  "doc_idx": 475,
+  "doc_id": "d2f3384b78ca447dc7466b1a400aeae85c677d8a4956cf99b1d06b589f44676a",
+  "title": "Elbląg County",
+  "n_common_entities": 17,
+  "n_candidates": 272,
+  "text_hash": "058734cc0eb4e7faaa43d3f1b4417532ce20b61da82b5eb198670770be5622dc"
+ },
+ {
+  "doc_idx": 476,
+  "doc_id": "6c4b176d90ed94e469b591431e1fba6284709ca40e2b318842478b802c076715",
+  "title": "Omero Mumba",
+  "n_common_entities": 23,
+  "n_candidates": 506,
+  "text_hash": "da22a887a582ee0ec87eec8b8964384f6821fd71d2af58b4f2e271b76b316372"
+ },
+ {
+  "doc_idx": 477,
+  "doc_id": "e54cc1d052203b2600397cc0c0b55fc5149a406189d2ce6b3997e2212ff1e7c2",
+  "title": "Rockefeller Brothers Fund",
+  "n_common_entities": 19,
+  "n_candidates": 342,
+  "text_hash": "cf628b22b09f041e068ed7d707e383ec5a4835c6ac0e32af0f774fc2fded7bcc"
+ },
+ {
+  "doc_idx": 478,
+  "doc_id": "f5a2331a9a936ae077932db1b9040e8cdf4c0be434e0afc11f0bc887888805f1",
+  "title": "Kerstin Thorborg",
+  "n_common_entities": 32,
+  "n_candidates": 992,
+  "text_hash": "e3f83e68b286746958ed9a1379a8766830c07e5ff0750777ee0388fbcc771436"
+ },
+ {
+  "doc_idx": 479,
+  "doc_id": "a5641db172e68c2a377dc4cc9fb63d3b3ee2acf959593c093c7ee6314b2d9066",
+  "title": "Radu Lecca",
+  "n_common_entities": 29,
+  "n_candidates": 812,
+  "text_hash": "b52baef32e1bf54ff9af1d48799032a1e980c71e730553208ad94a0f36cd2d56"
+ },
+ {
+  "doc_idx": 480,
+  "doc_id": "3810061d877fea12d8c450987ccac5409fb2566fdb28675236289fc500b2b799",
+  "title": "Lampedusa",
+  "n_common_entities": 26,
+  "n_candidates": 650,
+  "text_hash": "4d03d8bdb222a046a95cc836e4915b589a330e3393d555bddc4d373a277ce0d0"
+ },
+ {
+  "doc_idx": 481,
+  "doc_id": "687f92ca4a46feef35498a65b9cc27c079cb6c0033e51959f39f9228b377953e",
+  "title": "Addy Lee",
+  "n_common_entities": 16,
+  "n_candidates": 240,
+  "text_hash": "0f4d1280d4a47fcb34c4f08ad8c9b04f20e74608b8942a131c8dc3ab5b0718de"
+ },
+ {
+  "doc_idx": 482,
+  "doc_id": "f0319fe6f0e7ae82db69ea91a79ba67912c2b53bd679e1aad7a51699f4d510bd",
+  "title": "Olof Mörck",
+  "n_common_entities": 26,
+  "n_candidates": 650,
+  "text_hash": "c1c000b696189f1e1f82850f115f03e9ead4e56af95ac0e2d74d7bcae50046b8"
+ },
+ {
+  "doc_idx": 483,
+  "doc_id": "3a9d12c1904364171a1f52d40b1689ae62b4b4ecdde573fd9459bed7541cfd6f",
+  "title": "Cimatti",
+  "n_common_entities": 30,
+  "n_candidates": 870,
+  "text_hash": "9db048660376e3947ede524d0d2fd29e8184f87e5409c2ad289ec5b120d84321"
+ },
+ {
+  "doc_idx": 484,
+  "doc_id": "628eaf5e3c889e84ad80dc36f6f61e88c6486897e2fc8443dd6f8395f0a7509f",
+  "title": "Rudolf Halin",
+  "n_common_entities": 14,
+  "n_candidates": 182,
+  "text_hash": "f04b98f0c1e274e36318db426d8fef0c9586542464a11af0a483cf8d39e9439e"
+ },
+ {
+  "doc_idx": 485,
+  "doc_id": "170165712e48b0ed3fc8986e345a21dfa53d3b23eddce655789a11792c975aa8",
+  "title": "Church of Saint Francis of Assisi (Ouro Preto)",
+  "n_common_entities": 13,
+  "n_candidates": 156,
+  "text_hash": "1c41a05cb9ceed689b8f7233b3b1e325c2e7c2617e4a82285f57cffb711c6a65"
+ },
+ {
+  "doc_idx": 486,
+  "doc_id": "73eb30a5ab0c236b2cc95e177f74c45c80e0bb02849cb7943ecf77eac4cc2337",
+  "title": "Sara Black",
+  "n_common_entities": 30,
+  "n_candidates": 870,
+  "text_hash": "ec0b9d1453b6424ce42070150b225b41002cbcae3d6385a37e6344181f0f4166"
+ },
+ {
+  "doc_idx": 487,
+  "doc_id": "8e54d025bd14f76a1ab8b76fc526ba48bdb48d14eb03415f6040389af4584f6a",
+  "title": "Młociny metro station",
+  "n_common_entities": 8,
+  "n_candidates": 56,
+  "text_hash": "f4d5677d4eb16cc364b7d54b4403837d5ffdbab3299b01c3990ae01976d4aec1"
+ },
+ {
+  "doc_idx": 488,
+  "doc_id": "677482ecce574e225eebc099dcc6300a074da30277d3bc629bf3b982bc585d02",
+  "title": "La prima notte di quiete",
+  "n_common_entities": 13,
+  "n_candidates": 156,
+  "text_hash": "f66de743bbf8d6e47337eb5dae96e60a2f35a787df9e512bfdac2832c701276e"
+ },
+ {
+  "doc_idx": 489,
+  "doc_id": "df63ebda1e29714e7b417fb88ac5796b00fa8db4f1330b1eb5fb497ffef816b5",
+  "title": "Baunilha e chocolate",
+  "n_common_entities": 15,
+  "n_candidates": 210,
+  "text_hash": "fae158562d8a52f2b4efa7da4d64f9496720075a9b0f769923604f7f275640d3"
+ },
+ {
+  "doc_idx": 490,
+  "doc_id": "092411ce1b2e2f0749d18d879efa74b981999a678dd30a469af90070262cf1de",
+  "title": "Scimitar oryx",
+  "n_common_entities": 8,
+  "n_candidates": 56,
+  "text_hash": "ed83449ed436d82abfc46cc22e833943a27936953c9b3d0aaad22515efd09e2b"
+ },
+ {
+  "doc_idx": 491,
+  "doc_id": "a9e13e63e12739dbe866f12ac288ff94a8d634662f1a7357d39cc575b6041ec1",
+  "title": "Vätsäri Wilderness Area",
+  "n_common_entities": 15,
+  "n_candidates": 210,
+  "text_hash": "0d0698d4fe2341d5ad3f345dce779f7c70b3ebe19b38921e4771a5f398db9183"
+ },
+ {
+  "doc_idx": 492,
+  "doc_id": "4ea03c8483e16945991e963c7dae1637885fa8e37a546345540835f5a36443f8",
+  "title": "Patriot Hills Base Camp",
+  "n_common_entities": 17,
+  "n_candidates": 272,
+  "text_hash": "c388dd2d6a351555914b559907dd8c52cc013891373893174b25df466c4c884f"
+ },
+ {
+  "doc_idx": 493,
+  "doc_id": "4a96064fb4dff40ce6c44eaf63530555e9599bf06a049fa7b7dc315eaa63fa02",
+  "title": "War between Armenia and Iberia",
+  "n_common_entities": 32,
+  "n_candidates": 992,
+  "text_hash": "b8729ffeb19f37233e29f1f3a6118a530dd6dbd677b113288b8e72ed6115d5c0"
+ },
+ {
+  "doc_idx": 494,
+  "doc_id": "3cfee013794cc63a907d14e5f07dd31451cf8984e5c20ffa45d34f73df59fdf7",
+  "title": "James De Alwis",
+  "n_common_entities": 29,
+  "n_candidates": 812,
+  "text_hash": "4f2d09bbb1d1d9b347392f0f722611b0ddd4720cbd78326c622334bc7d5e3abf"
+ },
+ {
+  "doc_idx": 495,
+  "doc_id": "d8e4cc31745815da7a1e561a09cccccfec78442fa278869bde90f4696838cec0",
+  "title": "Will Weng",
+  "n_common_entities": 21,
+  "n_candidates": 420,
+  "text_hash": "d4fac793f1e9dc1e2823dc55b690fd1b101971371e3aedcb9686192d05ba975d"
+ },
+ {
+  "doc_idx": 496,
+  "doc_id": "df1dda4243767770277bef457ae24b81eb2557fd786d0db7f1419e273bc7074d",
+  "title": "Front of Islamic Revolution Stability",
+  "n_common_entities": 12,
+  "n_candidates": 132,
+  "text_hash": "bf02bb68f0633961aecd6ad78059e8f6fed76c9a7c9e67a7ddb724a33f9a60c3"
+ },
+ {
+  "doc_idx": 497,
+  "doc_id": "437e19e65586b84cc2bab74a98e1bda6bda6d92a5dc0ab2ad620799393c1cd24",
+  "title": "Frederick Chiluba",
+  "n_common_entities": 12,
+  "n_candidates": 132,
+  "text_hash": "8b63193751a8fe433528f1952a053e28abae2003c6f8be9e8cd96bfd6dbacc58"
+ }
+]

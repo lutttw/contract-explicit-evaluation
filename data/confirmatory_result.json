@@ -1,0 +1,2771 @@
+{
+ "mode": "confirmatory_v3",
+ "prereg": "prereg_v2.md (FROZEN 2026-11-08)",
+ "seeds": [
+  20261211,
+  20261212,
+  20261213,
+  20261214,
+  20261215
+ ],
+ "B": 2000,
+ "boot_seed": 20261112,
+ "registry": {
+  "n_checks": 207,
+  "n_flip": 52,
+  "gens": 14,
+  "units": 39,
+  "excluded_gR2_label_pairs": 10,
+  "splits": {
+   "cal": [
+    "atlop_full|bert_large",
+    "atlop_full|docunet",
+    "atlop_full|kddocre",
+    "atlop_full|p3m",
+    "atlop_pe8|dreeam",
+    "atlop_pe8|p3m",
+    "deberta_v3|longformer",
+    "docunet|longformer",
+    "dreeam|docunet",
+    "dreeam|longformer",
+    "kddocre|longformer",
+    "p3m|deberta_v3",
+    "p3m|kddocre",
+    "p3m|mdeberta_v3",
+    "p3m|xlm_roberta_large",
+    "x2|bert_large",
+    "x2|docunet",
+    "x2|electra_base",
+    "x2|mdeberta_v3",
+    "x2|xlm_roberta_large"
+   ],
+   "test": [
+    "atlop_full|deberta_v3",
+    "atlop_full|dreeam",
+    "atlop_full|longformer",
+    "atlop_pe8|docunet",
+    "atlop_pe8|kddocre",
+    "deberta_v3|bert_large",
+    "docunet|kddocre",
+    "dreeam|deberta_v3",
+    "dreeam|kddocre",
+    "dreeam|p3m",
+    "p3m|bert_large",
+    "p3m|electra_base",
+    "p3m|longformer",
+    "p3m|roberta_large",
+    "x2|atlop_full",
+    "x2|deberta_v3",
+    "x2|dreeam",
+    "x2|longformer",
+    "x2|roberta_large"
+   ]
+  }
+ },
+ "readers": {
+  "learned_per_seed": [
+   {
+    "n_checks": 207,
+    "n_flip": 52,
+    "coverage": 9,
+    "false_tie": 48,
+    "n_ranked": 43,
+    "fid_cons": 43,
+    "fid_gR": 26,
+    "rows": [
+     {
+      "pair": "x2|dreeam",
+      "dim": "gold(gD_vs_gR)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|docunet",
+      "dim": "threshold(fixed_vs_cal)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "atlop_pe8|dreeam",
+      "dim": "threshold(fixed_vs_cal)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "atlop_pe8|p3m",
+      "dim": "gold(gD_vs_gR)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "atlop_full|docunet",
+      "dim": "threshold(fixed_vs_cal)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "atlop_full|kddocre",
+      "dim": "threshold(fixed_vs_cal)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "dreeam|docunet",
+      "dim": "threshold(fixed_vs_cal)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "dreeam|kddocre",
+      "dim": "gold(gD_vs_gR)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "dreeam|kddocre",
+      "dim": "threshold(fixed_vs_cal)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "x2|deberta_v3",
+      "dim": "gold(gD_vs_gR)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "dreeam|deberta_v3",
+      "dim": "scoring(A_vs_R)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|longformer",
+      "dim": "gold(gD_vs_gR)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "dreeam|longformer",
+      "dim": "gold(gD_vs_gR)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "x2|xlm_roberta_large",
+      "dim": "gold(gD_vs_gR)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|electra_base",
+      "dim": "gold(gD_vs_gR)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|mdeberta_v3",
+      "dim": "gold(gD_vs_gR)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "atlop_pe8|p3m",
+      "dim": "gold(gR_vs_gR2)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "atlop_full|kddocre",
+      "dim": "gold(gR_vs_gR2)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "atlop_full|deberta_v3",
+      "dim": "gold(gR_vs_gR2)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "atlop_full|longformer",
+      "dim": "gold(gR_vs_gR2)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "dreeam|kddocre",
+      "dim": "gold(gR_vs_gR2)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "x2|atlop_full",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|dreeam",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|deberta_v3",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|longformer",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|roberta_large",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|bert_large",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|xlm_roberta_large",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|electra_base",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|mdeberta_v3",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "atlop_pe8|dreeam",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "atlop_full|p3m",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "dreeam|p3m",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "dreeam|docunet",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "p3m|kddocre",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "p3m|deberta_v3",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "p3m|longformer",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "p3m|roberta_large",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "p3m|bert_large",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "p3m|xlm_roberta_large",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "p3m|electra_base",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "p3m|mdeberta_v3",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "deberta_v3|bert_large",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     }
+    ],
+    "tau_vs_gR": 0.4945054945054945
+   },
+   {
+    "n_checks": 207,
+    "n_flip": 52,
+    "coverage": 9,
+    "false_tie": 48,
+    "n_ranked": 43,
+    "fid_cons": 43,
+    "fid_gR": 26,
+    "rows": [
+     {
+      "pair": "x2|dreeam",
+      "dim": "gold(gD_vs_gR)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|docunet",
+      "dim": "threshold(fixed_vs_cal)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "atlop_pe8|dreeam",
+      "dim": "threshold(fixed_vs_cal)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "atlop_pe8|p3m",
+      "dim": "gold(gD_vs_gR)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "atlop_full|docunet",
+      "dim": "threshold(fixed_vs_cal)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "atlop_full|kddocre",
+      "dim": "threshold(fixed_vs_cal)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "dreeam|docunet",
+      "dim": "threshold(fixed_vs_cal)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "dreeam|kddocre",
+      "dim": "gold(gD_vs_gR)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "dreeam|kddocre",
+      "dim": "threshold(fixed_vs_cal)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "x2|deberta_v3",
+      "dim": "gold(gD_vs_gR)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "dreeam|deberta_v3",
+      "dim": "scoring(A_vs_R)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|longformer",
+      "dim": "gold(gD_vs_gR)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "dreeam|longformer",
+      "dim": "gold(gD_vs_gR)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "x2|xlm_roberta_large",
+      "dim": "gold(gD_vs_gR)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|electra_base",
+      "dim": "gold(gD_vs_gR)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|mdeberta_v3",
+      "dim": "gold(gD_vs_gR)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "atlop_pe8|p3m",
+      "dim": "gold(gR_vs_gR2)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "atlop_full|kddocre",
+      "dim": "gold(gR_vs_gR2)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "atlop_full|deberta_v3",
+      "dim": "gold(gR_vs_gR2)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "atlop_full|longformer",
+      "dim": "gold(gR_vs_gR2)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "dreeam|kddocre",
+      "dim": "gold(gR_vs_gR2)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "x2|atlop_full",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|dreeam",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|deberta_v3",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|longformer",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|roberta_large",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|bert_large",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|xlm_roberta_large",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|electra_base",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|mdeberta_v3",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "atlop_pe8|dreeam",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "atlop_full|p3m",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "dreeam|p3m",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "dreeam|docunet",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "p3m|kddocre",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "p3m|deberta_v3",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "p3m|longformer",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "p3m|roberta_large",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "p3m|bert_large",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "p3m|xlm_roberta_large",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "p3m|electra_base",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "p3m|mdeberta_v3",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "deberta_v3|bert_large",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     }
+    ],
+    "tau_vs_gR": 0.42857142857142855
+   },
+   {
+    "n_checks": 207,
+    "n_flip": 52,
+    "coverage": 9,
+    "false_tie": 48,
+    "n_ranked": 43,
+    "fid_cons": 43,
+    "fid_gR": 26,
+    "rows": [
+     {
+      "pair": "x2|dreeam",
+      "dim": "gold(gD_vs_gR)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|docunet",
+      "dim": "threshold(fixed_vs_cal)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "atlop_pe8|dreeam",
+      "dim": "threshold(fixed_vs_cal)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "atlop_pe8|p3m",
+      "dim": "gold(gD_vs_gR)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "atlop_full|docunet",
+      "dim": "threshold(fixed_vs_cal)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "atlop_full|kddocre",
+      "dim": "threshold(fixed_vs_cal)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "dreeam|docunet",
+      "dim": "threshold(fixed_vs_cal)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "dreeam|kddocre",
+      "dim": "gold(gD_vs_gR)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "dreeam|kddocre",
+      "dim": "threshold(fixed_vs_cal)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "x2|deberta_v3",
+      "dim": "gold(gD_vs_gR)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "dreeam|deberta_v3",
+      "dim": "scoring(A_vs_R)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|longformer",
+      "dim": "gold(gD_vs_gR)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "dreeam|longformer",
+      "dim": "gold(gD_vs_gR)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "x2|xlm_roberta_large",
+      "dim": "gold(gD_vs_gR)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|electra_base",
+      "dim": "gold(gD_vs_gR)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|mdeberta_v3",
+      "dim": "gold(gD_vs_gR)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "atlop_pe8|p3m",
+      "dim": "gold(gR_vs_gR2)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "atlop_full|kddocre",
+      "dim": "gold(gR_vs_gR2)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "atlop_full|deberta_v3",
+      "dim": "gold(gR_vs_gR2)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "atlop_full|longformer",
+      "dim": "gold(gR_vs_gR2)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "dreeam|kddocre",
+      "dim": "gold(gR_vs_gR2)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "x2|atlop_full",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|dreeam",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|deberta_v3",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|longformer",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|roberta_large",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|bert_large",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|xlm_roberta_large",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|electra_base",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|mdeberta_v3",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "atlop_pe8|dreeam",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "atlop_full|p3m",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "dreeam|p3m",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "dreeam|docunet",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "p3m|kddocre",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "p3m|deberta_v3",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "p3m|longformer",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "p3m|roberta_large",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "p3m|bert_large",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "p3m|xlm_roberta_large",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "p3m|electra_base",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "p3m|mdeberta_v3",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "deberta_v3|bert_large",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     }
+    ],
+    "tau_vs_gR": 0.4725274725274726
+   },
+   {
+    "n_checks": 207,
+    "n_flip": 52,
+    "coverage": 9,
+    "false_tie": 48,
+    "n_ranked": 43,
+    "fid_cons": 43,
+    "fid_gR": 26,
+    "rows": [
+     {
+      "pair": "x2|dreeam",
+      "dim": "gold(gD_vs_gR)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|docunet",
+      "dim": "threshold(fixed_vs_cal)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "atlop_pe8|dreeam",
+      "dim": "threshold(fixed_vs_cal)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "atlop_pe8|p3m",
+      "dim": "gold(gD_vs_gR)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "atlop_full|docunet",
+      "dim": "threshold(fixed_vs_cal)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "atlop_full|kddocre",
+      "dim": "threshold(fixed_vs_cal)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "dreeam|docunet",
+      "dim": "threshold(fixed_vs_cal)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "dreeam|kddocre",
+      "dim": "gold(gD_vs_gR)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "dreeam|kddocre",
+      "dim": "threshold(fixed_vs_cal)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "x2|deberta_v3",
+      "dim": "gold(gD_vs_gR)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "dreeam|deberta_v3",
+      "dim": "scoring(A_vs_R)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|longformer",
+      "dim": "gold(gD_vs_gR)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "dreeam|longformer",
+      "dim": "gold(gD_vs_gR)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "x2|xlm_roberta_large",
+      "dim": "gold(gD_vs_gR)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|electra_base",
+      "dim": "gold(gD_vs_gR)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|mdeberta_v3",
+      "dim": "gold(gD_vs_gR)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "atlop_pe8|p3m",
+      "dim": "gold(gR_vs_gR2)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "atlop_full|kddocre",
+      "dim": "gold(gR_vs_gR2)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "atlop_full|deberta_v3",
+      "dim": "gold(gR_vs_gR2)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "atlop_full|longformer",
+      "dim": "gold(gR_vs_gR2)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "dreeam|kddocre",
+      "dim": "gold(gR_vs_gR2)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "x2|atlop_full",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|dreeam",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|deberta_v3",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|longformer",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|roberta_large",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|bert_large",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|xlm_roberta_large",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|electra_base",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|mdeberta_v3",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "atlop_pe8|dreeam",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "atlop_full|p3m",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "dreeam|p3m",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "dreeam|docunet",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "p3m|kddocre",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "p3m|deberta_v3",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "p3m|longformer",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "p3m|roberta_large",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "p3m|bert_large",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "p3m|xlm_roberta_large",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "p3m|electra_base",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "p3m|mdeberta_v3",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "deberta_v3|bert_large",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     }
+    ],
+    "tau_vs_gR": 0.45054945054945056
+   },
+   {
+    "n_checks": 207,
+    "n_flip": 52,
+    "coverage": 9,
+    "false_tie": 48,
+    "n_ranked": 43,
+    "fid_cons": 43,
+    "fid_gR": 26,
+    "rows": [
+     {
+      "pair": "x2|dreeam",
+      "dim": "gold(gD_vs_gR)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|docunet",
+      "dim": "threshold(fixed_vs_cal)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "atlop_pe8|dreeam",
+      "dim": "threshold(fixed_vs_cal)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "atlop_pe8|p3m",
+      "dim": "gold(gD_vs_gR)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "atlop_full|docunet",
+      "dim": "threshold(fixed_vs_cal)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "atlop_full|kddocre",
+      "dim": "threshold(fixed_vs_cal)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "dreeam|docunet",
+      "dim": "threshold(fixed_vs_cal)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "dreeam|kddocre",
+      "dim": "gold(gD_vs_gR)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "dreeam|kddocre",
+      "dim": "threshold(fixed_vs_cal)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "x2|deberta_v3",
+      "dim": "gold(gD_vs_gR)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "dreeam|deberta_v3",
+      "dim": "scoring(A_vs_R)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|longformer",
+      "dim": "gold(gD_vs_gR)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "dreeam|longformer",
+      "dim": "gold(gD_vs_gR)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "x2|xlm_roberta_large",
+      "dim": "gold(gD_vs_gR)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|electra_base",
+      "dim": "gold(gD_vs_gR)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|mdeberta_v3",
+      "dim": "gold(gD_vs_gR)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "atlop_pe8|p3m",
+      "dim": "gold(gR_vs_gR2)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "atlop_full|kddocre",
+      "dim": "gold(gR_vs_gR2)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "atlop_full|deberta_v3",
+      "dim": "gold(gR_vs_gR2)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "atlop_full|longformer",
+      "dim": "gold(gR_vs_gR2)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "dreeam|kddocre",
+      "dim": "gold(gR_vs_gR2)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "x2|atlop_full",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|dreeam",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|deberta_v3",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|longformer",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|roberta_large",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|bert_large",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|xlm_roberta_large",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|electra_base",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "x2|mdeberta_v3",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": false
+     },
+     {
+      "pair": "atlop_pe8|dreeam",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "atlop_full|p3m",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "dreeam|p3m",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "dreeam|docunet",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": 1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "p3m|kddocre",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "p3m|deberta_v3",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "p3m|longformer",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "p3m|roberta_large",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "p3m|bert_large",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "p3m|xlm_roberta_large",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "p3m|electra_base",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "p3m|mdeberta_v3",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     },
+     {
+      "pair": "deberta_v3|bert_large",
+      "dim": "gold(F1_vs_NA-margin)",
+      "sign": -1.0,
+      "match_cons": true,
+      "match_gR": true
+     }
+    ],
+    "tau_vs_gR": 0.45054945054945056
+   }
+  ],
+  "learned_mean": {
+   "n_checks": 207,
+   "n_flip": 52,
+   "coverage": 9,
+   "false_tie": 48,
+   "n_ranked": 43,
+   "fid_cons": 43,
+   "fid_gR": 26,
+   "rows": [
+    {
+     "pair": "x2|dreeam",
+     "dim": "gold(gD_vs_gR)",
+     "sign": -1.0,
+     "match_cons": true,
+     "match_gR": false
+    },
+    {
+     "pair": "x2|docunet",
+     "dim": "threshold(fixed_vs_cal)",
+     "sign": -1.0,
+     "match_cons": true,
+     "match_gR": false
+    },
+    {
+     "pair": "atlop_pe8|dreeam",
+     "dim": "threshold(fixed_vs_cal)",
+     "sign": -1.0,
+     "match_cons": true,
+     "match_gR": true
+    },
+    {
+     "pair": "atlop_pe8|p3m",
+     "dim": "gold(gD_vs_gR)",
+     "sign": 1.0,
+     "match_cons": true,
+     "match_gR": true
+    },
+    {
+     "pair": "atlop_full|docunet",
+     "dim": "threshold(fixed_vs_cal)",
+     "sign": 1.0,
+     "match_cons": true,
+     "match_gR": true
+    },
+    {
+     "pair": "atlop_full|kddocre",
+     "dim": "threshold(fixed_vs_cal)",
+     "sign": 1.0,
+     "match_cons": true,
+     "match_gR": true
+    },
+    {
+     "pair": "dreeam|docunet",
+     "dim": "threshold(fixed_vs_cal)",
+     "sign": 1.0,
+     "match_cons": true,
+     "match_gR": true
+    },
+    {
+     "pair": "dreeam|kddocre",
+     "dim": "gold(gD_vs_gR)",
+     "sign": 1.0,
+     "match_cons": true,
+     "match_gR": true
+    },
+    {
+     "pair": "dreeam|kddocre",
+     "dim": "threshold(fixed_vs_cal)",
+     "sign": 1.0,
+     "match_cons": true,
+     "match_gR": true
+    },
+    {
+     "pair": "x2|deberta_v3",
+     "dim": "gold(gD_vs_gR)",
+     "sign": -1.0,
+     "match_cons": true,
+     "match_gR": false
+    },
+    {
+     "pair": "dreeam|deberta_v3",
+     "dim": "scoring(A_vs_R)",
+     "sign": 1.0,
+     "match_cons": true,
+     "match_gR": false
+    },
+    {
+     "pair": "x2|longformer",
+     "dim": "gold(gD_vs_gR)",
+     "sign": -1.0,
+     "match_cons": true,
+     "match_gR": false
+    },
+    {
+     "pair": "dreeam|longformer",
+     "dim": "gold(gD_vs_gR)",
+     "sign": 1.0,
+     "match_cons": true,
+     "match_gR": true
+    },
+    {
+     "pair": "x2|xlm_roberta_large",
+     "dim": "gold(gD_vs_gR)",
+     "sign": -1.0,
+     "match_cons": true,
+     "match_gR": false
+    },
+    {
+     "pair": "x2|electra_base",
+     "dim": "gold(gD_vs_gR)",
+     "sign": -1.0,
+     "match_cons": true,
+     "match_gR": false
+    },
+    {
+     "pair": "x2|mdeberta_v3",
+     "dim": "gold(gD_vs_gR)",
+     "sign": -1.0,
+     "match_cons": true,
+     "match_gR": false
+    },
+    {
+     "pair": "atlop_pe8|p3m",
+     "dim": "gold(gR_vs_gR2)",
+     "sign": 1.0,
+     "match_cons": true,
+     "match_gR": true
+    },
+    {
+     "pair": "atlop_full|kddocre",
+     "dim": "gold(gR_vs_gR2)",
+     "sign": 1.0,
+     "match_cons": true,
+     "match_gR": true
+    },
+    {
+     "pair": "atlop_full|deberta_v3",
+     "dim": "gold(gR_vs_gR2)",
+     "sign": 1.0,
+     "match_cons": true,
+     "match_gR": true
+    },
+    {
+     "pair": "atlop_full|longformer",
+     "dim": "gold(gR_vs_gR2)",
+     "sign": 1.0,
+     "match_cons": true,
+     "match_gR": true
+    },
+    {
+     "pair": "dreeam|kddocre",
+     "dim": "gold(gR_vs_gR2)",
+     "sign": 1.0,
+     "match_cons": true,
+     "match_gR": true
+    },
+    {
+     "pair": "x2|atlop_full",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": -1.0,
+     "match_cons": true,
+     "match_gR": false
+    },
+    {
+     "pair": "x2|dreeam",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": -1.0,
+     "match_cons": true,
+     "match_gR": false
+    },
+    {
+     "pair": "x2|deberta_v3",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": -1.0,
+     "match_cons": true,
+     "match_gR": false
+    },
+    {
+     "pair": "x2|longformer",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": -1.0,
+     "match_cons": true,
+     "match_gR": false
+    },
+    {
+     "pair": "x2|roberta_large",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": -1.0,
+     "match_cons": true,
+     "match_gR": false
+    },
+    {
+     "pair": "x2|bert_large",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": -1.0,
+     "match_cons": true,
+     "match_gR": false
+    },
+    {
+     "pair": "x2|xlm_roberta_large",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": -1.0,
+     "match_cons": true,
+     "match_gR": false
+    },
+    {
+     "pair": "x2|electra_base",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": -1.0,
+     "match_cons": true,
+     "match_gR": false
+    },
+    {
+     "pair": "x2|mdeberta_v3",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": -1.0,
+     "match_cons": true,
+     "match_gR": false
+    },
+    {
+     "pair": "atlop_pe8|dreeam",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": -1.0,
+     "match_cons": true,
+     "match_gR": true
+    },
+    {
+     "pair": "atlop_full|p3m",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": 1.0,
+     "match_cons": true,
+     "match_gR": true
+    },
+    {
+     "pair": "dreeam|p3m",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": 1.0,
+     "match_cons": true,
+     "match_gR": true
+    },
+    {
+     "pair": "dreeam|docunet",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": 1.0,
+     "match_cons": true,
+     "match_gR": true
+    },
+    {
+     "pair": "p3m|kddocre",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": -1.0,
+     "match_cons": true,
+     "match_gR": true
+    },
+    {
+     "pair": "p3m|deberta_v3",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": -1.0,
+     "match_cons": true,
+     "match_gR": true
+    },
+    {
+     "pair": "p3m|longformer",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": -1.0,
+     "match_cons": true,
+     "match_gR": true
+    },
+    {
+     "pair": "p3m|roberta_large",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": -1.0,
+     "match_cons": true,
+     "match_gR": true
+    },
+    {
+     "pair": "p3m|bert_large",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": -1.0,
+     "match_cons": true,
+     "match_gR": true
+    },
+    {
+     "pair": "p3m|xlm_roberta_large",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": -1.0,
+     "match_cons": true,
+     "match_gR": true
+    },
+    {
+     "pair": "p3m|electra_base",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": -1.0,
+     "match_cons": true,
+     "match_gR": true
+    },
+    {
+     "pair": "p3m|mdeberta_v3",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": -1.0,
+     "match_cons": true,
+     "match_gR": true
+    },
+    {
+     "pair": "deberta_v3|bert_large",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": -1.0,
+     "match_cons": true,
+     "match_gR": true
+    }
+   ]
+  },
+  "gD_native": {
+   "n_checks": 207,
+   "n_flip": 52,
+   "coverage": 28,
+   "false_tie": 89,
+   "n_ranked": 24,
+   "fid_cons": 8,
+   "fid_gR": 23,
+   "rows": [
+    {
+     "pair": "x2|dreeam",
+     "dim": "gold(gD_vs_gR)",
+     "sign": 1.0,
+     "match_cons": false,
+     "match_gR": true
+    },
+    {
+     "pair": "x2|docunet",
+     "dim": "threshold(fixed_vs_cal)",
+     "sign": 1.0,
+     "match_cons": false,
+     "match_gR": true
+    },
+    {
+     "pair": "atlop_pe8|docunet",
+     "dim": "threshold(fixed_vs_cal)",
+     "sign": 1.0,
+     "match_cons": true,
+     "match_gR": true
+    },
+    {
+     "pair": "atlop_full|docunet",
+     "dim": "threshold(fixed_vs_cal)",
+     "sign": 1.0,
+     "match_cons": true,
+     "match_gR": true
+    },
+    {
+     "pair": "dreeam|docunet",
+     "dim": "threshold(fixed_vs_cal)",
+     "sign": 1.0,
+     "match_cons": true,
+     "match_gR": true
+    },
+    {
+     "pair": "docunet|kddocre",
+     "dim": "threshold(fixed_vs_cal)",
+     "sign": -1.0,
+     "match_cons": true,
+     "match_gR": true
+    },
+    {
+     "pair": "x2|deberta_v3",
+     "dim": "gold(gD_vs_gR)",
+     "sign": 1.0,
+     "match_cons": false,
+     "match_gR": true
+    },
+    {
+     "pair": "x2|longformer",
+     "dim": "gold(gD_vs_gR)",
+     "sign": 1.0,
+     "match_cons": false,
+     "match_gR": true
+    },
+    {
+     "pair": "docunet|longformer",
+     "dim": "scoring(A_vs_R)",
+     "sign": -1.0,
+     "match_cons": true,
+     "match_gR": true
+    },
+    {
+     "pair": "x2|xlm_roberta_large",
+     "dim": "gold(gD_vs_gR)",
+     "sign": 1.0,
+     "match_cons": false,
+     "match_gR": true
+    },
+    {
+     "pair": "x2|electra_base",
+     "dim": "gold(gD_vs_gR)",
+     "sign": 1.0,
+     "match_cons": false,
+     "match_gR": true
+    },
+    {
+     "pair": "x2|mdeberta_v3",
+     "dim": "gold(gD_vs_gR)",
+     "sign": 1.0,
+     "match_cons": false,
+     "match_gR": true
+    },
+    {
+     "pair": "x2|atlop_full",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": 1.0,
+     "match_cons": false,
+     "match_gR": true
+    },
+    {
+     "pair": "x2|dreeam",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": 1.0,
+     "match_cons": false,
+     "match_gR": true
+    },
+    {
+     "pair": "x2|deberta_v3",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": 1.0,
+     "match_cons": false,
+     "match_gR": true
+    },
+    {
+     "pair": "x2|longformer",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": 1.0,
+     "match_cons": false,
+     "match_gR": true
+    },
+    {
+     "pair": "x2|roberta_large",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": 1.0,
+     "match_cons": false,
+     "match_gR": true
+    },
+    {
+     "pair": "x2|bert_large",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": 1.0,
+     "match_cons": false,
+     "match_gR": true
+    },
+    {
+     "pair": "x2|xlm_roberta_large",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": 1.0,
+     "match_cons": false,
+     "match_gR": true
+    },
+    {
+     "pair": "x2|electra_base",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": 1.0,
+     "match_cons": false,
+     "match_gR": true
+    },
+    {
+     "pair": "x2|mdeberta_v3",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": 1.0,
+     "match_cons": false,
+     "match_gR": true
+    },
+    {
+     "pair": "dreeam|docunet",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": 1.0,
+     "match_cons": true,
+     "match_gR": true
+    },
+    {
+     "pair": "deberta_v3|longformer",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": -1.0,
+     "match_cons": true,
+     "match_gR": false
+    },
+    {
+     "pair": "deberta_v3|bert_large",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": -1.0,
+     "match_cons": true,
+     "match_gR": true
+    }
+   ]
+  },
+  "AER_corpus": {
+   "n_checks": 207,
+   "n_flip": 52,
+   "coverage": 20,
+   "false_tie": 65,
+   "n_ranked": 32,
+   "fid_cons": 16,
+   "fid_gR": 32,
+   "rows": [
+    {
+     "pair": "x2|dreeam",
+     "dim": "gold(gD_vs_gR)",
+     "sign": 1.0,
+     "match_cons": false,
+     "match_gR": true
+    },
+    {
+     "pair": "x2|docunet",
+     "dim": "threshold(fixed_vs_cal)",
+     "sign": 1.0,
+     "match_cons": false,
+     "match_gR": true
+    },
+    {
+     "pair": "atlop_pe8|docunet",
+     "dim": "threshold(fixed_vs_cal)",
+     "sign": 1.0,
+     "match_cons": true,
+     "match_gR": true
+    },
+    {
+     "pair": "atlop_full|docunet",
+     "dim": "threshold(fixed_vs_cal)",
+     "sign": 1.0,
+     "match_cons": true,
+     "match_gR": true
+    },
+    {
+     "pair": "dreeam|docunet",
+     "dim": "threshold(fixed_vs_cal)",
+     "sign": 1.0,
+     "match_cons": true,
+     "match_gR": true
+    },
+    {
+     "pair": "docunet|kddocre",
+     "dim": "threshold(fixed_vs_cal)",
+     "sign": -1.0,
+     "match_cons": true,
+     "match_gR": true
+    },
+    {
+     "pair": "x2|deberta_v3",
+     "dim": "gold(gD_vs_gR)",
+     "sign": 1.0,
+     "match_cons": false,
+     "match_gR": true
+    },
+    {
+     "pair": "x2|longformer",
+     "dim": "gold(gD_vs_gR)",
+     "sign": 1.0,
+     "match_cons": false,
+     "match_gR": true
+    },
+    {
+     "pair": "docunet|longformer",
+     "dim": "scoring(A_vs_R)",
+     "sign": -1.0,
+     "match_cons": true,
+     "match_gR": true
+    },
+    {
+     "pair": "x2|xlm_roberta_large",
+     "dim": "gold(gD_vs_gR)",
+     "sign": 1.0,
+     "match_cons": false,
+     "match_gR": true
+    },
+    {
+     "pair": "x2|electra_base",
+     "dim": "gold(gD_vs_gR)",
+     "sign": 1.0,
+     "match_cons": false,
+     "match_gR": true
+    },
+    {
+     "pair": "x2|mdeberta_v3",
+     "dim": "gold(gD_vs_gR)",
+     "sign": 1.0,
+     "match_cons": false,
+     "match_gR": true
+    },
+    {
+     "pair": "x2|atlop_full",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": 1.0,
+     "match_cons": false,
+     "match_gR": true
+    },
+    {
+     "pair": "x2|dreeam",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": 1.0,
+     "match_cons": false,
+     "match_gR": true
+    },
+    {
+     "pair": "x2|deberta_v3",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": 1.0,
+     "match_cons": false,
+     "match_gR": true
+    },
+    {
+     "pair": "x2|longformer",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": 1.0,
+     "match_cons": false,
+     "match_gR": true
+    },
+    {
+     "pair": "x2|roberta_large",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": 1.0,
+     "match_cons": false,
+     "match_gR": true
+    },
+    {
+     "pair": "x2|bert_large",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": 1.0,
+     "match_cons": false,
+     "match_gR": true
+    },
+    {
+     "pair": "x2|xlm_roberta_large",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": 1.0,
+     "match_cons": false,
+     "match_gR": true
+    },
+    {
+     "pair": "x2|electra_base",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": 1.0,
+     "match_cons": false,
+     "match_gR": true
+    },
+    {
+     "pair": "x2|mdeberta_v3",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": 1.0,
+     "match_cons": false,
+     "match_gR": true
+    },
+    {
+     "pair": "atlop_full|p3m",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": 1.0,
+     "match_cons": true,
+     "match_gR": true
+    },
+    {
+     "pair": "dreeam|p3m",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": 1.0,
+     "match_cons": true,
+     "match_gR": true
+    },
+    {
+     "pair": "dreeam|docunet",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": 1.0,
+     "match_cons": true,
+     "match_gR": true
+    },
+    {
+     "pair": "p3m|kddocre",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": -1.0,
+     "match_cons": true,
+     "match_gR": true
+    },
+    {
+     "pair": "p3m|deberta_v3",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": -1.0,
+     "match_cons": true,
+     "match_gR": true
+    },
+    {
+     "pair": "p3m|longformer",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": -1.0,
+     "match_cons": true,
+     "match_gR": true
+    },
+    {
+     "pair": "p3m|roberta_large",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": -1.0,
+     "match_cons": true,
+     "match_gR": true
+    },
+    {
+     "pair": "p3m|bert_large",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": -1.0,
+     "match_cons": true,
+     "match_gR": true
+    },
+    {
+     "pair": "p3m|xlm_roberta_large",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": -1.0,
+     "match_cons": true,
+     "match_gR": true
+    },
+    {
+     "pair": "p3m|electra_base",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": -1.0,
+     "match_cons": true,
+     "match_gR": true
+    },
+    {
+     "pair": "p3m|mdeberta_v3",
+     "dim": "gold(F1_vs_NA-margin)",
+     "sign": -1.0,
+     "match_cons": true,
+     "match_gR": true
+    }
+   ]
+  },
+  "uniform": {
+   "n_checks": 207,
+   "n_flip": 52,
+   "coverage": 52,
+   "false_tie": 155,
+   "n_ranked": 0,
+   "fid_cons": 0,
+   "fid_gR": 0,
+   "rows": []
+  },
+  "tau_vs_gR_learned": 0.4725274725274726
+ },
+ "conformal_folds": {
+  "gR->gR2": {
+   "0.02": {
+    "t": 1.0,
+    "test_commits": 9,
+    "test_wrong": 2,
+    "test_wrong_rate": 0.2222222222222222,
+    "guarantee_holds": false
+   },
+   "0.05": {
+    "t": 1.0,
+    "test_commits": 9,
+    "test_wrong": 2,
+    "test_wrong_rate": 0.2222222222222222,
+    "guarantee_holds": false
+   },
+   "0.1": {
+    "t": 1.0,
+    "test_commits": 9,
+    "test_wrong": 2,
+    "test_wrong_rate": 0.2222222222222222,
+    "guarantee_holds": false
+   },
+   "0.2": {
+    "t": 1.0,
+    "test_commits": 9,
+    "test_wrong": 2,
+    "test_wrong_rate": 0.2222222222222222,
+    "guarantee_holds": false
+   },
+   "0.3": {
+    "t": 1.0,
+    "test_commits": 9,
+    "test_wrong": 2,
+    "test_wrong_rate": 0.2222222222222222,
+    "guarantee_holds": true
+   }
+  },
+  "gR2->gR": {
+   "0.02": {
+    "t": 1.0,
+    "test_commits": 14,
+    "test_wrong": 6,
+    "test_wrong_rate": 0.42857142857142855,
+    "guarantee_holds": false
+   },
+   "0.05": {
+    "t": 1.0,
+    "test_commits": 14,
+    "test_wrong": 6,
+    "test_wrong_rate": 0.42857142857142855,
+    "guarantee_holds": false
+   },
+   "0.1": {
+    "t": 1.0,
+    "test_commits": 14,
+    "test_wrong": 6,
+    "test_wrong_rate": 0.42857142857142855,
+    "guarantee_holds": false
+   },
+   "0.2": {
+    "t": 1.0,
+    "test_commits": 14,
+    "test_wrong": 6,
+    "test_wrong_rate": 0.42857142857142855,
+    "guarantee_holds": false
+   },
+   "0.3": {
+    "t": 1.0,
+    "test_commits": 14,
+    "test_wrong": 6,
+    "test_wrong_rate": 0.42857142857142855,
+    "guarantee_holds": false
+   }
+  }
+ },
+ "workpoint": {
+  "alpha_star": 0.1,
+  "t_per_fold": {
+   "gR->gR2": 1.0,
+   "gR2->gR": 1.0
+  },
+  "coverage_star": 13,
+  "false_tie_star": 60,
+  "per_fold": {
+   "gR->gR2": {
+    "cov": 13,
+    "ft": 60
+   },
+   "gR2->gR": {
+    "cov": 13,
+    "ft": 60
+   }
+  }
+ },
+ "judgments": {
+  "J5": {
+   "pass": false,
+   "parts": {
+    "gR->gR2": {
+     "holds": false,
+     "commits": 9,
+     "judgable": true
+    },
+    "gR2->gR": {
+     "holds": false,
+     "commits": 14,
+     "judgable": true
+    }
+   }
+  },
+  "J6": {
+   "pass": false,
+   "cov_star": 13,
+   "aer_cov": 20
+  },
+  "J7": {
+   "pass": true,
+   "ft_star": 60,
+   "min_base_ft": 65
+  }
+ },
+ "verdict": "FAIL(conformal 负结果)",
+ "unit_rows": [
+  {
+   "pair": "atlop_full|bert_large",
+   "conf": 0.9255,
+   "commit": -1.0,
+   "gR": 1.0,
+   "gR2": 1.0
+  },
+  {
+   "pair": "atlop_full|deberta_v3",
+   "conf": 1.0,
+   "commit": 1.0,
+   "gR": 1.0,
+   "gR2": 1.0
+  },
+  {
+   "pair": "atlop_full|docunet",
+   "conf": 1.0,
+   "commit": 1.0,
+   "gR": 1.0,
+   "gR2": 1.0
+  },
+  {
+   "pair": "atlop_full|dreeam",
+   "conf": 0.805,
+   "commit": -1.0,
+   "gR": 1.0,
+   "gR2": 1.0
+  },
+  {
+   "pair": "atlop_full|kddocre",
+   "conf": 1.0,
+   "commit": 1.0,
+   "gR": 1.0,
+   "gR2": 1.0
+  },
+  {
+   "pair": "atlop_full|longformer",
+   "conf": 1.0,
+   "commit": 1.0,
+   "gR": 1.0,
+   "gR2": 1.0
+  },
+  {
+   "pair": "atlop_full|p3m",
+   "conf": 1.0,
+   "commit": 1.0,
+   "gR": 1.0,
+   "gR2": 1.0
+  },
+  {
+   "pair": "atlop_pe8|docunet",
+   "conf": 0.5915,
+   "commit": -1.0,
+   "gR": 1.0,
+   "gR2": 1.0
+  },
+  {
+   "pair": "atlop_pe8|dreeam",
+   "conf": 1.0,
+   "commit": -1.0,
+   "gR": -1.0,
+   "gR2": -1.0
+  },
+  {
+   "pair": "atlop_pe8|kddocre",
+   "conf": 0.7615,
+   "commit": -1.0,
+   "gR": -1.0,
+   "gR2": -1.0
+  },
+  {
+   "pair": "atlop_pe8|p3m",
+   "conf": 0.9925,
+   "commit": 1.0,
+   "gR": 1.0,
+   "gR2": 1.0
+  },
+  {
+   "pair": "deberta_v3|bert_large",
+   "conf": 1.0,
+   "commit": -1.0,
+   "gR": -1.0,
+   "gR2": -1.0
+  },
+  {
+   "pair": "deberta_v3|longformer",
+   "conf": 0.6705,
+   "commit": 1.0,
+   "gR": 1.0,
+   "gR2": 1.0
+  },
+  {
+   "pair": "docunet|kddocre",
+   "conf": 0.647,
+   "commit": -1.0,
+   "gR": -1.0,
+   "gR2": -1.0
+  },
+  {
+   "pair": "docunet|longformer",
+   "conf": 0.6875,
+   "commit": -1.0,
+   "gR": -1.0,
+   "gR2": -1.0
+  },
+  {
+   "pair": "dreeam|deberta_v3",
+   "conf": 1.0,
+   "commit": 1.0,
+   "gR": -1.0,
+   "gR2": -1.0
+  },
+  {
+   "pair": "dreeam|docunet",
+   "conf": 1.0,
+   "commit": 1.0,
+   "gR": 1.0,
+   "gR2": 1.0
+  },
+  {
+   "pair": "dreeam|kddocre",
+   "conf": 1.0,
+   "commit": 1.0,
+   "gR": 1.0,
+   "gR2": -1.0
+  },
+  {
+   "pair": "dreeam|longformer",
+   "conf": 1.0,
+   "commit": 1.0,
+   "gR": 1.0,
+   "gR2": 1.0
+  },
+  {
+   "pair": "dreeam|p3m",
+   "conf": 1.0,
+   "commit": 1.0,
+   "gR": 1.0,
+   "gR2": 1.0
+  },
+  {
+   "pair": "kddocre|longformer",
+   "conf": 0.5865,
+   "commit": -1.0,
+   "gR": 1.0,
+   "gR2": 1.0
+  },
+  {
+   "pair": "p3m|bert_large",
+   "conf": 1.0,
+   "commit": -1.0,
+   "gR": -1.0,
+   "gR2": -1.0
+  },
+  {
+   "pair": "p3m|deberta_v3",
+   "conf": 1.0,
+   "commit": -1.0,
+   "gR": -1.0,
+   "gR2": -1.0
+  },
+  {
+   "pair": "p3m|electra_base",
+   "conf": 1.0,
+   "commit": -1.0,
+   "gR": -1.0,
+   "gR2": -1.0
+  },
+  {
+   "pair": "p3m|kddocre",
+   "conf": 0.9985,
+   "commit": -1.0,
+   "gR": -1.0,
+   "gR2": -1.0
+  },
+  {
+   "pair": "p3m|longformer",
+   "conf": 0.995,
+   "commit": -1.0,
+   "gR": -1.0,
+   "gR2": -1.0
+  },
+  {
+   "pair": "p3m|mdeberta_v3",
+   "conf": 1.0,
+   "commit": -1.0,
+   "gR": -1.0,
+   "gR2": -1.0
+  },
+  {
+   "pair": "p3m|roberta_large",
+   "conf": 1.0,
+   "commit": -1.0,
+   "gR": -1.0,
+   "gR2": -1.0
+  },
+  {
+   "pair": "p3m|xlm_roberta_large",
+   "conf": 1.0,
+   "commit": -1.0,
+   "gR": -1.0,
+   "gR2": -1.0
+  },
+  {
+   "pair": "x2|atlop_full",
+   "conf": 1.0,
+   "commit": -1.0,
+   "gR": 1.0,
+   "gR2": null
+  },
+  {
+   "pair": "x2|bert_large",
+   "conf": 1.0,
+   "commit": -1.0,
+   "gR": 1.0,
+   "gR2": null
+  },
+  {
+   "pair": "x2|deberta_v3",
+   "conf": 1.0,
+   "commit": -1.0,
+   "gR": 1.0,
+   "gR2": null
+  },
+  {
+   "pair": "x2|docunet",
+   "conf": 1.0,
+   "commit": -1.0,
+   "gR": 1.0,
+   "gR2": null
+  },
+  {
+   "pair": "x2|dreeam",
+   "conf": 1.0,
+   "commit": -1.0,
+   "gR": 1.0,
+   "gR2": null
+  },
+  {
+   "pair": "x2|electra_base",
+   "conf": 1.0,
+   "commit": -1.0,
+   "gR": 1.0,
+   "gR2": null
+  },
+  {
+   "pair": "x2|longformer",
+   "conf": 1.0,
+   "commit": -1.0,
+   "gR": 1.0,
+   "gR2": null
+  },
+  {
+   "pair": "x2|mdeberta_v3",
+   "conf": 1.0,
+   "commit": -1.0,
+   "gR": 1.0,
+   "gR2": null
+  },
+  {
+   "pair": "x2|roberta_large",
+   "conf": 1.0,
+   "commit": -1.0,
+   "gR": 1.0,
+   "gR2": null
+  },
+  {
+   "pair": "x2|xlm_roberta_large",
+   "conf": 1.0,
+   "commit": -1.0,
+   "gR": 1.0,
+   "gR2": null
+  }
+ ],
+ "elapsed_s": 535.6,
+ "ts": "2026-11-12 00:53:52"
+}

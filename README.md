@@ -14,8 +14,8 @@ here.
 | Directory | Description |
 |-----------|-------------|
 | `prereg/` | Preregistrations v1–v8 with amendment ledger |
-| `data/` | Frozen verdicts, judge raw records (17 judges × 49,938 battles), stratum certificates, NA-margin flip decomposition |
-| `code/` | `verify_release.py` (33-check headline re-derivation on released data) + as-run analysis scripts |
+| `data/` | Frozen verdicts, judge raw records (17 judges × 49,938 battles), stratum certificates, NA-margin flip decomposition, frozen per-document counts (`perdoc_counts/`), contract-readings registry (`registry_v3.json`), per-instance conformal record (`confirmatory_result.json`), reading-space golds (`golds_prepared/`), per-instance candidate artifacts (`candidates/`), learned weights (`learned_weights/`) |
+| `code/` | `verify_release.py` (33-check headline re-derivation on released data) + as-run analysis scripts + confirmatory harness (`confirmatory_run.py`, `p3loader.py`, `p3io.py`) |
 
 ## Key artifacts
 
@@ -27,6 +27,17 @@ here.
 - `data/v7_cluster_boot.json` — block + judge-panel bootstrap
 - `data/v7_rank_stability.json` — Bradley–Terry rank stability
 - `data/v7_stratum_cert.json` — margin-tier certificates
+- `data/registry_v3.json` — the contract-readings registry (flip checks across dimensions and system pairs)
+- `data/confirmatory_result.json` — per-instance conformal record (unit rows of the delivered certificate)
+- `data/learned_weights/` — learned evaluation reader weights and feature/count matrices
+- `data/perdoc_counts/`, `data/golds_prepared/`, `data/candidates/` — frozen per-document counts, reading-space golds, and per-instance candidate artifacts (`candidates/train.jsonl`, 117 MB, omitted)
+
+## Note on harness paths
+
+The harness scripts (`confirmatory_run.py`, `p3loader.py`, `p3io.py`) are
+released as-run; their internal workspace constants are replaced by
+`<local-workspace>` placeholders. Point them at a directory laid out like
+`data/` to re-run the confirmatory suite.
 
 ## Reproducibility
 
