@@ -6,11 +6,11 @@ Release package for "Contract-Explicit Evaluation: From Auditing Learned Readers
 
 | Directory | Description |
 |-----------|-------------|
-| `main_merged.tex` + source files | Manuscript (compiles with pdflatex → bibtex → strip_bbl_labels.py → pdflatex ×2) |
+| `main_merged.tex` (+ `sn-jnl.cls`/`.bst`/`.bib`) | Manuscript LaTeX source (compiled manuscript distributed via the journal submission; not hosted here) |
 | `prereg/` | Preregistrations v1–v8 with amendment ledger |
 | `data/` | Frozen verdicts, judge raw records (17 judges × 49,938 battles), stratum certificates, NA-margin flip decomposition |
 | `code/` | `verify_release.py` (33-check headline re-derivation on released data) + as-run analysis scripts |
-| `supplement_main.pdf` (+ `.tex`/`.bib`) | Online Resource 1: audit-cycle blocks, prereg v2/v3 cycle blocks S1-S10, judge-ecosystem supplement C1-C7, artifact inventory |
+| `supplement_main.tex` + `supplement_refs.bib` | Online Resource 1 LaTeX source (compiled supplement distributed with the journal submission) |
 
 ## Key artifacts
 
