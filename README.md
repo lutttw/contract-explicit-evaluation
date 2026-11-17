@@ -9,7 +9,7 @@ Release package for "Contract-Explicit Evaluation: From Auditing Learned Readers
 | `main_merged.tex` + source files | Manuscript (compiles with pdflatex → bibtex → strip_bbl_labels.py → pdflatex ×2) |
 | `prereg/` | Preregistrations v1–v8 with amendment ledger |
 | `data/` | Frozen verdicts, judge raw records (17 judges × 49,938 battles), stratum certificates, NA-margin flip decomposition |
-| `code/` | Analysis scripts (Python; CPU-minutes on released data) |
+| `code/` | `verify_release.py` (33-check headline re-derivation on released data) + as-run analysis scripts |
 | `supplementary_sections.tex` | Supplementary material |
 
 ## Key artifacts
@@ -25,8 +25,18 @@ Release package for "Contract-Explicit Evaluation: From Auditing Learned Readers
 
 ## Reproducibility
 
-All analyses are deterministic on the released frozen artifacts and
-require only Python 3 with numpy/scipy. Total compute: CPU-minutes.
+One command re-derives every headline number from the released artifacts
+alone (33 deterministic checks; needs numpy + scipy):
+
+```bash
+python code/verify_release.py
+```
+
+This re-computes the census (6,083/49,667 = 12.25% contested from the raw
+judge records), all Clopper–Pearson bounds, the E2 exact McNemar p, the E3
+resolve/persist split, the corrected Krippendorff α, the Bradley–Terry rank
+stability, and the J1 concordance identity — see `code/README.md` for the
+full check table. As-run producer scripts are included for provenance.
 
 ## License
 

@@ -25,6 +25,9 @@
    "far_thr": 0.016
   }
  },
- "krippendorff_alpha": -0.0878,
- "ts": "2026-11-17 EXPLORATORY"
+ "ts": "2026-11-17 verification",
+ "krippendorff_alpha_3class": 0.4561,
+ "krippendorff_alpha_direction": 0.5035,
+ "chance_agreement_3class": 0.4643,
+ "note": "supersedes first-pass alpha (-0.0878) computed with an incorrect expected-disagreement term; corrected values from v7_kalpha_verify.json (2026-11-17 verification)"
 }
