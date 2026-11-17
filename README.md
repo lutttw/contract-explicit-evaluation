@@ -10,7 +10,7 @@ Release package for "Contract-Explicit Evaluation: From Auditing Learned Readers
 | `prereg/` | Preregistrations v1–v8 with amendment ledger |
 | `data/` | Frozen verdicts, judge raw records (17 judges × 49,938 battles), stratum certificates, NA-margin flip decomposition |
 | `code/` | `verify_release.py` (33-check headline re-derivation on released data) + as-run analysis scripts |
-| `supplementary_sections.tex` | Supplementary material |
+| `supplement_main.pdf` (+ `.tex`/`.bib`) | Online Resource 1: audit-cycle blocks, prereg v2/v3 cycle blocks S1-S10, judge-ecosystem supplement C1-C7, artifact inventory |
 
 ## Key artifacts
 
