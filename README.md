@@ -45,7 +45,7 @@ full check table. As-run producer scripts are included for provenance.
 
 ## Data provenance and licensing
 
-The ``data/judge_raw`` records are metadata-level derivatives of the
+The `data/judge_raw` records are metadata-level derivatives of the
 [potsawee/chatbot-arena-llm-judges](https://huggingface.co/datasets/potsawee/chatbot-arena-llm-judges)
 dataset, which in turn builds on
 [lmsys/chatbot_arena_conversations](https://huggingface.co/datasets/lmsys/chatbot_arena_conversations)
