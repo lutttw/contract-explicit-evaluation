@@ -1,0 +1,59 @@
+{
+ "battles": {
+  "all": 49938,
+  "cert": 34269,
+  "hedge": 15669
+ },
+ "cert_vs_all": {
+  "kendall_tau": 0.9977,
+  "rank_changes": 44,
+  "n_models": 64,
+  "top10_overlap": 10,
+  "top20_overlap": 19,
+  "top20_max_abs_change": 2,
+  "moved_ge3": 2,
+  "moved_ge5": 0,
+  "mean_abs_change": 0.97,
+  "biggest_movers": [
+   [
+    "openchat-3.5-0106",
+    3
+   ],
+   [
+    "openhermes-2.5-mistral-7b",
+    3
+   ],
+   [
+    "mistral-medium",
+    2
+   ],
+   [
+    "gpt-3.5-turbo-0314",
+    2
+   ],
+   [
+    "guanaco-33b",
+    2
+   ]
+  ]
+ },
+ "rank_table_cert": {
+  "gpt-4-1106-preview": 1,
+  "gpt-4-0125-preview": 2,
+  "qwen1.5-72b-chat": 3,
+  "llama-2-70b-chat": 4,
+  "claude-1": 5,
+  "yi-34b-chat": 6,
+  "mistral-medium": 7,
+  "llama-2-13b-chat": 8,
+  "gpt-4-0314": 9,
+  "claude-instant-1": 10,
+  "starling-lm-7b-alpha": 11,
+  "tulu-2-dpo-70b": 12,
+  "gpt-3.5-turbo-0314": 13,
+  "claude-2.0": 14,
+  "zephyr-7b-beta": 15
+ },
+ "note": "E7 EXPLORATORY: per-judge direction votes aggregated per battle subset; Newman MM Bradley-Terry (log-space stable); metadata via hf-mirror (train.single-turn.json)",
+ "ts": "2026-11-17"
+}

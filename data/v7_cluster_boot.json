@@ -1,0 +1,36 @@
+{
+ "census": {
+  "n": 49667,
+  "share": 0.1225,
+  "cp_iid": 0.1244
+ },
+ "block_bootstrap": {
+  "blk": 100,
+  "n_blocks": 496,
+  "q90": 0.1243,
+  "deff": 1.044
+ },
+ "judge_panel_bootstrap": {
+  "B": 2000,
+  "mean": 0.1234,
+  "q90": 0.1429,
+  "sd": 0.0158,
+  "min": 0.0624,
+  "max": 0.2291
+ },
+ "tiers_block": {
+  "high+mid": {
+   "n": 34269,
+   "share": 0.05771980507163909,
+   "q90_block": 0.059269005847953214
+  },
+  "low": {
+   "n": 15398,
+   "share": 0.2665930640342902,
+   "q90_block": 0.270718954248366
+  }
+ },
+ "note": "pair metadata gated; block-by-id-order is a proxy for pairing/topic clustering; judge-panel bootstrap measures panel-composition sensitivity",
+ "ts": "2026-11-17 G4/E8 EXPLORATORY",
+ "fixed": "panel-vote-matrix shadowing bug corrected (v2)"
+}

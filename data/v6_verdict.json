@@ -1,0 +1,133 @@
+{
+ "health_gates": {
+  "n_pass": 20,
+  "batch_median_f1": 0.373,
+  "gates": {
+   "ml_D_r025_s20261202": {
+    "cov": 1.0,
+    "f1": 0.356638,
+    "pass": true
+   },
+   "ml_D_r025_s20261203": {
+    "cov": 1.0,
+    "f1": 0.359387,
+    "pass": true
+   },
+   "ml_D_r025_s20261204": {
+    "cov": 1.0,
+    "f1": 0.389213,
+    "pass": true
+   },
+   "ml_D_r025_s20261205": {
+    "cov": 1.0,
+    "f1": 0.347099,
+    "pass": true
+   },
+   "ml_D_r025_s20261206": {
+    "cov": 1.0,
+    "f1": 0.345047,
+    "pass": true
+   },
+   "ml_D_r100_s20261202": {
+    "cov": 1.0,
+    "f1": 0.432484,
+    "pass": true
+   },
+   "ml_D_r100_s20261203": {
+    "cov": 1.0,
+    "f1": 0.432594,
+    "pass": true
+   },
+   "ml_D_r100_s20261204": {
+    "cov": 1.0,
+    "f1": 0.428641,
+    "pass": true
+   },
+   "ml_D_r100_s20261205": {
+    "cov": 1.0,
+    "f1": 0.466098,
+    "pass": true
+   },
+   "ml_D_r100_s20261206": {
+    "cov": 1.0,
+    "f1": 0.449859,
+    "pass": true
+   },
+   "ml_R_r025_s20261202": {
+    "cov": 1.0,
+    "f1": 0.357431,
+    "pass": true
+   },
+   "ml_R_r025_s20261203": {
+    "cov": 1.0,
+    "f1": 0.293975,
+    "pass": true
+   },
+   "ml_R_r025_s20261204": {
+    "cov": 1.0,
+    "f1": 0.334776,
+    "pass": true
+   },
+   "ml_R_r025_s20261205": {
+    "cov": 1.0,
+    "f1": 0.336151,
+    "pass": true
+   },
+   "ml_R_r025_s20261206": {
+    "cov": 1.0,
+    "f1": 0.331504,
+    "pass": true
+   },
+   "ml_R_r100_s20261202": {
+    "cov": 1.0,
+    "f1": 0.433128,
+    "pass": true
+   },
+   "ml_R_r100_s20261203": {
+    "cov": 1.0,
+    "f1": 0.374845,
+    "pass": true
+   },
+   "ml_R_r100_s20261204": {
+    "cov": 1.0,
+    "f1": 0.392499,
+    "pass": true
+   },
+   "ml_R_r100_s20261205": {
+    "cov": 1.0,
+    "f1": 0.388575,
+    "pass": true
+   },
+   "ml_R_r100_s20261206": {
+    "cov": 1.0,
+    "f1": 0.371234,
+    "pass": true
+   }
+  }
+ },
+ "armA_census": {
+  "n": 44,
+  "bad": 3,
+  "bad_ids": [
+   "ml_R_r100_s20260919",
+   "ml_R_r100_s20261202",
+   "ml_R_r100_s20261205"
+  ],
+  "bound": 0.1456,
+  "tier": "T2"
+ },
+ "armB_prospective": {
+  "split": "sorted run_id even=cal/odd=test",
+  "cal_bad": 1,
+  "test_bad": 2,
+  "cal_bound": 0.1656,
+  "pass": false
+ },
+ "conventions": {
+  "cnt_layout": "p3io.CNT",
+  "gold_assignment": "own",
+  "variant": "fixed_0.5",
+  "dim": "scoring(A_vs_R)"
+ },
+ "ts": "2026-11-15 v6"
+}

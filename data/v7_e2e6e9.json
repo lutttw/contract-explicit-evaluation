@@ -1,0 +1,91 @@
+{
+ "E2": {
+  "clause_i": {
+   "b": 7,
+   "c": 0,
+   "exact_p": 0.0156
+  },
+  "j2_binomial_unpaired_p": 0.0479,
+  "note": "J2 joint table not archived; unpaired binomial stated as such"
+ },
+ "E6": {
+  "acc_by_judge": {
+   "Athene-70B": 0.6991,
+   "Hermes-3-Llama-3.1-70B": 0.6901,
+   "Meta-Llama-3-70B-Instruct": 0.7033,
+   "Meta-Llama-3-8B": 0.6195,
+   "Meta-Llama-3-8B-Instruct": 0.666,
+   "Mistral-7B-Instruct-v0.1": 0.6395,
+   "Mistral-7B-Instruct-v0.2": 0.6468,
+   "Mistral-7B-OpenOrca": 0.654,
+   "Mixtral-8x7B-Instruct-v0.1": 0.6565,
+   "OpenHermes-2-Mistral-7B": 0.6517,
+   "OpenHermes-2.5-Mistral-7B": 0.6553,
+   "Qwen2-72B-Instruct": 0.5974,
+   "StableBeluga-7B": 0.6034,
+   "Starling-LM-7B-alpha": 0.6551,
+   "dolphin-2.1-mistral-7b": 0.5437,
+   "dolphin-2.5-mixtral-8x7b": 0.5599,
+   "zephyr-7b-beta": 0.6247
+  },
+  "acc_mean": 0.6392,
+  "acc_min": 0.5437,
+  "acc_max": 0.7033,
+  "decomp": {
+   "contested_and_human_clear": 3969,
+   "contested_and_human_ambig": 2114,
+   "clear_total": 34270,
+   "ambig_total": 15397
+  },
+  "tiers": [
+   {
+    "tier": "high(>0.7)",
+    "n": 5994,
+    "contested": 1,
+    "contested_human_clear": 1,
+    "contested_human_ambig": 0,
+    "judge_acc_mean": 0.6392
+   },
+   {
+    "tier": "mid(0.3-0.7)",
+    "n": 28275,
+    "contested": 1977,
+    "contested_human_clear": 1433,
+    "contested_human_ambig": 544,
+    "judge_acc_mean": 0.6392
+   },
+   {
+    "tier": "low(<=0.3)",
+    "n": 15398,
+    "contested": 4105,
+    "contested_human_clear": 2535,
+    "contested_human_ambig": 1570,
+    "judge_acc_mean": 0.6392
+   }
+  ]
+ },
+ "E9": {
+  "0.2": {
+   "cert_n": 41958,
+   "cert_share": 0.0897,
+   "cert_cp": 0.0915,
+   "hedge_n": 7709,
+   "hedge_cp": 0.3079
+  },
+  "0.3": {
+   "cert_n": 34269,
+   "cert_share": 0.0577,
+   "cert_cp": 0.0594,
+   "hedge_n": 15398,
+   "hedge_cp": 0.2712
+  },
+  "0.4": {
+   "cert_n": 25312,
+   "cert_share": 0.0262,
+   "cert_cp": 0.0276,
+   "hedge_n": 24355,
+   "hedge_cp": 0.226
+  }
+ },
+ "ts": "2026-11-17 EXPLORATORY"
+}

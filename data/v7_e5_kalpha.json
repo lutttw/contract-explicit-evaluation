@@ -1,0 +1,30 @@
+{
+ "e5_strat": {
+  "scoring(A_vs_R)": {
+   "n_pairs": 946,
+   "pi_all": 0.0803,
+   "pi_near25": 0.2743,
+   "pi_far75": 0.0,
+   "near_thr": 0.011,
+   "far_thr": 0.021
+  },
+  "gold(gD_vs_gR)": {
+   "n_pairs": 946,
+   "pi_all": 0.4619,
+   "pi_near25": 0.3755,
+   "pi_far75": 0.4947,
+   "near_thr": 0.011,
+   "far_thr": 0.019
+  },
+  "threshold(fixed_vs_cal)": {
+   "n_pairs": 946,
+   "pi_all": 0.2833,
+   "pi_near25": 0.4177,
+   "pi_far75": 0.1121,
+   "near_thr": 0.01,
+   "far_thr": 0.016
+  }
+ },
+ "krippendorff_alpha": -0.0878,
+ "ts": "2026-11-17 EXPLORATORY"
+}

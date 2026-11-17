@@ -1,0 +1,97 @@
+{
+ "family_gaps": {
+  "atlop_pe8": {
+   "native": 0.1748160742376813,
+   "sigmoid05": 0.02160761201269346,
+   "prior": 0.02974767709696587
+  },
+  "atlop_full": {
+   "native": 0.18475067927824207,
+   "sigmoid05": 0.024861634712920296,
+   "prior": 0.028835653157320337
+  },
+  "dreeam": {
+   "native": 0.18796249350354188,
+   "sigmoid05": 0.02749966701299529,
+   "prior": 0.02675925379580417
+  },
+  "docunet": {
+   "native": 0.08672861549543542,
+   "sigmoid05": 0.17864735002912058,
+   "prior": 0.024136501640190516
+  },
+  "kddocre": {
+   "native": 0.18134917953782959,
+   "sigmoid05": 0.009942384427372334,
+   "prior": 0.019068055652642555
+  }
+ },
+ "flips": [
+  {
+   "pair": "docunet|kddocre",
+   "sf": -1,
+   "sc": 1,
+   "sp": 1,
+   "verdict": "collapses(pm=sig05)"
+  },
+  {
+   "pair": "dreeam|docunet",
+   "sf": 1,
+   "sc": -1,
+   "sp": 1,
+   "verdict": "collapses(pm=native)"
+  },
+  {
+   "pair": "atlop_pe8|docunet",
+   "sf": 1,
+   "sc": -1,
+   "sp": 1,
+   "verdict": "collapses(pm=native)"
+  },
+  {
+   "pair": "atlop_full|docunet",
+   "sf": 1,
+   "sc": -1,
+   "sp": 1,
+   "verdict": "collapses(pm=native)"
+  },
+  {
+   "pair": "atlop_full|kddocre",
+   "sf": 1,
+   "sc": 1,
+   "sp": 1,
+   "verdict": "collapses(pm=native)"
+  },
+  {
+   "pair": "atlop_pe8|kddocre",
+   "sf": -1,
+   "sc": 1,
+   "sp": 1,
+   "verdict": "collapses(pm=sig05)"
+  },
+  {
+   "pair": "atlop_full|dreeam",
+   "sf": -1,
+   "sc": -1,
+   "sp": 1,
+   "verdict": "PERSISTS"
+  },
+  {
+   "pair": "atlop_pe8|dreeam",
+   "sf": -1,
+   "sc": -1,
+   "sp": 1,
+   "verdict": "PERSISTS"
+  },
+  {
+   "pair": "dreeam|kddocre",
+   "sf": 1,
+   "sc": 1,
+   "sp": 1,
+   "verdict": "collapses(pm=native)"
+  }
+ ],
+ "persist_count": 2,
+ "note": "atlop-family 9 threshold flips; x2|docunet excluded (96-col space, v8)",
+ "ts": "2026-11-17 E3 EXPLORATORY final"
+}
