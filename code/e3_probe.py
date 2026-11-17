@@ -19,7 +19,7 @@ import numpy as np
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
 HERE = Path(__file__).resolve().parent
 ROOT_P3 = HERE.parent
-COMP = Path(r"E:\WorkBuddy\参考文献解读\04_文档级IE")
+COMP = Path(r"<local-workspace>\04_文档级IE")
 PREP = COMP / "out" / "lre_rebuttal_v2" / "prepared"
 RV5 = COMP / "out" / "revision_v5_experiments"
 MIRROR = ROOT_P3 / "out" / "x2_v4" / "runs"
@@ -136,7 +136,7 @@ def pm_gap(fam):
     return float(m[0, F1COL] - m[1, F1COL]), triples
 
 
-r1 = json.loads(Path(r"E:\WorkBuddy\参考文献解读\04_文档级IE\out"
+r1 = json.loads(Path(r"<local-workspace>\04_文档级IE\out"
                      r"\evallever_release_v1_submission\statistics\r1_rank_flip.json")
                 .read_text(encoding="utf-8"))
 pm, triples = {}, {}

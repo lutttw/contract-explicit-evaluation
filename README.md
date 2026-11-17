@@ -38,6 +38,18 @@ resolve/persist split, the corrected Krippendorff α, the Bradley–Terry rank
 stability, and the J1 concordance identity — see `code/README.md` for the
 full check table. As-run producer scripts are included for provenance.
 
+## Data provenance and licensing
+
+The ``data/judge_raw`` records are metadata-level derivatives of the
+[potsawee/chatbot-arena-llm-judges](https://huggingface.co/datasets/potsawee/chatbot-arena-llm-judges)
+dataset, which in turn builds on
+[lmsys/chatbot_arena_conversations](https://huggingface.co/datasets/lmsys/chatbot_arena_conversations)
+(prompts CC-BY-4.0; model outputs CC-BY-NC-4.0). The released records contain
+only per-battle verdict fields (battle id, judge identity, ground-truth and
+predicted labels, three probability floats) --- no conversation text, user
+prompts, or model outputs are redistributed. Upstream attribution is hereby
+given; the records are released for research use.
+
 ## License
 
 CC BY 4.0

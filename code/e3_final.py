@@ -19,10 +19,10 @@ import numpy as np
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
 HERE = Path(__file__).resolve().parent
 ROOT_P3 = HERE.parent
-COMP = Path(r"E:\WorkBuddy\参考文献解读\04_文档级IE")
+COMP = Path(r"<local-workspace>\04_文档级IE")
 PREP = COMP / "out" / "lre_rebuttal_v2" / "prepared"
 RV5 = COMP / "out" / "revision_v5_experiments"
-R1 = Path(r"E:\WorkBuddy\参考文献解读\04_文档级IE\out\evallever_release_v1_submission"
+R1 = Path(r"<local-workspace>\04_文档级IE\out\evallever_release_v1_submission"
           r"\statistics\r1_rank_flip.json")
 OUT = ROOT_P3 / "out" / "x2_v6" / "v7_e3_probe.json"
 

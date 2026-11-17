@@ -26,8 +26,8 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 import p3loader as L  # noqa: E402
 from p3io import bootweights  # noqa: E402
 
-ROOT = Path(r"E:\WorkBuddy\参考文献解读\paper3_stable_agg")
-PREP = Path(r"E:\WorkBuddy\参考文献解读\04_文档级IE\out\lre_rebuttal_v2\prepared")
+ROOT = Path(r"<local-workspace>\paper3_stable_agg")
+PREP = Path(r"<local-workspace>\04_文档级IE\out\lre_rebuttal_v2\prepared")
 
 # NA spurious density 逐文档(boot 需要文档级):fp_pair / max(1, n_cand - n_gold_pairs)
 # 计数阵索引:0=n_cand 6=n_gold_pairs 9=fp_pair
